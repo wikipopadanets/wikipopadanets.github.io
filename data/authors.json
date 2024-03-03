@@ -5116,7 +5116,7 @@
 , "series": []
 
 }
-, {"AuthorId":655,"AuthorName":"Линник Сергей","AuthorEng":"linnik_sergey","AuthorGender":1,"books": [{"y":1980,"bid":412,"b":"Рожден, чтобы бежать\n  \n  Сергей Линник","sc":4,"se":"F","sx":1,"url":"linnik_sergey_1980_rozhden_chtoby_bezhat_sergey_linnik.json"}
+, {"AuthorId":655,"AuthorName":"Линник Сергей","AuthorPictureUrl":"https://cm.author.today/content/2021/03/29/u/docck_637526444468366676.jpg?width=160\u0026height=160\u0026rmode=crop","AuthorEng":"linnik_sergey","AuthorGender":1,"AuthorBirthDate":"11/10/1964 12:00:00 AM","books": [{"y":1980,"bid":412,"b":"Рожден, чтобы бежать","sc":4,"se":"F","sx":1,"url":"linnik_sergey_1980_rozhden_chtoby_bezhat_sergey_linnik.json"}
 , {"y":1941,"bid":1023,"b":"1. Елабуга","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":1,"url":"linnik_sergey_1941_1_elabuga.json"}
 , {"y":1941,"bid":1024,"b":"2. Осень сорок первого, или Возвращение осознанной необходимости","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":1,"url":"linnik_sergey_1941_2_osen_sorok_pervogo_ili_vozvrashchenie_osoznannoy_neobkhodimosti.json"}
 , {"y":1941,"bid":1025,"b":"3. Звук, который ты захочешь услышать","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":1,"url":"linnik_sergey_1941_3_zvuk_kotory_ty_zakhochesh_uslyshat.json"}
