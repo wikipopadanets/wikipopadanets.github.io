@@ -173,4 +173,5 @@
 {"y":1600,"a":"Елманов Валерий","aid":408,"bid":3066,"b":"7. Битвы за корону. Три Федора ","sc":2,"s":"Эффект стрекозы","sid":1048,"se":"S","sx":1,"ad":"","url":"elmanov_valeriy_1600_7_bitvy_za_koronu_tri_fedora_.json"},
 {"y":1600,"a":"Соколов Владимир","aid":1004,"bid":3067,"b":"Записки помощника судьи Лифляндского придворного суда Магнуса фон Вольффельда","sc":3,"s":"","sid":"","se":"P","sx":1,"ad":"","url":"sokolov_vladimir_1600_zapiski_pomoshchnika_sudi_liflyandskogo_pridvornogo_suda_magnusa_fon_volffelda.json"},
 {"y":1600,"a":"Трегубов Олег","aid":1070,"bid":3054,"b":"2. 9 жизней","sc":3,"s":"Другая реальность ","sid":274,"se":"F","sx":1,"ad":"2023-02-07","url":"tregubov_oleg_1600_2_9_zhizney.json"}],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

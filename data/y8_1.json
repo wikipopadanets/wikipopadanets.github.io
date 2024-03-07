@@ -411,4 +411,5 @@
 },
 {"y":8,"a":"Балашов Владимир","aid":150,"bid":3808,"b":"1. Ликабет Книга 2","sc":3,"s":"Ликабет","sid":462,"se":"F","sx":1,"ad":"","url":"balashov_vladimir_8_1_likabet_kniga_2.json", "showFull": true, "details": {"Year":8,"Author":"Балашов Владимир","Book":"1. Ликабет Книга 2","Series":"Ликабет","Annotation":"Россия недалекого будущего. Спецслужбы и маги предлагают бывшему легионеру Валерию Буховцеву путешествие в прошлое. Путешествие с шансом вернуться назад. Возможно это то, о чем он мечтал, но ему предстоят не легкие испытания, и чтобы попасть в прошлое, нужно подготовиться в будущем.","Score":3,"State":"закончено","ReviewNumber":"#Н/Д","BookUrl":"http://samlib.ru/b/balashow_w_a/likabet02.shtml","Nm":2814,"OriginalYear":8,"AuthorName":"Владимир","Gender":1,"SeriesNumber":1,"BookId":3808,"AuthorEng":"balashov_vladimir","BookEng":"1_likabet_kniga_2","SeriesEng":"likabet","StateEnum":"F"}
 }],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

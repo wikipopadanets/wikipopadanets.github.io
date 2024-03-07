@@ -266,4 +266,5 @@
 {"y":1700,"a":"Харников Александр, Дынин Максим","aid":1129,"bid":2884,"b":"2. Жаркая осень в Акадии","sc":2,"s":"Спецназ на тропе войны","sid":856,"se":"F","sx":1,"ad":"2023-08-13","url":"kharnikov_aleksandr_dynin_maksim_1700_2_zharkaya_osen_v_akadii.json"},
 {"y":1700,"a":"Этель Дэй (Ева Луналикая)","aid":1219,"bid":2891,"b":"Попаданка не против любви","sc":3,"s":"","sid":"","se":"F","sx":"","ad":"","url":"etel_dey_eva_lunalikaya__1700_popadanka_ne_protiv_lyubvi.json"},
 {"y":1700,"a":"ЯбLoчКО","aid":1229,"bid":2892,"b":"И вновь цветёт сирень…","sc":3,"s":"","sid":"","se":"F","sx":"","ad":"","url":"yablochko_1700_i_vnov_cvetyot_siren_.json"}],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

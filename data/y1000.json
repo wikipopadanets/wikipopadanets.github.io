@@ -233,4 +233,5 @@
 {"y":1000,"a":"Dikaya Malinka","aid":24,"bid":3602,"b":"Не уходи, прошу тебя","sc":3,"s":"","sid":"","se":"","sx":"","ad":"","url":"dikaya_malinka_1000_ne_ukhodi_proshu_tebya.json"},
 {"y":1000,"a":"Ершова Алёна","aid":414,"bid":3600,"b":"Сфера времени","sc":4,"s":"","sid":"","se":"F","sx":2,"ad":"","url":"ershova_alyona_1000_sfera_vremeni.json"},
 {"y":1000,"a":"Свирина Анна","aid":962,"bid":3601,"b":"Когда Род был человеком","sc":3,"s":"","sid":"","se":"","sx":2,"ad":"2023-02-07","url":"svirina_anna_1000_kogda_rod_byl_chelovekom.json"}],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

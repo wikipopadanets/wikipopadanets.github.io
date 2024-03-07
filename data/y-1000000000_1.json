@@ -185,4 +185,5 @@
 },
 {"y":-60000000,"a":"Ледов Вадим","aid":639,"bid":4020,"b":"2. Записки Мелового периода. Том 2 ","sc":4,"s":"Записки Мелового периода","sid":305,"se":"F","sx":1,"ad":"2023-02-07","url":"ledov_vadim_-60000000_2_zapiski_melovogo_perioda_tom_2_.json", "showFull": true, "details": {"Year":-60000000,"Author":"Ледов Вадим","Book":"2. Записки Мелового периода. Том 2 ","Series":"Записки Мелового периода","Annotation":"Каждый из нас куда-нибудь да попадал. Мы всё про это знаем. Тысячи книг об этом написаны. Но эти ребята и девчата попали по самое, что называется, не балуй, да еще целым Институтом! Так далеко в прошлое, даже Макар телят не гонял.\nЧто-то вроде \"10 негритят\" в сеттинге Мелового периода.\nНаши современники.\nОни все умрут, но это неточно.","Score":4,"State":"закончено","ReviewNumber":"293","FromExternal":"07.02.23 16:50 ИВМ","BookUrl":"https://author.today/work/240800","Nm":3383,"Epoch":"60 млн.лет до н.э.","ReviewUrl":"https://dzen.ru/media/backinussr/novosti-janra-popadancy-v-proshloe-293-63bc32c7a899b50db4d3e3b3","AuthorName":"Вадим","Gender":1,"SeriesNumber":2,"BookId":4020,"AuthorEng":"ledov_vadim","BookEng":"2_zapiski_melovogo_perioda_tom_2_","SeriesEng":"zapiski_melovogo_perioda","StateEnum":"F"}
 }],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

@@ -118,4 +118,5 @@
 {"y":-2180,"a":"Фомин Василий","aid":1115,"bid":3925,"b":"6. Демоны Египта","sc":3,"s":"Легенда о царице","sid":451,"se":"F","sx":1,"ad":"","url":"fomin_vasiliy_-2180_6_demony_egipta.json"},
 {"y":-2250,"a":"Кiра","aid":476,"bid":3926,"b":"(Не)настоящая супруга императора","sc":3,"s":"","sid":"","se":"F","sx":"","ad":"2023-02-07","url":"kira_-2250__ne_nastoyashchaya_supruga_imperatora.json"},
 {"y":-2500,"a":"Эстай Хельга","aid":1218,"bid":3927,"b":"Отпуск во времени","sc":2,"s":"","sid":"","se":"F","sx":"","ad":"2023-02-07","url":"estay_khelga_-2500_otpusk_vo_vremeni.json"}],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

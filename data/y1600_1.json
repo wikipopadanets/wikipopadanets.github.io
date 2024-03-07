@@ -347,4 +347,5 @@
 },
 {"y":1600,"a":"Трегубов Олег","aid":1070,"bid":3054,"b":"2. 9 жизней","sc":3,"s":"Другая реальность ","sid":274,"se":"F","sx":1,"ad":"2023-02-07","url":"tregubov_oleg_1600_2_9_zhizney.json", "showFull": true, "details": {"Year":1600,"Author":"Трегубов Олег","Book":"2. 9 жизней","Series":"Другая реальность ","Annotation":"Самый расцвет инквизиции, гангстерские войны, ужасы сибирской каторги, приключения пиратов и многое другое! И всего один человек, которому даны девять жизней, чтобы постараться изменить этот мир к лучшему!","Score":3,"State":"закончено","ReviewNumber":"63","FromExternal":"07.02.23 16:50 ИВМ","BookUrl":"https://www.litres.ru/oleg-tregubov/9-zhizney/","Nm":3740,"ReviewUrl":"https://author.today/post/97782","AuthorName":"Олег","Gender":1,"SeriesNumber":2,"BookId":3054,"AuthorEng":"tregubov_oleg","BookEng":"2_9_zhizney","SeriesEng":"drugaya_realnost_","StateEnum":"F"}
 }],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

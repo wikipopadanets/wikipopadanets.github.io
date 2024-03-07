@@ -237,4 +237,5 @@
 },
 {"y":-2500,"a":"Эстай Хельга","aid":1218,"bid":3927,"b":"Отпуск во времени","sc":2,"s":"","sid":"","se":"F","sx":"","ad":"2023-02-07","url":"estay_khelga_-2500_otpusk_vo_vremeni.json", "showFull": true, "details": {"Year":-2500,"Author":"Эстай Хельга","Book":"Отпуск во времени","Annotation":"Авдотья и не думала кардинально менять свою жизнь, но судьба распорядилась иначе, и встретив одинокого симпатичного блондина, она оказалась на секретной военной базе космических войск. А если он еще и изобретатель машины времени, то отпуск и вовсе рискует превратиться в увлекательное, но опасное путешествие по древнему Египту, где у каждого есть своя миссия.","Score":2,"State":"закончено","ReviewNumber":"261","FromExternal":"07.02.23 16:50 ИВМ","BookUrl":"https://litgorod.ru/books/view/11589","Nm":3835,"Epoch":"Древний Египет","ReviewUrl":"https://dzen.ru/media/backinussr/novosti-janra-popadancy-v-proshloe-261-63281c2ba34758090f5c8f38?\u0026","AuthorName":"Хельга","BookId":3927,"AuthorEng":"estay_khelga","BookEng":"otpusk_vo_vremeni","StateEnum":"F"}
 }],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

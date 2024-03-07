@@ -205,4 +205,5 @@
 {"y":11,"a":"Джеймс Эрвин","aid":368,"bid":3806,"b":"Рим, Сладкий Рим","sc":3,"s":"","sid":"","se":"P","sx":"","ad":"2023-02-07","url":"dzheyms_ervin_11_rim_sladkiy_rim.json"},
 {"y":8,"a":"Балашов Владимир","aid":150,"bid":3807,"b":"1. Ликабет Книга 1","sc":3,"s":"Ликабет","sid":462,"se":"F","sx":1,"ad":"","url":"balashov_vladimir_8_1_likabet_kniga_1.json"},
 {"y":8,"a":"Балашов Владимир","aid":150,"bid":3808,"b":"1. Ликабет Книга 2","sc":3,"s":"Ликабет","sid":462,"se":"F","sx":1,"ad":"","url":"balashov_vladimir_8_1_likabet_kniga_2.json"}],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

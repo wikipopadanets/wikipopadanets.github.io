@@ -300,4 +300,5 @@
 {"y":1300,"a":"Гринерс Эва","aid":330,"bid":3366,"b":"Счастливый торт Шарлотты","sc":3,"s":"","sid":"","se":"F","sx":"","ad":"","url":"griners_eva_1300_schastlivy_tort_sharlotty.json"},
 {"y":1300,"a":"Дмитриева Рена, Никитин","aid":372,"bid":3367,"b":"Как семиклассник-шиза по имени Виктор на Руси жил","sc":2,"s":"","sid":"","se":"F","sx":"","ad":"","url":"dmitrieva_rena_nikitin_1300_kak_semiklassnik_shiza_po_imeni_viktor_na_rusi_zhil.json"},
 {"y":1300,"a":"Дроздов Анатолий","aid":383,"bid":3368,"b":"Кондотьер Богданов","sc":4,"s":"","sid":"","se":"S","sx":1,"ad":"","url":"drozdov_anatoliy_1300_kondoter_bogdanov.json"}],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }

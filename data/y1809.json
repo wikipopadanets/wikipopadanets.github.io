@@ -498,4 +498,5 @@
 {"y":1810,"a":"Посняков Андрей","aid":869,"bid":2620,"b":"Гусар (2 книги)","sc":3,"s":"Гусар ","sid":230,"se":"S","sx":1,"ad":"","url":"posnyakov_andrey_1810_gusar_2_knigi_.json"},
 {"y":1809,"a":"Гегечкори Владимир","aid":299,"bid":2625,"b":"1. Книга I","sc":3,"s":"Они не пройдут!","sid":599,"se":"F","sx":1,"ad":"","url":"gegechkori_vladimir_1809_1_kniga_i.json"},
 {"y":1809,"a":"Гегечкори Владимир","aid":299,"bid":2626,"b":"2. Книга II","sc":3,"s":"Они не пройдут!","sid":599,"se":"F","sx":1,"ad":"","url":"gegechkori_vladimir_1809_2_kniga_ii.json"}],
- "history": [] }
+ "history": [], "settings": [
+{"name":"maxdate","value":"2024-01-31"}] }
