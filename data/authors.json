@@ -2115,7 +2115,12 @@
 , "series": []
 
 }
-, {"AuthorId":285,"AuthorName":"Вязовский Алексей","AuthorShortInfo":"Писатель и публицист. Все подробности на моем персональном сайте","AuthorBio":"Я экономист, писатель и немного публицист. Возможно, вы знаете меня по книгам серии Сэнгоку Дзидай,либо по моим колонкам в Российской газете или в журнале Компания.\n\nНу а если не знаете, то вот моя биография. Она не поражает воображение: родился, учился, ещё учился, работаю. \n\nЕщё я придумал и редактирую такие популярные сайты, как Ethology.ru (этология человека и животных) и Mygenome.ru (всё, что вы хотели знать о персональной генетике).\nОзнакомиться с моими книгами можно в разделе «Книги».\nРубрики «Статьи» и «Видео» говорят сами за себя.\nЗадать вопросы, поспорить, покритиковать меня можно на сайте Автор Тудей.\nМеня также можно найти в социальных сетях, например, во ВКонтакте.","AuthorPictureUrl":"https://cm.author.today/content/2021/12/11/u/id32837226_637748298299361485.jpg?width=160\u0026height=160\u0026rmode=crop","AuthorUrl":"https://www.vyazovskiy.com","AuthorEng":"vyazovskiy_aleksey","AuthorGender":1,"AuthorBirthDate":"3/18/1978 12:00:00 AM","AuthorVideoUrl":"https://www.youtube.com/embed/-kY-jXC3Mes?wmode=opaque","books": [{"y":1978,"bid":484,"b":"1. Восход Красной Звезды","sc":4,"s":"Режим бога","sid":757,"se":"F","sx":1,"url":"vyazovskiy_aleksey_1978_1_voskhod_krasnoy_zvezdy.json"}
+, {"AuthorId":285,"AuthorName":"Вязовский Алексей","AuthorShortInfo":"Писатель и публицист. Все подробности на моем персональном сайте","AuthorBio":"Я экономист, писатель и немного публицист. Возможно, вы знаете меня по книгам серии Сэнгоку Дзидай,либо по моим колонкам в Российской газете или в журнале Компания.\n\nНу а если не знаете, то вот моя биография. Она не поражает воображение: родился, учился, ещё учился, работаю. \n\nЕщё я придумал и редактирую такие популярные сайты, как Ethology.ru (этология человека и животных) и Mygenome.ru (всё, что вы хотели знать о персональной генетике).\nОзнакомиться с моими книгами можно в разделе «Книги».\nРубрики «Статьи» и «Видео» говорят сами за себя.\nЗадать вопросы, поспорить, покритиковать меня можно на сайте Автор Тудей.\nМеня также можно найти в социальных сетях, например, во ВКонтакте.","AuthorPictureUrl":"https://cm.author.today/content/2021/12/11/u/id32837226_637748298299361485.jpg?width=160\u0026height=160\u0026rmode=crop","AuthorUrl":"https://www.vyazovskiy.com","AuthorEng":"vyazovskiy_aleksey","AuthorGender":1,"AuthorBirthDate":"3/18/1978 12:00:00 AM","AuthorVideoUrl":"https://www.youtube.com/embed/-kY-jXC3Mes?wmode=opaque","books": [{"y":1980,"bid":363,"b":"1. Пятнадцать ножевых","sc":5,"s":"15 ножевых","sid":8,"se":"S","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_1_pyatnadcat_nozhevykh.json"}
+, {"y":1980,"bid":364,"b":"2. Пятнадцать ножевых, том 2","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_2_pyatnadcat_nozhevykh_tom_2.json"}
+, {"y":1980,"bid":365,"b":"3. Пятнадцать ножевых. Том 3","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_3_pyatnadcat_nozhevykh_tom_3.json"}
+, {"y":1980,"bid":366,"b":"4. Пятнадцать ножевых. Том 4","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":1,"ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1980_4_pyatnadcat_nozhevykh_tom_4.json"}
+, {"y":1980,"bid":367,"b":"5. Пятнадцать ножевых. Том 5","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":1,"ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1980_5_pyatnadcat_nozhevykh_tom_5.json"}
+, {"y":1978,"bid":484,"b":"1. Восход Красной Звезды","sc":4,"s":"Режим бога","sid":757,"se":"F","sx":1,"url":"vyazovskiy_aleksey_1978_1_voskhod_krasnoy_zvezdy.json"}
 , {"y":1978,"bid":485,"b":"2. Зенит Красной Звезды","sc":4,"s":"Режим бога","sid":757,"se":"F","sx":1,"url":"vyazovskiy_aleksey_1978_2_zenit_krasnoy_zvezdy.json"}
 , {"y":1978,"bid":486,"b":"3. Триумф Красной Звезды","sc":4,"s":"Режим бога","sid":757,"se":"F","sx":1,"url":"vyazovskiy_aleksey_1978_3_triumf_krasnoy_zvezdy.json"}
 , {"y":1978,"bid":487,"b":"4. Эпоха Красной Звезды","sc":4,"s":"Режим бога","sid":757,"se":"F","sx":1,"url":"vyazovskiy_aleksey_1978_4_epokha_krasnoy_zvezdy.json"}
@@ -2134,9 +2139,19 @@
 , {"y":1964,"bid":886,"b":"3. Том III Я спас СССР!","sc":4,"s":"Я спас СССР!","sid":1058,"se":"F","sx":1,"url":"vyazovskiy_aleksey_1964_3_tom_iii_ya_spas_sssr_.json"}
 , {"y":1964,"bid":887,"b":"4. Том IV Я спас СССР!","sc":4,"s":"Я спас СССР!","sid":1058,"se":"F","sx":1,"url":"vyazovskiy_aleksey_1964_4_tom_iv_ya_spas_sssr_.json"}
 , {"y":1964,"bid":888,"b":"5. Том V Я спас СССР!","sc":4,"s":"Я спас СССР!","sid":1058,"se":"F","sx":1,"url":"vyazovskiy_aleksey_1964_5_tom_v_ya_spas_sssr_.json"}
+, {"y":1941,"bid":1288,"b":"1. Сапёр","sc":4,"s":"Сапер","sid":800,"se":"S","sx":1,"url":"vyazovskiy_aleksey_linnik_sergey_1941_1_sapyor.json"}
+, {"y":1941,"bid":1289,"b":"2. Сапёр 2","sc":4,"s":"Сапер","sid":800,"se":"S","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_2_sapyor_2.json"}
+, {"y":1941,"bid":1290,"b":"3. Сапер. Том III","sc":4,"s":"Сапер","sid":800,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_3_saper_tom_iii.json"}
+, {"y":1941,"bid":1291,"b":"4. Сапёр. Том IV","sc":3,"s":"Сапёр","sid":801,"se":"F","sx":1,"ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
 , {"y":1906,"bid":2031,"b":"1. Я Распутин","sc":4,"s":"Распутин","sid":747,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_1906_1_ya_rasputin.json"}
 , {"y":1906,"bid":2032,"b":"2. Я Распутинъ. Книга вторая","sc":4,"s":"Распутин","sid":747,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_1906_2_ya_rasputin_kniga_vtoraya.json"}
 , {"y":1906,"bid":2033,"b":"3. Я Распутин. Книга третья","sc":4,"s":"Распутин","sid":747,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_1906_3_ya_rasputin_kniga_tretya.json"}
+, {"y":1894,"bid":2240,"b":"1. Столичный доктор","sc":4,"s":"Столичный доктор","sid":868,"se":"F","sx":1,"ad":"2023-12-14","url":"vyazovskiy_aleksey_linnik_sergey_1894_1_stolichny_doktor.json"}
+, {"y":1894,"bid":2241,"b":"2. Столичный доктор. Том II","sc":4,"s":"Столичный доктор","sid":868,"se":"P","sx":1,"ad":"2023-12-14","url":"vyazovskiy_aleksey_linnik_sergey_1894_2_stolichny_doktor_tom_ii.json"}
+, {"y":1773,"bid":2730,"b":"1. Начало","sc":4,"s":"Русский бунт","sid":784,"se":"F","sx":1,"url":"vyazovskiy_aleksey_volya_oleg_1773_1_nachalo.json"}
+, {"y":1773,"bid":2731,"b":"2. Казань","sc":4,"s":"Русский бунт","sid":784,"se":"F","sx":1,"url":"vyazovskiy_aleksey_volya_oleg_1773_2_kazan.json"}
+, {"y":1773,"bid":2732,"b":"3. Две столицы","sc":4,"s":"Русский бунт","sid":784,"se":"F","sx":1,"url":"vyazovskiy_aleksey_volya_oleg_1773_3_dve_stolicy.json"}
+, {"y":1773,"bid":2733,"b":"4. Шапка Мономаха","sc":4,"s":"Русский бунт","sid":784,"se":"F","sx":1,"url":"vyazovskiy_aleksey_volya_oleg_1773_4_shapka_monomakha.json"}
 , {"y":1538,"bid":3173,"b":"1. Эпоха Воюющих провинций ","sc":3,"s":"Сэнгоку Дзидай","sid":887,"se":"S","sx":1,"url":"vyazovskiy_aleksey_1538_1_epokha_voyuyushchikh_provinciy_.json"}
 , {"y":1538,"bid":3174,"b":"2. Микадо. Император из будущего","sc":3,"s":"Сэнгоку Дзидай","sid":887,"se":"S","sx":1,"url":"vyazovskiy_aleksey_1538_2_mikado_imperator_iz_budushchego.json"}
 , {"y":1538,"bid":3175,"b":"3. Император из будущего: Эпоха завоеваний","sc":3,"s":"Сэнгоку Дзидай","sid":887,"se":"S","sx":1,"url":"vyazovskiy_aleksey_1538_3_imperator_iz_budushchego_epokha_zavoevaniy.json"}
@@ -5116,10 +5131,21 @@
 , "series": []
 
 }
-, {"AuthorId":655,"AuthorName":"Линник Сергей","AuthorPictureUrl":"https://cm.author.today/content/2021/03/29/u/docck_637526444468366676.jpg?width=160\u0026height=160\u0026rmode=crop","AuthorEng":"linnik_sergey","AuthorGender":1,"AuthorBirthDate":"11/10/1964 12:00:00 AM","books": [{"y":1980,"bid":412,"b":"Рожден, чтобы бежать","sc":4,"se":"F","sx":1,"url":"linnik_sergey_1980_rozhden_chtoby_bezhat_sergey_linnik.json"}
+, {"AuthorId":655,"AuthorName":"Линник Сергей","AuthorPictureUrl":"https://cm.author.today/content/2021/03/29/u/docck_637526444468366676.jpg?width=160\u0026height=160\u0026rmode=crop","AuthorEng":"linnik_sergey","AuthorGender":1,"AuthorBirthDate":"11/10/1964 12:00:00 AM","books": [{"y":1980,"bid":363,"b":"1. Пятнадцать ножевых","sc":5,"s":"15 ножевых","sid":8,"se":"S","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_1_pyatnadcat_nozhevykh.json"}
+, {"y":1980,"bid":364,"b":"2. Пятнадцать ножевых, том 2","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_2_pyatnadcat_nozhevykh_tom_2.json"}
+, {"y":1980,"bid":365,"b":"3. Пятнадцать ножевых. Том 3","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_3_pyatnadcat_nozhevykh_tom_3.json"}
+, {"y":1980,"bid":366,"b":"4. Пятнадцать ножевых. Том 4","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":1,"ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1980_4_pyatnadcat_nozhevykh_tom_4.json"}
+, {"y":1980,"bid":367,"b":"5. Пятнадцать ножевых. Том 5","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":1,"ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1980_5_pyatnadcat_nozhevykh_tom_5.json"}
+, {"y":1980,"bid":412,"b":"Рожден, чтобы бежать","sc":4,"se":"F","sx":1,"url":"linnik_sergey_1980_rozhden_chtoby_bezhat_sergey_linnik.json"}
+, {"y":1941,"bid":1288,"b":"1. Сапёр","sc":4,"s":"Сапер","sid":800,"se":"S","sx":1,"url":"vyazovskiy_aleksey_linnik_sergey_1941_1_sapyor.json"}
+, {"y":1941,"bid":1289,"b":"2. Сапёр 2","sc":4,"s":"Сапер","sid":800,"se":"S","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_2_sapyor_2.json"}
+, {"y":1941,"bid":1290,"b":"3. Сапер. Том III","sc":4,"s":"Сапер","sid":800,"se":"F","sx":1,"ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_3_saper_tom_iii.json"}
+, {"y":1941,"bid":1291,"b":"4. Сапёр. Том IV","sc":3,"s":"Сапёр","sid":801,"se":"F","sx":1,"ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
 , {"y":1941,"bid":1023,"b":"1. Елабуга","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":1,"url":"linnik_sergey_1941_1_elabuga.json"}
 , {"y":1941,"bid":1024,"b":"2. Осень сорок первого, или Возвращение осознанной необходимости","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":1,"url":"linnik_sergey_1941_2_osen_sorok_pervogo_ili_vozvrashchenie_osoznannoy_neobkhodimosti.json"}
 , {"y":1941,"bid":1025,"b":"3. Звук, который ты захочешь услышать","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":1,"url":"linnik_sergey_1941_3_zvuk_kotory_ty_zakhochesh_uslyshat.json"}
+, {"y":1894,"bid":2240,"b":"1. Столичный доктор","sc":4,"s":"Столичный доктор","sid":868,"se":"F","sx":1,"ad":"2023-12-14","url":"vyazovskiy_aleksey_linnik_sergey_1894_1_stolichny_doktor.json"}
+, {"y":1894,"bid":2241,"b":"2. Столичный доктор. Том II","sc":4,"s":"Столичный доктор","sid":868,"se":"P","sx":1,"ad":"2023-12-14","url":"vyazovskiy_aleksey_linnik_sergey_1894_2_stolichny_doktor_tom_ii.json"}
 ]
 , "series": [{"sid":46,"s":"Андрей Волошин","se":"andrey_voloshin"}
 ]
@@ -5231,7 +5257,8 @@
 , "series": []
 
 }
-, {"AuthorId":669,"AuthorName":"Лопатин Георгий","AuthorEng":"lopatin_georgiy","AuthorGender":1,"books": [{"y":1916,"bid":1938,"b":"1. Экспедиционный корпус","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":1,"ad":"2023-02-07","url":"lopatin_georgiy_1916_1_ekspedicionny_korpus.json"}
+, {"AuthorId":669,"AuthorName":"Лопатин Георгий","AuthorEng":"lopatin_georgiy","AuthorGender":1,"books": [{"y":1980,"bid":4021,"b":"Приказ простой...","sx":1,"url":"lopatin_georgiy_1980_prikaz_prostoy_.json"}
+, {"y":1916,"bid":1938,"b":"1. Экспедиционный корпус","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":1,"ad":"2023-02-07","url":"lopatin_georgiy_1916_1_ekspedicionny_korpus.json"}
 , {"y":1916,"bid":1939,"b":"2. Возвращение экспедиционного корпуса","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":1,"ad":"2023-08-13","url":"lopatin_georgiy_1916_2_vozvrashchenie_ekspedicionnogo_korpusa.json"}
 , {"y":1916,"bid":1940,"b":"3. Гражданская война","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"P","sx":1,"ad":"2023-08-13","url":"lopatin_georgiy_1916_3_grazhdanskaya_voyna.json"}
 , {"y":1916,"bid":1941,"b":"4. Последний и решительный","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"P","sx":1,"ad":"2023-08-13","url":"lopatin_georgiy_1916_4_posledniy_i_reshitelny.json"}
@@ -6286,13 +6313,15 @@
 , "series": []
 
 }
-, {"AuthorId":792,"AuthorName":"Нот Вай, Риддер Аристарх, Форд Крис","AuthorEng":"not_vay_ridder_aristarkh_ford_kris","AuthorGender":1,"books": [{"y":1970,"bid":771,"b":"1. Председатель","sc":3,"s":"Председатель","sid":703,"se":"F","sx":1,"ad":"2023-02-07","url":"not_vay_ridder_aristarkh_ford_kris_1970_1_predsedatel.json"}
+, {"AuthorId":792,"AuthorName":"Нот Вай, Риддер Аристарх, Форд Крис","AuthorEng":"not_vay_ridder_aristarkh_ford_kris","AuthorGender":1,"books": [{"y":2001,"bid":4022,"b":"Максимальный Форсаж","s":"Гонщик","sid":1064,"sx":1,"url":"not_vay_ridder_aristarkh_ford_kris_2001_maksimalny_forsazh.json"}
+, {"y":1970,"bid":771,"b":"1. Председатель","sc":3,"s":"Председатель","sid":703,"se":"F","sx":1,"ad":"2023-02-07","url":"not_vay_ridder_aristarkh_ford_kris_1970_1_predsedatel.json"}
 , {"y":1970,"bid":772,"b":"2. Председатель 2","sc":3,"s":"Председатель","sid":703,"se":"F","sx":1,"ad":"2023-02-07","url":"not_vay_ridder_aristarkh_ford_kris_1970_2_predsedatel_2.json"}
 , {"y":1970,"bid":773,"b":"3. Председатель 3","sc":3,"s":"Председатель","sid":703,"se":"F","sx":1,"ad":"2023-08-13","url":"not_vay_ridder_aristarkh_ford_kris_1970_3_predsedatel_3.json"}
 , {"y":1970,"bid":774,"b":"4. Председатель 4","sc":3,"s":"Председатель","sid":703,"se":"F","sx":1,"ad":"2023-08-13","url":"not_vay_ridder_aristarkh_ford_kris_1970_4_predsedatel_4.json"}
 , {"y":1970,"bid":775,"b":"5. Председатель 5","sc":3,"s":"Председатель","sid":703,"se":"F","sx":1,"ad":"2023-08-13","url":"not_vay_ridder_aristarkh_ford_kris_1970_5_predsedatel_5.json"}
 ]
-, "series": [{"sid":703,"s":"Председатель","se":"predsedatel"}
+, "series": [{"sid":1064,"s":"Гонщик","se":"gonshchik"}
+, {"sid":703,"s":"Председатель","se":"predsedatel"}
 ]
 
 }
@@ -8719,6 +8748,7 @@
 , {"y":1972,"bid":677,"b":"2. Каратист: яростный кулак. Том 2","sc":3,"s":"Каратист","sid":373,"se":"F","sx":1,"ad":"2023-08-13","url":"tynalin_alim_1972_2_karatist_yarostny_kulak_tom_2.json"}
 , {"y":1972,"bid":678,"b":"3. Каратист: путь воина. Том 3","sc":3,"s":"Каратист","sid":373,"se":"F","sx":1,"ad":"2023-08-13","url":"tynalin_alim_1972_3_karatist_put_voina_tom_3.json"}
 , {"y":1972,"bid":679,"b":"4. Каратист: без компромиссов. Том 4","sc":3,"s":"Каратист","sid":373,"se":"P","sx":1,"ad":"2023-10-19","url":"tynalin_alim_1972_4_karatist_bez_kompromissov_tom_4.json"}
+, {"y":1972,"bid":4023,"b":"Усмиритель. Кровавая резня","s":"Усмиритель","sid":1065,"sx":1,"url":"tynalin_alim_1972_usmiritel_krovavaya_reznya.json"}
 , {"y":1972,"bid":697,"b":"1. Фарцовщик: деньги не пахнут. Том 1","sc":3,"s":"Фарцовщик","sid":942,"se":"F","sx":1,"ad":"2023-09-19","url":"tynalin_alim_1972_1_farcovshchik_dengi_ne_pakhnut_tom_1.json"}
 , {"y":1972,"bid":698,"b":"2. Фарцовщик: все деньги мира. Том 2","sc":3,"s":"Фарцовщик","sid":942,"se":"F","sx":1,"ad":"2023-10-19","url":"tynalin_alim_1972_2_farcovshchik_vse_dengi_mira_tom_2.json"}
 , {"y":1972,"bid":699,"b":"3. Фарцовщик: уговор дороже денег. Том 3","sc":3,"s":"Фарцовщик","sid":942,"se":"F","sx":1,"ad":"2024-01-31","url":"tynalin_alim_1972_3_farcovshchik_ugovor_dorozhe_deneg_tom_3.json"}
@@ -8750,6 +8780,7 @@
 , {"sid":349,"s":"Индеец","se":"indeec"}
 , {"sid":373,"s":"Каратист","se":"karatist"}
 , {"sid":612,"s":"Отдел возмездия","se":"otdel_vozmezdiya"}
+, {"sid":1065,"s":"Усмиритель","se":"usmiritel"}
 , {"sid":942,"s":"Фарцовщик","se":"farcovshchik"}
 , {"sid":1036,"s":"Штык ярости","se":"shtyk_yarosti"}
 ]
