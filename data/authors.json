@@ -1629,8 +1629,8 @@
 , {"AuthorId":218,"AuthorName":"Буров Дмитрий","AuthorEng":"burov_dmitriy","AuthorGender":"1","books": [{"y":1978,"bid":497,"b":"1. Простой советский спасатель","sc":3,"s":"Спасатель","sid":847,"se":"F","sx":"1","ad":"2023-02-07","url":"burov_dmitriy_1978_1_prostoy_sovetskiy_spasatel.json"}
 , {"y":1978,"bid":498,"b":"2. Простой советский спасатель-2","sc":3,"s":"Спасатель","sid":847,"se":"F","sx":"1","ad":"2023-02-07","url":"burov_dmitriy_1978_2_prostoy_sovetskiy_spasatel_2.json"}
 , {"y":1978,"bid":499,"b":"3. Простой советский спасатель-3","sc":3,"s":"Спасатель","sid":847,"se":"F","sx":"1","ad":"2023-02-07","url":"burov_dmitriy_1978_3_prostoy_sovetskiy_spasatel_3.json"}
-, {"y":1978,"bid":500,"b":"4. Простой советский спасатель 4","sc":3,"s":"спасатель","sid":847,"se":"F","sx":"1","ad":"2023-08-13","url":"burov_dmitriy_1978_4_prostoy_sovetskiy_spasatel_4.json"}
-, {"y":1978,"bid":501,"b":"5. Простой советский спасатель 5","sc":3,"s":"спасатель","sid":847,"se":"F","sx":"1","ad":"2023-08-13","url":"burov_dmitriy_1978_5_prostoy_sovetskiy_spasatel_5.json"}
+, {"y":1978,"bid":500,"b":"4. Простой советский спасатель 4","sc":3,"s":"Спасатель","sid":847,"se":"F","sx":"1","ad":"2023-08-13","url":"burov_dmitriy_1978_4_prostoy_sovetskiy_spasatel_4.json"}
+, {"y":1978,"bid":501,"b":"5. Простой советский спасатель 5","sc":3,"s":"Спасатель","sid":847,"se":"F","sx":"1","ad":"2023-08-13","url":"burov_dmitriy_1978_5_prostoy_sovetskiy_spasatel_5.json"}
 ]
 , "series": [{"sid":847,"s":"Спасатель","se":"spasatel","a":"Буров Дмитрий"}
 ]
@@ -2139,10 +2139,10 @@
 , {"y":1964,"bid":886,"b":"3. Том III Я спас СССР!","sc":4,"s":"Я спас СССР!","sid":1058,"se":"F","sx":"1","url":"vyazovskiy_aleksey_1964_3_tom_iii_ya_spas_sssr_.json"}
 , {"y":1964,"bid":887,"b":"4. Том IV Я спас СССР!","sc":4,"s":"Я спас СССР!","sid":1058,"se":"F","sx":"1","url":"vyazovskiy_aleksey_1964_4_tom_iv_ya_spas_sssr_.json"}
 , {"y":1964,"bid":888,"b":"5. Том V Я спас СССР!","sc":4,"s":"Я спас СССР!","sid":1058,"se":"F","sx":"1","url":"vyazovskiy_aleksey_1964_5_tom_v_ya_spas_sssr_.json"}
-, {"y":1941,"bid":1288,"b":"1. Сапёр","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","url":"vyazovskiy_aleksey_linnik_sergey_1941_1_sapyor.json"}
-, {"y":1941,"bid":1289,"b":"2. Сапёр 2","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_2_sapyor_2.json"}
+, {"y":1941,"bid":1288,"b":"1. Сапер","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","url":"vyazovskiy_aleksey_linnik_sergey_1941_1_sapyor.json"}
+, {"y":1941,"bid":1289,"b":"2. Сапер 2","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_2_sapyor_2.json"}
 , {"y":1941,"bid":1290,"b":"3. Сапер. Том III","sc":4,"s":"Сапер","sid":801,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_3_saper_tom_iii.json"}
-, {"y":1941,"bid":1291,"b":"4. Сапёр. Том IV","sc":3,"s":"Сапёр","sid":801,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
+, {"y":1941,"bid":1291,"b":"4. Сапер. Том IV","sc":3,"s":"Сапер","sid":801,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
 , {"y":1906,"bid":2031,"b":"1. Я Распутин","sc":4,"s":"Распутин","sid":747,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_1906_1_ya_rasputin.json"}
 , {"y":1906,"bid":2032,"b":"2. Я Распутинъ. Книга вторая","sc":4,"s":"Распутин","sid":747,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_1906_2_ya_rasputin_kniga_vtoraya.json"}
 , {"y":1906,"bid":2033,"b":"3. Я Распутин. Книга третья","sc":4,"s":"Распутин","sid":747,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_1906_3_ya_rasputin_kniga_tretya.json"}
@@ -2181,10 +2181,10 @@
 , {"y":1980,"bid":365,"b":"3. Пятнадцать ножевых. Том 3","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_3_pyatnadcat_nozhevykh_tom_3.json"}
 , {"y":1980,"bid":366,"b":"4. Пятнадцать ножевых. Том 4","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1980_4_pyatnadcat_nozhevykh_tom_4.json"}
 , {"y":1980,"bid":367,"b":"5. Пятнадцать ножевых. Том 5","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1980_5_pyatnadcat_nozhevykh_tom_5.json"}
-, {"y":1941,"bid":1288,"b":"1. Сапёр","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","url":"vyazovskiy_aleksey_linnik_sergey_1941_1_sapyor.json"}
-, {"y":1941,"bid":1289,"b":"2. Сапёр 2","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_2_sapyor_2.json"}
+, {"y":1941,"bid":1288,"b":"1. Сапер","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","url":"vyazovskiy_aleksey_linnik_sergey_1941_1_sapyor.json"}
+, {"y":1941,"bid":1289,"b":"2. Сапер 2","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_2_sapyor_2.json"}
 , {"y":1941,"bid":1290,"b":"3. Сапер. Том III","sc":4,"s":"Сапер","sid":801,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_3_saper_tom_iii.json"}
-, {"y":1941,"bid":1291,"b":"4. Сапёр. Том IV","sc":3,"s":"Сапёр","sid":801,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
+, {"y":1941,"bid":1291,"b":"4. Сапер. Том IV","sc":3,"s":"Сапер","sid":801,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
 , {"y":1894,"bid":2240,"b":"1. Столичный доктор","sc":4,"s":"Столичный доктор","sid":868,"se":"F","sx":"1","ad":"2023-12-14","url":"vyazovskiy_aleksey_linnik_sergey_1894_1_stolichny_doktor.json"}
 , {"y":1894,"bid":2241,"b":"2. Столичный доктор. Том II","sc":4,"s":"Столичный доктор","sid":868,"se":"P","sx":"1","ad":"2023-12-14","url":"vyazovskiy_aleksey_linnik_sergey_1894_2_stolichny_doktor_tom_ii.json"}
 ]
@@ -2912,7 +2912,7 @@
 , {"y":1990,"bid":143,"b":"2. Экстрасенс разбушевался.","sc":3,"s":"Малахольный экстрасенс","sid":470,"se":"S","sx":"1","url":"drozdov_anatoliy_1990_2_ekstrasens_razbushevalsya_.json"}
 , {"y":1975,"bid":611,"b":"Реваншист","sc":4,"se":"F","sx":"1","url":"drozdov_anatoliy_1975_revanshist.json"}
 , {"y":1967,"bid":819,"b":"1. Божья коровка","sc":3,"s":"Божья Коровка","sid":94,"se":"F","sx":"1","ad":"2023-02-07","url":"drozdov_anatoliy_1967_1_bozhya_korovka.json"}
-, {"y":1967,"bid":820,"b":"2. Божья коровка-2","sc":3,"s":"Божья коровка","sid":94,"se":"F","sx":"1","ad":"2023-08-13","url":"drozdov_anatoliy_1967_2_bozhya_korovka_2.json"}
+, {"y":1967,"bid":820,"b":"2. Божья коровка-2","sc":3,"s":"Божья Коровка","sid":94,"se":"F","sx":"1","ad":"2023-08-13","url":"drozdov_anatoliy_1967_2_bozhya_korovka_2.json"}
 , {"y":1941,"bid":1115,"b":"1. Интендант третьего ранга","sc":5,"s":"Интендант","sid":352,"se":"S","sx":"1","url":"drozdov_anatoliy_1941_1_intendant_tretego_ranga.json"}
 , {"y":1941,"bid":1116,"b":"2. Herr Интендантуррат","sc":5,"s":"Интендант","sid":352,"se":"S","sx":"1","url":"drozdov_anatoliy_1941_2_herr_intendanturrat.json"}
 , {"y":1915,"bid":1970,"b":"Господин военлёт","sc":5,"se":"S","sx":"1","url":"drozdov_anatoliy_1915_gospodin_voenlyot.json"}
@@ -3209,7 +3209,7 @@
 , {"AuthorId":421,"AuthorName":"Живцов Николай (Базилио), Риддер Аристарх","AuthorEng":"zhivcov_nikolay_bazilio_ridder_aristarkh","AuthorGender":"1","books": [{"y":1954,"bid":946,"b":"1. Настоящий американец","sc":3,"s":"Настоящий американец","sid":544,"se":"F","sx":"1","ad":"2023-02-07","url":"zhivcov_nikolay_bazilio_ridder_aristarkh_1954_1_nastoyashchiy_amerikanec.json"}
 , {"y":1954,"bid":947,"b":"2. Настоящий американец - 2","sc":3,"s":"Настоящий американец","sid":544,"se":"F","sx":"1","ad":"2023-02-07","url":"zhivcov_nikolay_bazilio_ridder_aristarkh_1954_2_nastoyashchiy_amerikanec_2.json"}
 , {"y":1954,"bid":948,"b":"3. Настоящий американец - 3","sc":3,"s":"Настоящий американец","sid":544,"se":"F","sx":"1","ad":"2023-02-07","url":"zhivcov_nikolay_bazilio_ridder_aristarkh_1954_3_nastoyashchiy_amerikanec_3.json"}
-, {"y":1954,"bid":949,"b":"4. Настоящий Американец - 4","sc":3,"s":"Настоящий Американец","sid":544,"se":"F","sx":"1","ad":"2023-08-13","url":"zhivcov_nikolay_bazilio_ridder_aristarkh_1954_4_nastoyashchiy_amerikanec_4.json"}
+, {"y":1954,"bid":949,"b":"4. Настоящий Американец - 4","sc":3,"s":"Настоящий американец","sid":544,"se":"F","sx":"1","ad":"2023-08-13","url":"zhivcov_nikolay_bazilio_ridder_aristarkh_1954_4_nastoyashchiy_amerikanec_4.json"}
 , {"y":1954,"bid":950,"b":"5. Настоящий американец - 5","sc":3,"s":"Настоящий американец","sid":544,"se":"P","sx":"1","ad":"2023-10-19","url":"zhivcov_nikolay_bazilio_ridder_aristarkh_1954_5_nastoyashchiy_amerikanec_5.json"}
 ]
 , "series": [{"sid":544,"s":"Настоящий американец","se":"nastoyashchiy_amerikanec","a":"Живцов Николай (Базилио), Риддер Аристарх"}
@@ -5136,10 +5136,10 @@
 , {"y":1980,"bid":366,"b":"4. Пятнадцать ножевых. Том 4","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1980_4_pyatnadcat_nozhevykh_tom_4.json"}
 , {"y":1980,"bid":367,"b":"5. Пятнадцать ножевых. Том 5","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1980_5_pyatnadcat_nozhevykh_tom_5.json"}
 , {"y":1980,"bid":412,"b":"Рожден, чтобы бежать","sc":4,"se":"F","sx":"1","url":"linnik_sergey_1980_rozhden_chtoby_bezhat_sergey_linnik.json"}
-, {"y":1941,"bid":1288,"b":"1. Сапёр","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","url":"vyazovskiy_aleksey_linnik_sergey_1941_1_sapyor.json"}
-, {"y":1941,"bid":1289,"b":"2. Сапёр 2","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_2_sapyor_2.json"}
+, {"y":1941,"bid":1288,"b":"1. Сапер","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","url":"vyazovskiy_aleksey_linnik_sergey_1941_1_sapyor.json"}
+, {"y":1941,"bid":1289,"b":"2. Сапер 2","sc":4,"s":"Сапер","sid":801,"se":"S","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_2_sapyor_2.json"}
 , {"y":1941,"bid":1290,"b":"3. Сапер. Том III","sc":4,"s":"Сапер","sid":801,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_3_saper_tom_iii.json"}
-, {"y":1941,"bid":1291,"b":"4. Сапёр. Том IV","sc":3,"s":"Сапёр","sid":801,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
+, {"y":1941,"bid":1291,"b":"4. Сапер. Том IV","sc":3,"s":"Сапер","sid":801,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
 , {"y":1941,"bid":1023,"b":"1. Елабуга","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":"1","url":"linnik_sergey_1941_1_elabuga.json"}
 , {"y":1941,"bid":1024,"b":"2. Осень сорок первого, или Возвращение осознанной необходимости","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":"1","url":"linnik_sergey_1941_2_osen_sorok_pervogo_ili_vozvrashchenie_osoznannoy_neobkhodimosti.json"}
 , {"y":1941,"bid":1025,"b":"3. Звук, который ты захочешь услышать","sc":3,"s":"Андрей Волошин","sid":46,"se":"F","sx":"1","url":"linnik_sergey_1941_3_zvuk_kotory_ty_zakhochesh_uslyshat.json"}
@@ -5694,8 +5694,8 @@
 , {"y":1975,"bid":598,"b":"1. Перезагрузка или Back in the Ussr (3 книги)","sc":3,"s":"Перезагрузка","sid":644,"se":"F","sx":"1","url":"marchenko_gennadiy_1975_perezagruzka_ili_back_in_the_ussr_3_knigi_.json"}
 , {"y":1973,"bid":643,"b":"1. Стилист Том I ","sc":3,"s":"Стилист","sid":865,"se":"F","sx":"1","url":"marchenko_gennadiy_1973_1_stilist_tom_i_.json"}
 , {"y":1973,"bid":644,"b":"2. Стилист Том II ","sc":3,"s":"Стилист","sid":865,"se":"F","sx":"1","url":"marchenko_gennadiy_1973_2_stilist_tom_ii_.json"}
-, {"y":1970,"bid":765,"b":"1. Мой адрес - Советский Союз!","sc":3,"s":"Мой адрес - Советский Союз","sid":508,"se":"F","sx":"1","ad":"2023-02-07","url":"marchenko_gennadiy_1970_1_moy_adres_sovetskiy_soyuz_.json"}
-, {"y":1970,"bid":766,"b":"2. Мой адрес - Советский Союз! книга вторая","sc":3,"s":"Мой адрес - Советский Союз","sid":508,"se":"F","sx":"1","ad":"2023-02-07","url":"marchenko_gennadiy_1970_2_moy_adres_sovetskiy_soyuz_kniga_vtoraya.json"}
+, {"y":1970,"bid":765,"b":"1. Мой адрес - Советский Союз!","sc":3,"s":"Мой адрес - Советский Союз!","sid":508,"se":"F","sx":"1","ad":"2023-02-07","url":"marchenko_gennadiy_1970_1_moy_adres_sovetskiy_soyuz_.json"}
+, {"y":1970,"bid":766,"b":"2. Мой адрес - Советский Союз! книга вторая","sc":3,"s":"Мой адрес - Советский Союз!","sid":508,"se":"F","sx":"1","ad":"2023-02-07","url":"marchenko_gennadiy_1970_2_moy_adres_sovetskiy_soyuz_kniga_vtoraya.json"}
 , {"y":1970,"bid":767,"b":"3. Мой адрес - Советский Союз! Том третий","sc":3,"s":"Мой адрес - Советский Союз!","sid":509,"se":"F","sx":"1","ad":"2023-08-13","url":"marchenko_gennadiy_1970_3_moy_adres_sovetskiy_soyuz_tom_tretiy.json"}
 , {"y":1970,"bid":768,"b":"4. Мой адрес - Советский Союз! Книга четвёртая","sc":3,"s":"Мой адрес - Советский Союз!","sid":509,"se":"F","sx":"1","ad":"2023-08-13","url":"marchenko_gennadiy_1970_4_moy_adres_sovetskiy_soyuz_kniga_chetvyortaya.json"}
 , {"y":1961,"bid":900,"b":"1. Мне снова 15","sc":3,"s":"Музыкант","sid":522,"se":"S","sx":"1","url":"marchenko_gennadiy_1961_1_mne_snova_15.json"}
@@ -5963,7 +5963,7 @@
 , {"y":1941,"bid":1049,"b":"3. Снежный Тайфун","sc":2,"s":"Врата Войны","sid":180,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_3_snezhny_tayfun.json"}
 , {"y":1941,"bid":1050,"b":"4. Вторая \u0027Зимняя Война\u0027","sc":2,"s":"Врата Войны","sid":180,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_4_vtoraya_zimnyaya_voyna_.json"}
 , {"y":1941,"bid":1051,"b":"5. Балканы. Красный рассвет","sc":2,"s":"Врата Войны","sid":180,"se":"S","sx":"2","ad":"2023-02-07","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_5_balkany_krasny_rassvet.json"}
-, {"y":1941,"bid":1052,"b":"6. Операция «Яростный полдень»","sc":3,"s":"Врата войны","sid":180,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_6_operaciya_yarostny_polden_.json"}
+, {"y":1941,"bid":1052,"b":"6. Операция «Яростный полдень»","sc":3,"s":"Врата Войны","sid":180,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_6_operaciya_yarostny_polden_.json"}
 , {"y":1941,"bid":1071,"b":"2. Визит «Полярного Лиса»","sc":2,"s":"Галактические войны ","sid":202,"se":"F","sx":"2","ad":"2023-02-07","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_2_vizit_polyarnogo_lisa_.json"}
 , {"y":1941,"bid":1149,"b":"6. Освободительный поход","sc":2,"s":"Крымский излом","sid":441,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_6_osvoboditelny_pokhod.json"}
 , {"y":1941,"bid":1150,"b":"7. Похищение Европы","sc":2,"s":"Крымский излом","sid":441,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_7_pokhishchenie_evropy.json"}
@@ -6526,9 +6526,9 @@
 ]
 
 }
-, {"AuthorId":823,"AuthorName":"Панфилов Василий","AuthorEng":"panfilov_vasiliy","AuthorGender":"1","books": [{"y":1967,"bid":843,"b":"1. Чужой среди своих","sc":3,"s":"Чужой среди своих 1","sid":1012,"se":"F","sx":"1","ad":"2023-08-13","url":"panfilov_vasiliy_1967_chuzhoy_sredi_svoikh.json"}
-, {"y":1967,"bid":844,"b":"1. Чужой среди своих","sc":3,"s":"Чужой среди своих 2","sid":1013,"se":"F","sx":"1","ad":"2023-12-21","url":"panfilov_vasiliy_1967_chuzhoy_sredi_svoikh.json"}
-, {"y":1967,"bid":845,"b":"1. Чужой среди своих","sc":3,"s":"Чужой среди своих 3","sid":1014,"se":"P","sx":"1","ad":"2023-12-21","url":"panfilov_vasiliy_1967_chuzhoy_sredi_svoikh.json"}
+, {"AuthorId":823,"AuthorName":"Панфилов Василий","AuthorEng":"panfilov_vasiliy","AuthorGender":"1","books": [{"y":1967,"bid":843,"b":"1. Чужой среди своих","sc":3,"s":"Чужой среди своих","sid":1012,"se":"F","sx":"1","ad":"2023-08-13","url":"panfilov_vasiliy_1967_chuzhoy_sredi_svoikh.json"}
+, {"y":1967,"bid":844,"b":"1. Чужой среди своих","sc":3,"s":"Чужой среди своих","sid":1013,"se":"F","sx":"1","ad":"2023-12-21","url":"panfilov_vasiliy_1967_chuzhoy_sredi_svoikh.json"}
+, {"y":1967,"bid":845,"b":"1. Чужой среди своих","sc":3,"s":"Чужой среди своих","sid":1014,"se":"P","sx":"1","ad":"2023-12-21","url":"panfilov_vasiliy_1967_chuzhoy_sredi_svoikh.json"}
 , {"y":1926,"bid":1756,"b":"1. Эффект бабочки","sc":3,"s":"Великая Депрессия","sid":138,"se":"F","sx":"1","url":"panfilov_vasiliy_1926_1_effekt_babochki.json"}
 , {"y":1926,"bid":1757,"b":"2. Полёт нормальный...","sc":3,"s":"Великая Депрессия","sid":138,"se":"F","sx":"1","url":"panfilov_vasiliy_1926_2_polyot_normalny_.json"}
 , {"y":1926,"bid":1758,"b":"3. Время не ждёт!","sc":3,"s":"Великая Депрессия","sid":138,"se":"F","sx":"1","url":"panfilov_vasiliy_1926_3_vremya_ne_zhdyot_.json"}
@@ -8072,7 +8072,7 @@
 , {"y":1989,"bid":161,"b":"08. И вновь Золотая Неделя!","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-02-07","url":"smolin_pavel_aleksandrovich_1989_08_i_vnov_zolotaya_nedelya_.json"}
 , {"y":1989,"bid":162,"b":"09. Активация!","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-02-07","url":"smolin_pavel_aleksandrovich_1989_09_aktivaciya_.json"}
 , {"y":1989,"bid":163,"b":"10. Генезис","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-08-13","url":"smolin_pavel_aleksandrovich_1989_10_genezis.json"}
-, {"y":1989,"bid":164,"b":"11. Возрождение","sc":3,"s":"Моя Анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-10-19","url":"smolin_pavel_aleksandrovich_1989_11_vozrozhdenie.json"}
+, {"y":1989,"bid":164,"b":"11. Возрождение","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-10-19","url":"smolin_pavel_aleksandrovich_1989_11_vozrozhdenie.json"}
 , {"y":1968,"bid":804,"b":"01. Самый лучший пионер","sc":3,"s":"Самый лучший пионер","sid":798,"se":"F","sx":"1","ad":"2023-08-13","url":"smolin_pavel_aleksandrovich_1968_01_samy_luchshiy_pioner.json"}
 , {"y":1968,"bid":805,"b":"02. Самый лучший пионер: Том второй","sc":3,"s":"Самый лучший пионер","sid":798,"se":"F","sx":"1","ad":"2023-08-13","url":"smolin_pavel_aleksandrovich_1968_02_samy_luchshiy_pioner_tom_vtoroy.json"}
 , {"y":1968,"bid":806,"b":"03. Самый лучший комсомолец (СЛП-3)","sc":3,"s":"Самый лучший пионер","sid":798,"se":"F","sx":"1","ad":"2023-08-13","url":"smolin_pavel_aleksandrovich_1968_03_samy_luchshiy_komsomolec_slp_3_.json"}
@@ -9785,9 +9785,9 @@
 , {"y":1971,"bid":721,"b":"03. Ревизор: возвращение в СССР 3","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-08-13","url":"shumilin_artem_vinterkey_serzh_1971_03_revizor_vozvrashchenie_v_sssr_3.json"}
 , {"y":1971,"bid":722,"b":"04. Ревизор: возвращение в СССР 4","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-08-13","url":"shumilin_artem_vinterkey_serzh_1971_04_revizor_vozvrashchenie_v_sssr_4.json"}
 , {"y":1971,"bid":723,"b":"05. Ревизор: возвращение в СССР 5","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-08-13","url":"shumilin_artem_vinterkey_serzh_1971_05_revizor_vozvrashchenie_v_sssr_5.json"}
-, {"y":1971,"bid":724,"b":"06. Ревизор: Возвращение в СССР 6","sc":3,"s":"Ревизор: Возвращение в СССР","sid":755,"se":"F","ad":"2023-08-13","url":"shumilin_artem_vinterkey_serzh_1971_06_revizor_vozvrashchenie_v_sssr_6.json"}
-, {"y":1971,"bid":725,"b":"07. Ревизор: Возвращение в СССР 7","sc":3,"s":"Ревизор: Возвращение в СССР","sid":755,"se":"F","ad":"2023-09-19","url":"shumilin_artem_vinterkey_serzh_1971_07_revizor_vozvrashchenie_v_sssr_7.json"}
-, {"y":1971,"bid":726,"b":"08. Ревизор: Возвращение в СССР 8","sc":3,"s":"Ревизор: Возвращение в СССР","sid":755,"se":"F","ad":"2023-10-19","url":"shumilin_artem_vinterkey_serzh_1971_08_revizor_vozvrashchenie_v_sssr_8.json"}
+, {"y":1971,"bid":724,"b":"06. Ревизор: Возвращение в СССР 6","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-08-13","url":"shumilin_artem_vinterkey_serzh_1971_06_revizor_vozvrashchenie_v_sssr_6.json"}
+, {"y":1971,"bid":725,"b":"07. Ревизор: Возвращение в СССР 7","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-09-19","url":"shumilin_artem_vinterkey_serzh_1971_07_revizor_vozvrashchenie_v_sssr_7.json"}
+, {"y":1971,"bid":726,"b":"08. Ревизор: Возвращение в СССР 8","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-10-19","url":"shumilin_artem_vinterkey_serzh_1971_08_revizor_vozvrashchenie_v_sssr_8.json"}
 , {"y":1971,"bid":727,"b":"09. Ревизор: возвращение в СССР 9","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-10-19","url":"shumilin_artem_vinterkey_serzh_1971_09_revizor_vozvrashchenie_v_sssr_9.json"}
 , {"y":1971,"bid":728,"b":"10. Ревизор: возвращение в СССР 10","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-12-14","url":"shumilin_artem_vinterkey_serzh_1971_10_revizor_vozvrashchenie_v_sssr_10.json"}
 , {"y":1971,"bid":729,"b":"11. Ревизор: возвращение в СССР 11","sc":3,"s":"Ревизор: возвращение в СССР","sid":755,"se":"F","ad":"2023-12-14","url":"shumilin_artem_vinterkey_serzh_1971_11_revizor_vozvrashchenie_v_sssr_11.json"}
