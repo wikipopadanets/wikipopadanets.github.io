@@ -1972,9 +1972,9 @@
 , {"AuthorId":264,"AuthorName":"Войлошниковы Владимир и Ольга","AuthorEng":"voyloshnikovy_vladimir_i_olga","AuthorGender":"2","books": [{"y":1981,"bid":353,"b":"1. СССР: вернуться в детство?..","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"2","ad":"2023-12-14","url":"voyloshnikovy_vladimir_i_olga_1981_1_sssr_vernutsya_v_detstvo_.json"}
 , {"y":1981,"bid":354,"b":"2. СССР: вернуться в детство-2","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"2","ad":"2023-12-14","url":"voyloshnikovy_vladimir_i_olga_1981_2_sssr_vernutsya_v_detstvo_2.json"}
 , {"y":1981,"bid":355,"b":"3. СССР: вернуться в детство-3","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"2","ad":"2024-01-31","url":"voyloshnikovy_vladimir_i_olga_1981_3_sssr_vernutsya_v_detstvo_3.json"}
-, {"y":1981,"bid":4024,"b":"4. СССР: вернуться в детство-4","sc":4,"s":"СССР: вернуться в детство","sid":859,"sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_4_sssr_vernutsya_v_detstvo_4.json"}
-, {"y":1981,"bid":4025,"b":"5. СССР: вернуться в детство-5","sc":4,"s":"СССР: вернуться в детство","sid":859,"sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_5_sssr_vernutsya_v_detstvo_5.json"}
-, {"y":1981,"bid":4026,"b":"6. СССР: вернуться в детство-6","sc":4,"s":"СССР: вернуться в детство","sid":859,"sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_6_sssr_vernutsya_v_detstvo_6.json"}
+, {"y":1981,"bid":4024,"b":"4. СССР: вернуться в детство-4","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_4_sssr_vernutsya_v_detstvo_4.json"}
+, {"y":1981,"bid":4025,"b":"5. СССР: вернуться в детство-5","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_5_sssr_vernutsya_v_detstvo_5.json"}
+, {"y":1981,"bid":4026,"b":"6. СССР: вернуться в детство-6","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_6_sssr_vernutsya_v_detstvo_6.json"}
 ]
 , "series": [{"sid":859,"s":"СССР: вернуться в детство","se":"sssr_vernutsya_v_detstvo","a":"Войлошниковы Владимир и Ольга"}
 ]
