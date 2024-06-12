@@ -1,7 +1,5 @@
 function FindProxyForURL(url, host) {
 
-alert(host);
-
     host = host.toLowerCase();
 
     if (shExpMatch(host, "*.google.com") || host == "google.com"))
