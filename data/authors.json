@@ -92,8 +92,10 @@
 , {"y":1983,"bid":298,"b":"2. Рыжий","sc":4,"s":"Шаровая молния","sid":1020,"se":"F","sx":"1","ad":"2023-02-07","url":"berest_alex_1983_2_ryzhiy.json"}
 , {"y":1983,"bid":299,"b":"3. Рыжий - 2","sc":4,"s":"Шаровая Молния","sid":1020,"se":"P","sx":"1","ad":"2023-02-07","url":"berest_alex_1983_3_ryzhiy_2.json"}
 , {"y":1894,"bid":2244,"b":"Великий диктатор","sc":3,"se":"P","sx":"1","ad":"2023-08-13","url":"berest_alex_1894_velikiy_diktator.json"}
+, {"y":1894,"bid":5114,"b":"3. Великий диктатор. Книга третья","sc":3,"s":"Диктатор","sid":1135,"ad":"2025-02-28","url":"berest_alex_1894_3_velikiy_diktator_kniga_tretya.json"}
 ]
-, "series": [{"sid":1020,"s":"Шаровая молния","se":"sharovaya_molniya","a":"Berest Alex"}
+, "series": [{"sid":1135,"s":"Диктатор","se":"diktator","a":"Berest Alex"}
+, {"sid":1020,"s":"Шаровая молния","se":"sharovaya_molniya","a":"Berest Alex"}
 ]
 
 }
@@ -353,14 +355,17 @@
 , "series": []
 
 }
-, {"AuthorId":60,"AuthorName":"RedDetonator","AuthorEng":"reddetonator","books": [{"y":1580,"bid":3088,"b":"Гайавата","sc":3,"se":"F","url":"reddetonator_1580_gayavata.json"}
+, {"AuthorId":60,"AuthorName":"RedDetonator","AuthorEng":"reddetonator","books": [{"y":1904,"bid":5105,"b":"Наши уже не придут","sc":3,"s":"НУнП","sid":1130,"ad":"2025-02-28","url":"reddetonator_1904_nashi_uzhe_ne_pridut.json"}
+, {"y":1580,"bid":3088,"b":"Гайавата","sc":3,"se":"F","url":"reddetonator_1580_gayavata.json"}
 , {"y":1469,"bid":3271,"b":"1. Науа-Ацтек","sc":3,"s":"Ацтек","sid":63,"se":"F","url":"reddetonator_1469_1_naua_actek.json"}
+, {"y":1469,"bid":5156,"b":"2. Науа-Ацтек","sc":3,"s":"Ацтек","sid":63,"ad":"2025-02-28","url":"reddetonator_1469_2_naua_actek.json"}
 , {"y":396,"bid":3769,"b":"1. Чингисхан. Сотрясая Вселенную","sc":3,"s":" Сотрясатель Вселенной","sid":2,"se":"F","ad":"2023-02-07","url":"reddetonator_396_1_chingiskhan_sotryasaya_vselennuyu.json"}
 , {"y":396,"bid":3770,"b":"2. Пядь земли","sc":3,"s":"Сотрясатель Вселенной","sid":843,"se":"F","ad":"2023-08-13","url":"reddetonator_396_2_pyad_zemli.json"}
 , {"y":396,"bid":3771,"b":"3. Демон Востока","sc":3,"s":"Сотрясатель Вселенной","sid":843,"se":"F","ad":"2023-08-13","url":"reddetonator_396_3_demon_vostoka.json"}
 ]
 , "series": [{"sid":2,"s":" Сотрясатель Вселенной","se":"_sotryasatel_vselennoy","a":"RedDetonator"}
 , {"sid":63,"s":"Ацтек","se":"actek","a":"RedDetonator"}
+, {"sid":1130,"s":"НУнП","se":"nunp","a":"RedDetonator"}
 , {"sid":843,"s":"Сотрясатель Вселенной","se":"sotryasatel_vselennoy","a":"RedDetonator"}
 ]
 
@@ -375,7 +380,8 @@
 , "series": []
 
 }
-, {"AuthorId":63,"AuthorName":"shellina","AuthorEng":"shellina","AuthorGender":"2","books": [{"y":1742,"bid":2803,"b":"1. Внук Петра Великого","sc":3,"s":"Внук Петра Великого","sid":158,"se":"F","sx":"2","ad":"2023-02-07","url":"shellina_1742_1_vnuk_petra_velikogo.json"}
+, {"AuthorId":63,"AuthorName":"shellina","AuthorEng":"shellina","AuthorGender":"2","books": [{"y":1801,"bid":5138,"b":"Александр","sc":3,"s":"Александр","sid":1151,"ad":"2025-02-28","url":"shellina_1801_aleksandr.json"}
+, {"y":1742,"bid":2803,"b":"1. Внук Петра Великого","sc":3,"s":"Внук Петра Великого","sid":158,"se":"F","sx":"2","ad":"2023-02-07","url":"shellina_1742_1_vnuk_petra_velikogo.json"}
 , {"y":1742,"bid":2804,"b":"2. Проблема выбора","sc":3,"s":"Внук Петра Великого","sid":158,"se":"F","sx":"2","ad":"2023-02-07","url":"shellina_1742_2_problema_vybora.json"}
 , {"y":1742,"bid":2805,"b":"3. Ярмарка невест","sc":3,"s":"Внук Петра Великого","sid":158,"se":"F","sx":"2","ad":"2023-02-07","url":"shellina_1742_3_yarmarka_nevest.json"}
 , {"y":1742,"bid":2806,"b":"4. Великокняжеский вояж","sc":3,"s":"Внук Петра Великого","sid":158,"se":"F","sx":"2","ad":"2023-02-07","url":"shellina_1742_4_velikoknyazheskiy_voyazh.json"}
@@ -389,13 +395,15 @@
 , {"y":1729,"bid":2829,"b":"5. Достигнуть границ","sc":3,"s":"Петр","sid":651,"se":"F","sx":"2","ad":"2023-02-07","url":"shellina_1729_5_dostignut_granic.json"}
 , {"y":1480,"bid":3246,"b":"2. Рисорджименто","sc":4,"s":"Противоположности","sid":726,"se":"F","sx":"2","url":"shellina_1480_2_risordzhimento.json"}
 ]
-, "series": [{"sid":158,"s":"Внук Петра Великого","se":"vnuk_petra_velikogo","a":"shellina"}
+, "series": [{"sid":1151,"s":"Александр","se":"aleksandr","a":"shellina"}
+, {"sid":158,"s":"Внук Петра Великого","se":"vnuk_petra_velikogo","a":"shellina"}
 , {"sid":651,"s":"Петр","se":"petr","a":"shellina"}
 , {"sid":726,"s":"Противоположности","se":"protivopolozhnosti","a":"shellina"}
 ]
 
 }
 , {"AuthorId":64,"AuthorName":"shellina, Amaranthe","AuthorEng":"shellina_amaranthe","books": [{"y":1480,"bid":3247,"b":"1. Сквозь время","sc":4,"s":"Противоположности","sid":727,"se":"F","ad":"2023-02-07","url":"shellina_amaranthe_1480_1_skvoz_vremya.json"}
+, {"y":1480,"bid":5155,"b":"2\u0026 2 Рисорджименто","sc":3,"s":"Противоположности","sid":727,"ad":"2025-02-28","url":"shellina_amaranthe_1480_2_2_risordzhimento.json"}
 ]
 , "series": [{"sid":727,"s":"Противоположности","se":"protivopolozhnosti","a":"shellina, Amaranthe"}
 ]
@@ -553,6 +561,7 @@
 }
 , {"AuthorId":88,"AuthorName":"Агарев Вадим","AuthorEng":"agarev_vadim","AuthorGender":"1","books": [{"y":1977,"bid":549,"b":"01. Совок","sc":5,"s":"Совок","sid":835,"se":"F","sx":"1","ad":"2023-02-07","url":"agarev_vadim_1977_01_sovok.json"}
 , {"y":1977,"bid":550,"b":"02. Совок - 2","sc":3,"s":"Совок","sid":835,"se":"F","sx":"1","ad":"2023-02-07","url":"agarev_vadim_1977_02_sovok_2.json"}
+, {"y":1977,"bid":5037,"b":"03 - 13. Совок - 3 - 13","sc":2,"s":"Совок","sid":835,"ad":"2025-02-28","url":"agarev_vadim_1977_03_13_sovok_3_13.json"}
 , {"y":1977,"bid":551,"b":"03. Совок - 3","sc":3,"s":"Совок","sid":835,"se":"F","sx":"1","ad":"2023-02-07","url":"agarev_vadim_1977_03_sovok_3.json"}
 , {"y":1977,"bid":552,"b":"04. Совок - 4","sc":3,"s":"Совок","sid":835,"se":"F","sx":"1","ad":"2023-02-07","url":"agarev_vadim_1977_04_sovok_4.json"}
 , {"y":1977,"bid":553,"b":"05. Совок - 5","sc":3,"s":"Совок","sid":835,"se":"F","sx":"1","ad":"2023-02-07","url":"agarev_vadim_1977_05_sovok_5.json"}
@@ -569,6 +578,7 @@
 , {"AuthorId":89,"AuthorName":"Агишев Руслан","AuthorEng":"agishev_ruslan","AuthorGender":"1","books": [{"y":1941,"bid":1370,"b":"Непосланный посланник","sc":3,"se":"S","sx":"1","url":"agishev_ruslan_1941_neposlanny_poslannik.json"}
 , {"y":1941,"bid":1329,"b":"1. Физик против вермахта","sc":2,"s":"Физики и лирики против вермахта","sid":946,"se":"F","sx":"1","ad":"2024-01-31","url":"agishev_ruslan_1941_1_fizik_protiv_vermakhta.json"}
 , {"y":1941,"bid":1330,"b":"2. Лирик против вермахта","sc":2,"s":"Физики и лирики против вермахта","sid":946,"se":"P","sx":"1","ad":"2024-01-31","url":"agishev_ruslan_1941_2_lirik_protiv_vermakhta.json"}
+, {"y":1837,"bid":5131,"b":"1 -2 Ай да Пушкин, ай да, с... сын!","sc":3,"s":"Вселенец в Александра Сергеевича Пушкина","sid":1146,"ad":"2025-02-28","url":"agishev_ruslan_1837_1_2_ay_da_pushkin_ay_da_s_syn_.json"}
 , {"y":1835,"bid":2539,"b":"1.Бич Божий. Книга 1. Полумесяц и крест ","sc":3,"s":"Бич Божий","sid":87,"se":"F","sx":"1","ad":"2023-02-07","url":"agishev_ruslan_1835_1_bich_bozhiy_kniga_1_polumesyac_i_krest_.json"}
 , {"y":1835,"bid":2540,"b":"2.Бич Божий. Книга 2. Крест и полумесяц","sc":3,"s":"Бич Божий","sid":87,"se":"F","sx":"1","ad":"2023-02-07","url":"agishev_ruslan_1835_2_bich_bozhiy_kniga_2_krest_i_polumesyac.json"}
 , {"y":1835,"bid":2541,"b":"3.Бич Божий. Книга 3. Последний поход","sc":3,"s":"Бич Божий","sid":87,"se":"P","sx":"1","ad":"2023-02-07","url":"agishev_ruslan_1835_3_bich_bozhiy_kniga_3_posledniy_pokhod.json"}
@@ -577,6 +587,7 @@
 , {"y":1552,"bid":3139,"b":"3. Подменный амператор","sc":3,"s":"Идущий сквозь миры","sid":331,"sx":"1","ad":"2023-02-07","url":"agishev_ruslan_1552_3_podmenny_amperator.json"}
 ]
 , "series": [{"sid":87,"s":"Бич Божий","se":"bich_bozhiy","a":"Агишев Руслан"}
+, {"sid":1146,"s":"Вселенец в Александра Сергеевича Пушкина","se":"vselenec_v_aleksandra_sergeevicha_pushkina","a":"Агишев Руслан"}
 , {"sid":331,"s":"Идущий сквозь миры","se":"idushchiy_skvoz_miry","a":"Агишев Руслан"}
 , {"sid":946,"s":"Физики и лирики против вермахта","se":"fiziki_i_liriki_protiv_vermakhta","a":"Агишев Руслан"}
 ]
@@ -675,8 +686,10 @@
 , {"y":1950,"bid":970,"b":"5. Нападающий вратарь. Книга пятая. Фестиваль","sc":3,"s":"Нападающий вратарь","sid":538,"se":"F","sx":"1","ad":"2023-02-07","url":"alekseev_aleksandr_1950_5_napadayushchiy_vratar_kniga_pyataya_festival.json"}
 , {"y":1950,"bid":971,"b":"6. Нападающий вратарь. Книга шестая. Олимпийские, первые, жаркие!","sc":3,"s":"Нападающий вратарь","sid":538,"se":"F","sx":"1","ad":"2023-02-07","url":"alekseev_aleksandr_1950_6_napadayushchiy_vratar_kniga_shestaya_olimpiyskie_pervye_zharkie_.json"}
 , {"y":1950,"bid":965,"b":"7. 1952","sc":3,"s":"Нападающий вратарь","sid":538,"se":"F","sx":"1","ad":"2023-08-13","url":"alekseev_aleksandr_1950_7_1952.json"}
+, {"y":1592,"bid":5150,"b":"Бастард. Книга первая. Смута","sc":3,"s":"Бастард","sid":1160,"ad":"2025-02-28","url":"alekseev_aleksandr_1592_bastard_kniga_pervaya_smuta.json"}
 ]
-, "series": [{"sid":538,"s":"Нападающий вратарь","se":"napadayushchiy_vratar","a":"Алексеев Александр"}
+, "series": [{"sid":1160,"s":"Бастард","se":"bastard","a":"Алексеев Александр"}
+, {"sid":538,"s":"Нападающий вратарь","se":"napadayushchiy_vratar","a":"Алексеев Александр"}
 ]
 
 }
@@ -754,13 +767,17 @@
 , {"y":1941,"bid":1359,"b":"3. Эсминцы и сражение на Балтике","sc":3,"s":"Эсминцы и коса смерти","sid":1045,"se":"F","ad":"2023-02-07","url":"angelov_avgustin_1941_3_esmincy_i_srazhenie_na_baltike.json"}
 , {"y":1941,"bid":1360,"b":"4. Эсминцы против линкоров","sc":3,"s":"Эсминцы и коса смерти","sid":1045,"se":"F","ad":"2023-02-07","url":"angelov_avgustin_1941_4_esmincy_protiv_linkorov.json"}
 , {"y":1941,"bid":1361,"b":"5. Вся мощь Моонзунда","sc":3,"s":"Эсминцы и коса смерти","sid":1045,"se":"F","ad":"2023-08-13","url":"angelov_avgustin_1941_5_vsya_moshch_moonzunda.json"}
+, {"y":1928,"bid":5094,"b":"1928 год: ликвидировать ликвидаторов. Том 1","sc":3,"s":"\"\"1928","sid":1120,"ad":"2025-02-28","url":"angelov_avgustin_1928_1928_god_likvidirovat_likvidatorov_tom_1.json"}
 , {"y":1826,"bid":2567,"b":"3. Битва за Ладогу","sc":3,"s":"Арка в скале","sid":56,"se":"P","ad":"2023-08-13","url":"angelov_avgustin_1826_3_bitva_za_ladogu.json"}
+, {"y":1805,"bid":5134,"b":"1 -2 Герои Аустерлица","sc":3,"s":"Герои Аустерлица","sid":1148,"ad":"2025-02-28","url":"angelov_avgustin_1805_1_2_geroi_austerlica.json"}
 , {"y":1579,"bid":3091,"b":"1. Когда время штормит","sc":3,"s":"Когда время штормит","sid":396,"se":"F","ad":"2023-12-14","url":"angelov_avgustin_1579_1_kogda_vremya_shtormit.json"}
 , {"y":1579,"bid":3092,"b":"2. Лучше, чем пираты","sc":3,"s":"Когда время штормит","sid":396,"se":"F","ad":"2023-12-14","url":"angelov_avgustin_1579_2_luchshe_chem_piraty.json"}
 , {"y":1579,"bid":3093,"b":"3. Где исчезают корабли","sc":3,"s":"Когда время штормит","sid":396,"se":"P","ad":"2024-01-31","url":"angelov_avgustin_1579_3_gde_ischezayut_korabli.json"}
 , {"y":990,"bid":3606,"b":"Прибытие Кетцалькоатля","sc":3,"se":"F","ad":"2023-02-07","url":"angelov_avgustin_990_pribytie_ketcalkoatlya.json"}
 ]
-, "series": [{"sid":56,"s":"Арка в скале","se":"arka_v_skale","a":"Ангелов Августин"}
+, "series": [{"sid":1120,"s":"\"\"1928","se":"_1928","a":"Ангелов Августин"}
+, {"sid":56,"s":"Арка в скале","se":"arka_v_skale","a":"Ангелов Августин"}
+, {"sid":1148,"s":"Герои Аустерлица","se":"geroi_austerlica","a":"Ангелов Августин"}
 , {"sid":396,"s":"Когда время штормит","se":"kogda_vremya_shtormit","a":"Ангелов Августин"}
 , {"sid":1045,"s":"Эсминцы и коса смерти","se":"esmincy_i_kosa_smerti","a":"Ангелов Августин"}
 ]
@@ -846,13 +863,16 @@
 , "series": []
 
 }
-, {"AuthorId":129,"AuthorName":"Артемьев Юрий","AuthorEng":"artemev_yuriy","AuthorGender":"1","books": [{"y":1969,"bid":794,"b":"1. Котёнок выпускает когти","sc":3,"s":"Котти","sid":430,"se":"F","sx":"1","ad":"2023-08-13","url":"artemev_yuriy_1969_1_kotyonok_vypuskaet_kogti.json"}
+, {"AuthorId":129,"AuthorName":"Артемьев Юрий","AuthorEng":"artemev_yuriy","AuthorGender":"1","books": [{"y":1974,"bid":5048,"b":"Братья по крови","sc":3,"s":"Братья по крови","sid":1093,"ad":"2025-02-28","url":"artemev_yuriy_1974_bratya_po_krovi.json"}
+, {"y":1969,"bid":794,"b":"1. Котёнок выпускает когти","sc":3,"s":"Котти","sid":430,"se":"F","sx":"1","ad":"2023-08-13","url":"artemev_yuriy_1969_1_kotyonok_vypuskaet_kogti.json"}
 , {"y":1969,"bid":795,"b":"2. Котёнок на тропе войны","sc":3,"s":"Котти","sid":430,"se":"F","sx":"1","ad":"2023-08-13","url":"artemev_yuriy_1969_2_kotyonok_na_trope_voyny.json"}
 , {"y":1969,"bid":796,"b":"3. Девочка со скрипкой","sc":3,"s":"Котти","sid":430,"se":"F","sx":"1","ad":"2023-08-13","url":"artemev_yuriy_1969_3_devochka_so_skripkoy.json"}
 , {"y":1969,"bid":797,"b":"4. Котёнок в поисках дома. Часть 1 и 2","sc":3,"s":"Котти","sid":430,"se":"F","sx":"1","ad":"2023-08-13","url":"artemev_yuriy_1969_4_kotyonok_v_poiskakh_doma_chast_1_i_2.json"}
 , {"y":1969,"bid":798,"b":"5. Ассоциация вольных стрелков имени товарища Вильгельма Телля и друга его Робина Гуда","sc":3,"s":"Котти","sid":430,"se":"F","sx":"1","ad":"2023-08-13","url":"artemev_yuriy_1969_5_associaciya_volnykh_strelkov_imeni_tovarishcha_vilgelma_tellya_i_druga_ego_robina_guda.json"}
+, {"y":1969,"bid":5059,"b":"6. Ассоциация вольных стрелков имени товарища Вильгельма Телля и друга его Робина Гуда.","sc":3,"s":"Котти","sid":430,"ad":"2025-02-28","url":"artemev_yuriy_1969_6_associaciya_volnykh_strelkov_imeni_tovarishcha_vilgelma_tellya_i_druga_ego_robina_guda_.json"}
 ]
-, "series": [{"sid":430,"s":"Котти","se":"kotti","a":"Артемьев Юрий"}
+, "series": [{"sid":1093,"s":"Братья по крови","se":"bratya_po_krovi","a":"Артемьев Юрий"}
+, {"sid":430,"s":"Котти","se":"kotti","a":"Артемьев Юрий"}
 ]
 
 }
@@ -880,8 +900,10 @@
 , {"y":1977,"bid":546,"b":"12. ТОП сериал 1978","sc":3,"s":"Регрессор в СССР","sid":756,"se":"F","sx":"1","ad":"2023-02-07","url":"arkh_maksim_1977_12_top_serial_1978.json"}
 , {"y":1977,"bid":547,"b":"13. Догнать и перегнать 1978","sc":3,"s":"Регрессор в СССР","sid":756,"se":"F","sx":"1","ad":"2023-08-13","url":"arkh_maksim_1977_13_dognat_i_peregnat_1978.json"}
 , {"y":1977,"bid":548,"b":"14. Шок и трепет 1978","sc":3,"s":"Регрессор в СССР","sid":756,"se":"F","sx":"1","ad":"2023-12-14","url":"arkh_maksim_1977_14_shok_i_trepet_1978.json"}
+, {"y":1941,"bid":5083,"b":"1 - 4 Неправильный солдат Забабашкин","sc":3,"s":"Неправильный солдат Забабашкин","sid":1110,"ad":"2025-02-28","url":"arkh_maksim_1941_1_4_nepravilny_soldat_zababashkin.json"}
 ]
-, "series": [{"sid":756,"s":"Регрессор в СССР","se":"regressor_v_sssr","a":"Арх Максим"}
+, "series": [{"sid":1110,"s":"Неправильный солдат Забабашкин","se":"nepravilny_soldat_zababashkin","a":"Арх Максим"}
+, {"sid":756,"s":"Регрессор в СССР","se":"regressor_v_sssr","a":"Арх Максим"}
 ]
 
 }
@@ -1069,15 +1091,21 @@
 , {"y":1972,"bid":669,"b":"3. Нелегал","sc":3,"s":"Игры разума","sid":330,"se":"F","sx":"1","ad":"2023-08-13","url":"barchuk_pavel_larin_pavel_1972_3_nelegal.json"}
 , {"y":1972,"bid":670,"b":"4. Крот","sc":3,"s":"Игры разума","sid":330,"se":"F","sx":"1","ad":"2023-09-19","url":"barchuk_pavel_larin_pavel_1972_4_krot.json"}
 , {"y":1972,"bid":671,"b":"5. Перебежчик","sc":3,"s":"Игры разума","sid":330,"se":"F","sx":"1","ad":"2023-10-19","url":"barchuk_pavel_larin_pavel_1972_5_perebezhchik.json"}
+, {"y":1946,"bid":5070,"b":"Капитан Волков 1 -2 ","sc":3,"s":"Капитан Волков","sid":1106,"ad":"2025-02-28","url":"barchuk_pavel_larin_pavel_1946_kapitan_volkov_1_2_.json"}
+, {"y":1939,"bid":5073,"b":"Позывной \"\"Курсант -  книги 1 - 2","sc":3,"s":"Позывной \"\"Курсант - 2\"\"","sid":1108,"ad":"2025-02-28","url":"barchuk_pavel_larin_pavel_1939_pozyvnoy_kursant_knigi_1_2.json"}
 ]
 , "series": [{"sid":330,"s":"Игры разума","se":"igry_razuma","a":"Барчук Павел, Ларин Павел"}
+, {"sid":1106,"s":"Капитан Волков","se":"kapitan_volkov","a":"Барчук Павел, Ларин Павел"}
 , {"sid":586,"s":"ОБХСС","se":"obkhss","a":"Барчук Павел, Ларин Павел"}
+, {"sid":1108,"s":"Позывной \"\"Курсант - 2\"\"","se":"pozyvnoy_kursant_2_","a":"Барчук Павел, Ларин Павел"}
 ]
 
 }
-, {"AuthorId":157,"AuthorName":"Барчук Павел, Прядеев Евгений","AuthorEng":"barchuk_pavel_pryadeev_evgeniy","AuthorGender":"1","books": [{"y":1938,"bid":1627,"b":"1. Позывной \"Курсант\"","sc":3,"s":"Позывной \"Курсант\"","sid":677,"se":"P","sx":"1","ad":"2024-01-31","url":"barchuk_pavel_pryadeev_evgeniy_1938_pozyvnoy_kursant_.json"}
+, {"AuthorId":157,"AuthorName":"Барчук Павел, Прядеев Евгений","AuthorEng":"barchuk_pavel_pryadeev_evgeniy","AuthorGender":"1","books": [{"y":1938,"bid":5087,"b":"Позывной \"\"Курсант\"\" 2 - 4 ","sc":3,"s":"Позывной \"\"Курсант\"\"","sid":1113,"ad":"2025-02-28","url":"barchuk_pavel_pryadeev_evgeniy_1938_pozyvnoy_kursant_2_4_.json"}
+, {"y":1938,"bid":1627,"b":"1. Позывной \"Курсант\"","sc":3,"s":"Позывной \"Курсант\"","sid":677,"se":"P","sx":"1","ad":"2024-01-31","url":"barchuk_pavel_pryadeev_evgeniy_1938_pozyvnoy_kursant_.json"}
 ]
-, "series": [{"sid":677,"s":"Позывной \"Курсант\"","se":"pozyvnoy_kursant_","a":"Барчук Павел, Прядеев Евгений"}
+, "series": [{"sid":1113,"s":"Позывной \"\"Курсант\"\"","se":"pozyvnoy_kursant_","a":"Барчук Павел, Прядеев Евгений"}
+, {"sid":677,"s":"Позывной \"Курсант\"","se":"pozyvnoy_kursant_","a":"Барчук Павел, Прядеев Евгений"}
 ]
 
 }
@@ -1145,6 +1173,7 @@
 , {"y":1941,"bid":1294,"b":"1. Солдат","sc":4,"s":"Солдат","sid":836,"se":"F","sx":"1","url":"bashibuzuk_aleksandr_1941_1_soldat.json"}
 , {"y":1941,"bid":1295,"b":"2. Солдат. Истина всегда одна","sc":4,"s":"Солдат","sid":836,"se":"F","sx":"1","ad":"2023-02-07","url":"bashibuzuk_aleksandr_1941_2_soldat_istina_vsegda_odna.json"}
 , {"y":1941,"bid":1296,"b":"3. Солдат. Мертвый и живой","sc":4,"s":"Солдат","sid":836,"se":"F","sx":"1","ad":"2023-02-07","url":"bashibuzuk_aleksandr_1941_3_soldat_mertvy_i_zhivoy.json"}
+, {"y":1921,"bid":5096,"b":"Помощник ездового","sc":4,"s":"Офицер","sid":1122,"ad":"2025-02-28","url":"bashibuzuk_aleksandr_1921_pomoshchnik_ezdovogo.json"}
 , {"y":1920,"bid":1818,"b":"1. Его Высокоблагородие","sc":4,"s":"Эмигрант","sid":1041,"se":"S","sx":"1","url":"bashibuzuk_aleksandr_1920_1_ego_vysokoblagorodie.json"}
 , {"y":1920,"bid":1819,"b":"2. Господин поручик","sc":4,"s":"Эмигрант","sid":1041,"se":"S","sx":"1","url":"bashibuzuk_aleksandr_1920_2_gospodin_poruchik.json"}
 , {"y":1910,"bid":2007,"b":"1. Город греха. Бутлегер и его пес.","sc":3,"s":"Город греха","sid":218,"se":"F","sx":"1","url":"bashibuzuk_aleksandr_1910_1_gorod_grekha_butleger_i_ego_pes_.json"}
@@ -1167,6 +1196,7 @@
 ]
 , "series": [{"sid":218,"s":"Город греха","se":"gorod_grekha","a":"Башибузук Александр"}
 , {"sid":604,"s":"Оранжевая страна","se":"oranzhevaya_strana","a":"Башибузук Александр"}
+, {"sid":1122,"s":"Офицер","se":"oficer","a":"Башибузук Александр"}
 , {"sid":633,"s":"Очень дикий Восток","se":"ochen_dikiy_vostok","a":"Башибузук Александр"}
 , {"sid":634,"s":"Очень Дикий Запад","se":"ochen_dikiy_zapad","a":"Башибузук Александр"}
 , {"sid":768,"s":"Родезия","se":"rodeziya","a":"Башибузук Александр"}
@@ -1243,6 +1273,7 @@
 }
 , {"AuthorId":170,"AuthorName":"Белов Иннокентий","AuthorEng":"belov_innokentiy","books": [{"y":1981,"bid":351,"b":"1. Птушник","sc":3,"s":"ПТУшник","sid":732,"se":"F","ad":"2023-08-13","url":"belov_innokentiy_1981_1_ptushnik.json"}
 , {"y":1981,"bid":352,"b":"2. ПТУшник-2","sc":3,"s":"ПТУшник","sid":732,"se":"F","ad":"2023-08-13","url":"belov_innokentiy_1981_2_ptushnik_2.json"}
+, {"y":1981,"bid":5022,"b":"Комсорг 1 - 2","sc":3,"s":"ПТУшник","sid":732,"ad":"2025-02-28","url":"belov_innokentiy_1981_komsorg_1_2.json"}
 ]
 , "series": [{"sid":732,"s":"ПТУшник","se":"ptushnik","a":"Белов Иннокентий"}
 ]
@@ -1317,9 +1348,11 @@
 
 }
 , {"AuthorId":180,"AuthorName":"Берг Николай","AuthorEng":"berg_nikolay","AuthorGender":"1","books": [{"y":1941,"bid":1380,"b":"Леха","sc":4,"se":"S","sx":"1","url":"berg_nikolay_1941_lekha.json"}
+, {"y":1941,"bid":5074,"b":"2 -3 Паштет. Плата за выход","sc":3,"s":"Лёха и другие попавшие в портал","sid":1109,"ad":"2025-02-28","url":"berg_nikolay_1941_2_3_pashtet_plata_za_vykhod.json"}
 , {"y":1572,"bid":3107,"b":"Паштет","sc":3,"se":"P","sx":"1","url":"berg_nikolay_1572_pashtet.json"}
 ]
-, "series": []
+, "series": [{"sid":1109,"s":"Лёха и другие попавшие в портал","se":"lyokha_i_drugie_popavshie_v_portal","a":"Берг Николай"}
+]
 
 }
 , {"AuthorId":181,"AuthorName":"Бергер Евгения","AuthorEng":"berger_evgeniya","books": [{"y":1856,"bid":2472,"b":"Белым и пушистым здесь не место! Корпорация \"Белый кролик\"","sc":2,"se":"F","url":"berger_evgeniya_1856_belym_i_pushistym_zdes_ne_mesto_korporaciya_bely_krolik_.json"}
@@ -1353,6 +1386,7 @@
 
 }
 , {"AuthorId":187,"AuthorName":"Бирюк В.","AuthorEng":"biryuk_v_","books": [{"y":1158,"bid":3529,"b":"1-37 Зверь лютый","sc":2,"s":"Зверь лютый","sid":312,"se":"F","url":"biryuk_v__1158_1_37_zver_lyuty.json"}
+, {"y":1158,"bid":5165,"b":"1-40 Зверь лютый","sc":2,"s":"Зверь лютый","sid":312,"ad":"2025-02-28","url":"biryuk_v__1158_1_40_zver_lyuty.json"}
 , {"y":1158,"bid":3530,"b":"33. Зверь лютый Книга 33. Интриганки\n","sc":2,"s":"Зверь лютый","sid":312,"se":"F","ad":"2023-02-07","url":"biryuk_v__1158_33_zver_lyuty_kniga_33_intriganki_.json"}
 , {"y":1158,"bid":3531,"b":"36. Аутодафе","sc":2,"s":"Зверь лютый","sid":312,"se":"F","ad":"2023-08-13","url":"biryuk_v__1158_36_autodafe.json"}
 , {"y":1158,"bid":3532,"b":"37 Дедовщина","sc":2,"s":"Зверь лютый","sid":312,"se":"F","ad":"2023-09-19","url":"biryuk_v__1158_37_dedovshchina.json"}
@@ -1412,6 +1446,7 @@
 
 }
 , {"AuthorId":195,"AuthorName":"Большаков Валерий","AuthorEng":"bolshakov_valeriy","books": [{"y":1979,"bid":432,"b":"Новичок. Побочный эффект","sc":3,"se":"F","ad":"2023-02-07","url":"bolshakov_valeriy_1979_novichok_pobochny_effekt.json"}
+, {"y":1974,"bid":5047,"b":"16. Целитель-14 -16","sc":3,"s":"Целитель","sid":981,"ad":"2025-02-28","url":"bolshakov_valeriy_1974_16_celitel_14_16.json"}
 ]
 , "series": []
 
@@ -1505,28 +1540,45 @@
 
 }
 , {"AuthorId":203,"AuthorName":"Борков Алексей","AuthorEng":"borkov_aleksey","AuthorGender":"1","books": [{"y":1888,"bid":2303,"b":"2. Попал 2","sc":3,"s":"Никогда не было, но вот опять.","sid":564,"se":"P","sx":"1","ad":"2023-08-13","url":"borkov_aleksey_1888_2_popal_2.json"}
+, {"y":1888,"bid":5118,"b":"3 - 4. Никогда не было, но вот опять. Попал 3","sc":3,"s":"Никогда не было, но вот опять.","sid":564,"ad":"2025-02-28","url":"borkov_aleksey_1888_3_4_nikogda_ne_bylo_no_vot_opyat_popal_3.json"}
 ]
 , "series": [{"sid":564,"s":"Никогда не было, но вот опять.","se":"nikogda_ne_bylo_no_vot_opyat_","a":"Борков Алексей"}
 ]
 
 }
-, {"AuthorId":204,"AuthorName":"Борчанинов Геннадий","AuthorEng":"borchaninov_gennadiy","AuthorGender":"1","books": [{"y":1917,"bid":1869,"b":"1. Корниловъ. Книга первая: 1917","sc":3,"s":"Верховный Главнокомандующий","sid":144,"se":"F","sx":"1","ad":"2023-12-14","url":"borchaninov_gennadiy_1917_1_kornilov_kniga_pervaya_1917.json"}
+, {"AuthorId":204,"AuthorName":"Борчанинов Геннадий","AuthorEng":"borchaninov_gennadiy","AuthorGender":"1","books": [{"y":1983,"bid":5017,"b":"Металлист. Назад в СССР","sc":3,"s":"Здесь суют металл","sid":1077,"ad":"2025-02-28","url":"borchaninov_gennadiy_1983_metallist_nazad_v_sssr.json"}
+, {"y":1917,"bid":1869,"b":"1. Корниловъ. Книга первая: 1917","sc":3,"s":"Верховный Главнокомандующий","sid":144,"se":"F","sx":"1","ad":"2023-12-14","url":"borchaninov_gennadiy_1917_1_kornilov_kniga_pervaya_1917.json"}
 , {"y":1917,"bid":1870,"b":"2. Корниловъ. Книга вторая: Диктатор","sc":3,"s":"Верховный Главнокомандующий","sid":144,"se":"P","sx":"1","ad":"2024-01-31","url":"borchaninov_gennadiy_1917_2_kornilov_kniga_vtoraya_diktator.json"}
+, {"y":1875,"bid":5124,"b":"Разыскивается живым или мёртвым","sc":3,"s":"Хороший, плохой, русский","sid":1141,"ad":"2025-02-28","url":"borchaninov_gennadiy_1875_razyskivaetsya_zhivym_ili_myortvym.json"}
 , {"y":1666,"bid":2948,"b":"1. Буканьер","sc":3,"s":"Пират","sid":655,"se":"F","sx":"1","ad":"2023-08-13","url":"borchaninov_gennadiy_1666_1_bukaner.json"}
 , {"y":1666,"bid":2949,"b":"2. Флибустьер","sc":3,"s":"Пират","sid":655,"se":"F","sx":"1","ad":"2023-08-13","url":"borchaninov_gennadiy_1666_2_flibuster.json"}
 , {"y":1666,"bid":2950,"b":"3. Корсар","sc":3,"s":"Пират","sid":655,"se":"F","sx":"1","ad":"2023-08-13","url":"borchaninov_gennadiy_1666_3_korsar.json"}
+, {"y":1559,"bid":5152,"b":"Новик","sc":3,"s":"Гойда","sid":1162,"ad":"2025-02-28","url":"borchaninov_gennadiy_1559_novik.json"}
+, {"y":865,"bid":5167,"b":"1 - 2 Дренг","sc":3,"s":"В шторме викинг и меч","sid":1172,"ad":"2025-02-28","url":"borchaninov_gennadiy_865_1_2_dreng.json"}
 ]
-, "series": [{"sid":144,"s":"Верховный Главнокомандующий","se":"verkhovny_glavnokomanduyushchiy","a":"Борчанинов Геннадий"}
+, "series": [{"sid":1172,"s":"В шторме викинг и меч","se":"v_shtorme_viking_i_mech","a":"Борчанинов Геннадий"}
+, {"sid":144,"s":"Верховный Главнокомандующий","se":"verkhovny_glavnokomanduyushchiy","a":"Борчанинов Геннадий"}
+, {"sid":1162,"s":"Гойда","se":"goyda","a":"Борчанинов Геннадий"}
+, {"sid":1077,"s":"Здесь суют металл","se":"zdes_suyut_metall","a":"Борчанинов Геннадий"}
 , {"sid":655,"s":"Пират","se":"pirat","a":"Борчанинов Геннадий"}
+, {"sid":1141,"s":"Хороший, плохой, русский","se":"khoroshiy_plokhoy_russkiy","a":"Борчанинов Геннадий"}
 ]
 
 }
-, {"AuthorId":205,"AuthorName":"Босин Владимир","AuthorEng":"bosin_vladimir","AuthorGender":"1","books": [{"y":1975,"bid":597,"b":"1. Меняя матрицу-1","sc":2,"s":"Меняя матрицу","sid":484,"se":"F","sx":"1","ad":"2023-02-07","url":"bosin_vladimir_1975_1_menyaya_matricu_1.json"}
+, {"AuthorId":205,"AuthorName":"Босин Владимир","AuthorEng":"bosin_vladimir","AuthorGender":"1","books": [{"y":1980,"bid":5031,"b":"1 - 2. Шут королевский","sc":3,"s":"Шут королевский","sid":1085,"ad":"2025-02-28","url":"bosin_vladimir_1980_1_2_shut_korolevskiy.json"}
+, {"y":1975,"bid":597,"b":"1. Меняя матрицу-1","sc":2,"s":"Меняя матрицу","sid":484,"se":"F","sx":"1","ad":"2023-02-07","url":"bosin_vladimir_1975_1_menyaya_matricu_1.json"}
 , {"y":1975,"bid":604,"b":"1. Ходок","sc":3,"s":"Ходок","sid":961,"se":"F","sx":"1","ad":"2023-12-14","url":"bosin_vladimir_1975_1_khodok.json"}
 , {"y":1828,"bid":2566,"b":"Под знаком Меркурия","sc":2,"se":"F","sx":"1","ad":"2023-02-07","url":"bosin_vladimir_1828_pod_znakom_merkuriya.json"}
+, {"y":1650,"bid":5147,"b":"1 - 2. Время выбора","sc":3,"s":"Время выбора","sid":1158,"ad":"2025-02-28","url":"bosin_vladimir_1650_1_2_vremya_vybora.json"}
+, {"y":1467,"bid":5157,"b":"1 - 3. Вятское вече","sc":3,"s":"Вятское вече","sid":1164,"ad":"2025-02-28","url":"bosin_vladimir_1467_1_3_vyatskoe_veche.json"}
+, {"y":1440,"bid":5158,"b":"1 - 3. Лесовик","sc":3,"s":"Лесовик","sid":1165,"ad":"2025-02-28","url":"bosin_vladimir_1440_1_3_lesovik.json"}
 ]
-, "series": [{"sid":484,"s":"Меняя матрицу","se":"menyaya_matricu","a":"Босин Владимир"}
+, "series": [{"sid":1158,"s":"Время выбора","se":"vremya_vybora","a":"Босин Владимир"}
+, {"sid":1164,"s":"Вятское вече","se":"vyatskoe_veche","a":"Босин Владимир"}
+, {"sid":1165,"s":"Лесовик","se":"lesovik","a":"Босин Владимир"}
+, {"sid":484,"s":"Меняя матрицу","se":"menyaya_matricu","a":"Босин Владимир"}
 , {"sid":961,"s":"Ходок","se":"khodok","a":"Босин Владимир"}
+, {"sid":1085,"s":"Шут королевский","se":"shut_korolevskiy","a":"Босин Владимир"}
 ]
 
 }
@@ -1569,7 +1621,8 @@
 , "series": []
 
 }
-, {"AuthorId":213,"AuthorName":"Буланов Константин","AuthorEng":"bulanov_konstantin","AuthorGender":"1","books": [{"y":1908,"bid":2023,"b":"1. Предтечи этажерок","sc":3,"s":"Перкалевый ангел","sid":648,"se":"F","sx":"1","url":"bulanov_konstantin_1908_1_predtechi_etazherok.json"}
+, {"AuthorId":213,"AuthorName":"Буланов Константин","AuthorEng":"bulanov_konstantin","AuthorGender":"1","books": [{"y":1929,"bid":5090,"b":"2 -5 Хамелеон","sc":3,"s":"Хамелеон","sid":1116,"ad":"2025-02-28","url":"bulanov_konstantin_1929_2_5_khameleon.json"}
+, {"y":1908,"bid":2023,"b":"1. Предтечи этажерок","sc":3,"s":"Перкалевый ангел","sid":648,"se":"F","sx":"1","url":"bulanov_konstantin_1908_1_predtechi_etazherok.json"}
 , {"y":1908,"bid":2024,"b":"2. Война этажерок","sc":3,"s":"Перкалевый ангел","sid":648,"se":"F","sx":"1","url":"bulanov_konstantin_1908_2_voyna_etazherok.json"}
 , {"y":1908,"bid":2025,"b":"3. Превосходство этажерок","sc":3,"s":"Перкалевый ангел","sid":648,"se":"P","sx":"1","url":"bulanov_konstantin_1908_3_prevoskhodstvo_etazherok.json"}
 , {"y":1893,"bid":2245,"b":"1. Балтийские кондотьеры","sc":4,"s":"Вымпел мертвых","sid":199,"se":"S","sx":"1","url":"bulanov_konstantin_1893_1_baltiyskie_kondotery.json"}
@@ -1578,9 +1631,12 @@
 , {"y":1893,"bid":2248,"b":"4. Балтийские патриоты","sc":4,"s":"Вымпел мертвых","sid":199,"se":"F","sx":"1","url":"bulanov_konstantin_1893_4_baltiyskie_patrioty.json"}
 , {"y":1893,"bid":2249,"b":"5. Балтийские комбинаторы","sc":3,"s":"Вымпел мертвых","sid":199,"se":"F","sx":"1","ad":"2023-08-13","url":"bulanov_konstantin_1893_5_baltiyskie_kombinatory.json"}
 , {"y":1893,"bid":2250,"b":"6. Балтийское короли","sc":3,"s":"Вымпел мертвых","sid":199,"se":"F","sx":"1","ad":"2023-08-13","url":"bulanov_konstantin_1893_6_baltiyskoe_koroli.json"}
+, {"y":1893,"bid":5115,"b":"Сделай сам!","sc":3,"s":"Сделай сам!","sid":1136,"ad":"2025-02-28","url":"bulanov_konstantin_1893_sdelay_sam_.json"}
 ]
 , "series": [{"sid":199,"s":"Вымпел мертвых","se":"vympel_mertvykh","a":"Буланов Константин"}
 , {"sid":648,"s":"Перкалевый ангел","se":"perkalevy_angel","a":"Буланов Константин"}
+, {"sid":1136,"s":"Сделай сам!","se":"sdelay_sam_","a":"Буланов Константин"}
+, {"sid":1116,"s":"Хамелеон","se":"khameleon","a":"Буланов Константин"}
 ]
 
 }
@@ -1602,6 +1658,7 @@
 , {"y":1769,"bid":2748,"b":"09. Глазомер! Быстрота! Натиск!","sc":3,"s":"Егерь императрицы","sid":279,"se":"F","sx":"1","ad":"2023-08-13","url":"bulychev_andrey_1769_09_glazomer_bystrota_natisk_.json"}
 , {"y":1769,"bid":2749,"b":"10. Гром победы, раздавайся!","sc":3,"s":"Егерь императрицы","sid":279,"se":"F","sx":"1","ad":"2023-08-13","url":"bulychev_andrey_1769_10_grom_pobedy_razdavaysya_.json"}
 , {"y":1769,"bid":2750,"b":"11. Война на Дунае","sc":3,"s":"Егерь Императрицы","sid":279,"se":"P","sx":"1","ad":"2024-01-31","url":"bulychev_andrey_1769_11_voyna_na_dunae.json"}
+, {"y":1769,"bid":5141,"b":"12 - 13. Егерь императрицы. Гвардия, вперёд!","sc":3,"s":"Егерь Императрицы","sid":279,"ad":"2025-02-28","url":"bulychev_andrey_1769_12_13_eger_imperatricy_gvardiya_vperyod_.json"}
 , {"y":1223,"bid":3447,"b":"1. Начало пути","sc":3,"s":"Сотник из будущего","sid":842,"se":"S","sx":"1","url":"bulychev_andrey_1223_1_nachalo_puti.json"}
 , {"y":1223,"bid":3448,"b":"2. Южный рубеж","sc":3,"s":"Сотник из будущего","sid":842,"se":"S","sx":"1","url":"bulychev_andrey_1223_2_yuzhny_rubezh.json"}
 , {"y":1223,"bid":3449,"b":"3. Балтийский рейд","sc":3,"s":"Сотник из будущего","sid":842,"se":"S","sx":"1","url":"bulychev_andrey_1223_3_baltiyskiy_reyd.json"}
@@ -1975,6 +2032,7 @@
 , {"y":1981,"bid":4024,"b":"4. СССР: вернуться в детство-4","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_4_sssr_vernutsya_v_detstvo_4.json"}
 , {"y":1981,"bid":4025,"b":"5. СССР: вернуться в детство-5","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_5_sssr_vernutsya_v_detstvo_5.json"}
 , {"y":1981,"bid":4026,"b":"6. СССР: вернуться в детство-6","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_6_sssr_vernutsya_v_detstvo_6.json"}
+, {"y":1981,"bid":5023,"b":"СССР: вернуться в детство- 4 -6 ","sc":4,"s":"СССР: вернуться в детство","sid":859,"ad":"2025-02-28","url":"voyloshnikovy_vladimir_i_olga_1981_sssr_vernutsya_v_detstvo_4_6_.json"}
 ]
 , "series": [{"sid":859,"s":"СССР: вернуться в детство","se":"sssr_vernutsya_v_detstvo","a":"Войлошниковы Владимир и Ольга"}
 ]
@@ -2013,6 +2071,7 @@
 , {"y":1857,"bid":2466,"b":"2. Царь нигилистов - 2","sc":3,"s":"Царь нигилистов","sid":977,"se":"F","sx":"1","ad":"2023-02-07","url":"volkhovskiy_oleg_1857_2_car_nigilistov_2.json"}
 , {"y":1857,"bid":2467,"b":"3. Царь нигилистов - 3","sc":3,"s":"Царь нигилистов","sid":977,"se":"F","sx":"1","ad":"2023-02-07","url":"volkhovskiy_oleg_1857_3_car_nigilistov_3.json"}
 , {"y":1857,"bid":2468,"b":"4. Царь нигилистов - 4","sc":3,"s":"Царь нигилистов","sid":977,"se":"P","sx":"1","ad":"2023-12-14","url":"volkhovskiy_oleg_1857_4_car_nigilistov_4.json"}
+, {"y":1857,"bid":5125,"b":"4. Царь нигилистов - 5 -6 ","sc":3,"s":"Царь нигилистов","sid":977,"ad":"2025-02-28","url":"volkhovskiy_oleg_1857_4_car_nigilistov_5_6_.json"}
 ]
 , "series": [{"sid":977,"s":"Царь нигилистов","se":"car_nigilistov","a":"Волховский Олег"}
 ]
@@ -2048,7 +2107,8 @@
 , "series": []
 
 }
-, {"AuthorId":275,"AuthorName":"Воронков Александр","AuthorEng":"voronkov_aleksandr","AuthorGender":"1","books": [{"y":1905,"bid":2047,"b":"Непарад","sc":3,"se":"F","sx":"1","url":"voronkov_aleksandr_1905_neparad.json"}
+, {"AuthorId":275,"AuthorName":"Воронков Александр","AuthorEng":"voronkov_aleksandr","AuthorGender":"1","books": [{"y":1939,"bid":5086,"b":"Замполитрука. Полынь Халхин-Гола","sc":3,"s":"Звезда на рукаве","sid":1112,"ad":"2025-02-28","url":"voronkov_aleksandr_1939_zampolitruka_polyn_khalkhin_gola.json"}
+, {"y":1905,"bid":2047,"b":"Непарад","sc":3,"se":"F","sx":"1","url":"voronkov_aleksandr_1905_neparad.json"}
 , {"y":1905,"bid":2037,"b":"3. Нелегал","sc":3,"s":"Мир регента Николая Николаевича","sid":495,"se":"P","sx":"1","ad":"2023-08-13","url":"voronkov_aleksandr_1905_3_nelegal.json"}
 , {"y":1606,"bid":3043,"b":"1. Въ лѣто семь тысячъ сто четырнадцатое...","sc":4,"s":"Без Смуты","sid":75,"se":"F","sx":"1","ad":"2023-02-07","url":"voronkov_aleksandr_1606_1_v_l_to_sem_tysyach_sto_chetyrnadcatoe_.json"}
 , {"y":1606,"bid":3044,"b":"2. Мѣрная поступь","sc":1,"s":"Без Смуты","sid":75,"se":"P","sx":"1","ad":"2023-08-13","url":"voronkov_aleksandr_1606_2_m_rnaya_postup.json"}
@@ -2056,6 +2116,7 @@
 , {"y":1300,"bid":3365,"b":"2. Агент заговорщиков","sc":4,"s":"Темный век","sid":902,"se":"F","sx":"1","url":"voronkov_aleksandr_1300_2_agent_zagovorshchikov.json"}
 ]
 , "series": [{"sid":75,"s":"Без Смуты","se":"bez_smuty","a":"Воронков Александр"}
+, {"sid":1112,"s":"Звезда на рукаве","se":"zvezda_na_rukave","a":"Воронков Александр"}
 , {"sid":495,"s":"Мир регента Николая Николаевича","se":"mir_regenta_nikolaya_nikolaevicha","a":"Воронков Александр"}
 , {"sid":902,"s":"Темный век","se":"temny_vek","a":"Воронков Александр"}
 ]
@@ -2088,6 +2149,7 @@
 
 }
 , {"AuthorId":280,"AuthorName":"Востриков Михаил","AuthorEng":"vostrikov_mikhail","AuthorGender":"1","books": [{"y":1975,"bid":605,"b":"1. Весна 1975","sc":2,"s":"Эколог в СССР","sid":1037,"se":"F","sx":"1","ad":"2023-08-13","url":"vostrikov_mikhail_1975_1_vesna_1975.json"}
+, {"y":1975,"bid":5045,"b":"2. Эколог в СССР-II. Лето 2025","sc":3,"s":"Эколог в СССР","sid":1037,"ad":"2025-02-28","url":"vostrikov_mikhail_1975_2_ekolog_v_sssr_ii_leto_2025.json"}
 ]
 , "series": [{"sid":1037,"s":"Эколог в СССР","se":"ekolog_v_sssr","a":"Востриков Михаил"}
 ]
@@ -2179,6 +2241,12 @@
 ]
 
 }
+, {"AuthorId":1246,"AuthorName":"Вязовский Алексей, Жнец","AuthorEng":"vyazovskiy_aleksey_zhnec","books": [{"y":1579,"bid":5151,"b":"Уроки черного бусидо Димы Сабурова","sc":3,"s":"Уроки бусидо","sid":1161,"ad":"2025-02-28","url":"vyazovskiy_aleksey_zhnec_1579_uroki_chernogo_busido_dimy_saburova.json"}
+]
+, "series": [{"sid":1161,"s":"Уроки бусидо","se":"uroki_busido","a":"Вязовский Алексей, Жнец"}
+]
+
+}
 , {"AuthorId":287,"AuthorName":"Вязовский Алексей, Линник Сергей","AuthorEng":"vyazovskiy_aleksey_linnik_sergey","AuthorGender":"1","books": [{"y":1980,"bid":363,"b":"1. Пятнадцать ножевых","sc":5,"s":"15 ножевых","sid":8,"se":"S","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_1_pyatnadcat_nozhevykh.json"}
 , {"y":1980,"bid":364,"b":"2. Пятнадцать ножевых, том 2","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_2_pyatnadcat_nozhevykh_tom_2.json"}
 , {"y":1980,"bid":365,"b":"3. Пятнадцать ножевых. Том 3","sc":5,"s":"15 ножевых","sid":8,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1980_3_pyatnadcat_nozhevykh_tom_3.json"}
@@ -2189,11 +2257,18 @@
 , {"y":1941,"bid":1290,"b":"3. Сапер. Том III","sc":4,"s":"Сапер","sid":801,"se":"F","sx":"1","ad":"2023-02-07","url":"vyazovskiy_aleksey_linnik_sergey_1941_3_saper_tom_iii.json"}
 , {"y":1941,"bid":1291,"b":"4. Сапер. Том IV","sc":3,"s":"Сапер","sid":801,"se":"F","sx":"1","ad":"2023-08-13","url":"vyazovskiy_aleksey_linnik_sergey_1941_4_sapyor_tom_iv.json"}
 , {"y":1894,"bid":2240,"b":"1. Столичный доктор","sc":4,"s":"Столичный доктор","sid":868,"se":"F","sx":"1","ad":"2023-12-14","url":"vyazovskiy_aleksey_linnik_sergey_1894_1_stolichny_doktor.json"}
+, {"y":1894,"bid":5113,"b":"2-7. Столичный доктор.","sc":4,"s":"Столичный доктор","sid":868,"ad":"2025-02-28","url":"vyazovskiy_aleksey_linnik_sergey_1894_2_7_stolichny_doktor_.json"}
 , {"y":1894,"bid":2241,"b":"2. Столичный доктор. Том II","sc":4,"s":"Столичный доктор","sid":868,"se":"P","sx":"1","ad":"2023-12-14","url":"vyazovskiy_aleksey_linnik_sergey_1894_2_stolichny_doktor_tom_ii.json"}
 ]
 , "series": [{"sid":8,"s":"15 ножевых","se":"15_nozhevykh","a":"Вязовский Алексей, Линник Сергей"}
 , {"sid":801,"s":"Сапёр","se":"sapyor","a":"Вязовский Алексей, Линник Сергей"}
 , {"sid":868,"s":"Столичный доктор","se":"stolichny_doktor","a":"Вязовский Алексей, Линник Сергей"}
+]
+
+}
+, {"AuthorId":1247,"AuthorName":"Вязовский Алексей, Чайка Дмитрий","AuthorEng":"vyazovskiy_aleksey_chayka_dmitriy","books": [{"y":1991,"bid":5006,"b":"Лихие. Бригадир и т.д.","sc":4,"s":"Лихие 90-е","sid":1068,"ad":"2025-02-28","url":"vyazovskiy_aleksey_chayka_dmitriy_1991_likhie_brigadir_i_t_d_.json"}
+]
+, "series": [{"sid":1068,"s":"Лихие 90-е","se":"likhie_90_e","a":"Вязовский Алексей, Чайка Дмитрий"}
 ]
 
 }
@@ -2236,16 +2311,22 @@
 , "series": []
 
 }
-, {"AuthorId":295,"AuthorName":"Гаусс Максим","AuthorEng":"gauss_maksim","AuthorGender":"1","books": [{"y":1956,"bid":940,"b":"1. Назад в СССР: Браконьер","sc":3,"s":"Путь одиночки","sid":739,"se":"F","sx":"1","ad":"2023-08-13","url":"gauss_maksim_1956_1_nazad_v_sssr_brakoner.json"}
+, {"AuthorId":295,"AuthorName":"Гаусс Максим","AuthorEng":"gauss_maksim","AuthorGender":"1","books": [{"y":1990,"bid":5008,"b":"Мой район! (два тома)","sc":3,"s":"Лихие 90-е","sid":1070,"ad":"2025-02-28","url":"gauss_maksim_1990_moy_rayon_dva_toma_.json"}
+, {"y":1985,"bid":5012,"b":"Рядовой. Назад в СССР. (7 томов)","sc":3,"s":"Второй шанс","sid":1073,"ad":"2025-02-28","url":"gauss_maksim_1985_ryadovoy_nazad_v_sssr_7_tomov_.json"}
+, {"y":1956,"bid":940,"b":"1. Назад в СССР: Браконьер","sc":3,"s":"Путь одиночки","sid":739,"se":"F","sx":"1","ad":"2023-08-13","url":"gauss_maksim_1956_1_nazad_v_sssr_brakoner.json"}
 , {"y":1956,"bid":941,"b":"2. Назад в СССР: Лесник Книга 2","sc":3,"s":"Путь одиночки","sid":739,"se":"F","sx":"1","ad":"2023-09-19","url":"gauss_maksim_1956_2_nazad_v_sssr_lesnik_kniga_2.json"}
 ]
-, "series": [{"sid":739,"s":"Путь одиночки","se":"put_odinochki","a":"Гаусс Максим"}
+, "series": [{"sid":1073,"s":"Второй шанс","se":"vtoroy_shans","a":"Гаусс Максим"}
+, {"sid":1070,"s":"Лихие 90-е","se":"likhie_90_e","a":"Гаусс Максим"}
+, {"sid":739,"s":"Путь одиночки","se":"put_odinochki","a":"Гаусс Максим"}
 ]
 
 }
-, {"AuthorId":296,"AuthorName":"Гаусс Максим, Дамиров Рафаэль","AuthorEng":"gauss_maksim_damirov_rafael","books": [{"y":1984,"bid":282,"b":"7. Назад в СССР: 1987 Книга 7","sc":3,"s":"Спасти ЧАЭС","sid":850,"se":"F","ad":"2023-10-19","url":"gauss_maksim_damirov_rafael_1984_7_nazad_v_sssr_1987_kniga_7.json"}
+, {"AuthorId":296,"AuthorName":"Гаусс Максим, Дамиров Рафаэль","AuthorEng":"gauss_maksim_damirov_rafael","books": [{"y":1984,"bid":5015,"b":"Назад в СССР: Спасти ЧАЭС (7 томов)","sc":3,"s":"Однажды в Чернобыле…","sid":1075,"ad":"2025-02-28","url":"gauss_maksim_damirov_rafael_1984_nazad_v_sssr_spasti_chaes_7_tomov_.json"}
+, {"y":1984,"bid":282,"b":"7. Назад в СССР: 1987 Книга 7","sc":3,"s":"Спасти ЧАЭС","sid":850,"se":"F","ad":"2023-10-19","url":"gauss_maksim_damirov_rafael_1984_7_nazad_v_sssr_1987_kniga_7.json"}
 ]
-, "series": [{"sid":850,"s":"Спасти ЧАЭС","se":"spasti_chaes","a":"Гаусс Максим, Дамиров Рафаэль"}
+, "series": [{"sid":1075,"s":"Однажды в Чернобыле…","se":"odnazhdy_v_chernobyle_","a":"Гаусс Максим, Дамиров Рафаэль"}
+, {"sid":850,"s":"Спасти ЧАЭС","se":"spasti_chaes","a":"Гаусс Максим, Дамиров Рафаэль"}
 ]
 
 }
@@ -2293,6 +2374,7 @@
 }
 , {"AuthorId":303,"AuthorName":"Генрих","AuthorEng":"genrikh","books": [{"y":1941,"bid":1075,"b":"1. Двойной генерал","sc":3,"s":"Двойной генерал","sid":242,"se":"F","url":"genrikh_1941_1_dvoynoy_general.json"}
 , {"y":1941,"bid":1076,"b":"2. Двойной генерал-2 (полуостров Сталинград)","sc":3,"s":"Двойной генерал","sid":242,"se":"F","ad":"2023-02-07","url":"genrikh_1941_2_dvoynoy_general_2_poluostrov_stalingrad_.json"}
+, {"y":1941,"bid":5075,"b":"3. Двойной генерал-3 ","sc":3,"s":"Двойной генерал","sid":242,"ad":"2025-02-28","url":"genrikh_1941_3_dvoynoy_general_3_.json"}
 ]
 , "series": [{"sid":242,"s":"Двойной генерал","se":"dvoynoy_general","a":"Генрих"}
 ]
@@ -2397,6 +2479,7 @@
 
 }
 , {"AuthorId":317,"AuthorName":"Гор Александр","AuthorEng":"gor_aleksandr","AuthorGender":"1","books": [{"y":1941,"bid":1397,"b":"Запад-81","sc":3,"se":"P","sx":"1","ad":"2023-02-07","url":"gor_aleksandr_1941_zapad_81.json"}
+, {"y":1940,"bid":5084,"b":"3 - 4 . Ловушка для \"\"Тайфуна\"\"","sc":3,"s":"Капкан для \"\"Барбароссы\"\"","sid":1111,"ad":"2025-02-28","url":"gor_aleksandr_1940_3_4_lovushka_dlya_tayfuna_.json"}
 , {"y":1940,"bid":1537,"b":"1. Капкан для \"Барбароссы”","sc":3,"s":"Капкан для \"Барбароссы\"","sid":371,"se":"F","sx":"1","ad":"2023-08-13","url":"gor_aleksandr_1940_1_kapkan_dlya_barbarossy_.json"}
 , {"y":1940,"bid":1538,"b":"2. Ловушка для \"Тайфуна\"","sc":3,"s":"Капкан для \"Барбароссы\"","sid":371,"se":"F","sx":"1","ad":"2023-08-13","url":"gor_aleksandr_1940_2_lovushka_dlya_tayfuna_.json"}
 , {"y":1938,"bid":1632,"b":"1. Шаровая молния","sc":3,"s":"Шаровая молния","sid":1021,"se":"F","sx":"1","ad":"2023-02-07","url":"gor_aleksandr_1938_1_sharovaya_molniya.json"}
@@ -2406,7 +2489,8 @@
 , {"y":532,"bid":3742,"b":"Аргонавты наоборот","sc":3,"se":"P","sx":"1","ad":"2023-08-13","url":"gor_aleksandr_532_argonavty_naoborot.json"}
 , {"y":-100000,"bid":4017,"b":"По законам курятника","sc":3,"se":"P","sx":"1","ad":"2023-08-13","url":"gor_aleksandr_-100000_po_zakonam_kuryatnika.json"}
 ]
-, "series": [{"sid":371,"s":"Капкан для \"Барбароссы\"","se":"kapkan_dlya_barbarossy_","a":"Гор Александр"}
+, "series": [{"sid":1111,"s":"Капкан для \"\"Барбароссы\"\"","se":"kapkan_dlya_barbarossy_","a":"Гор Александр"}
+, {"sid":371,"s":"Капкан для \"Барбароссы\"","se":"kapkan_dlya_barbarossy_","a":"Гор Александр"}
 , {"sid":1021,"s":"Шаровая молния","se":"sharovaya_molniya","a":"Гор Александр"}
 ]
 
@@ -2596,14 +2680,28 @@
 , {"y":1993,"bid":100,"b":"2. Боец: лихие 90-е","sc":3,"s":"Боец","sid":93,"se":"F","sx":"1","ad":"2023-09-19","url":"gurov_valeriy_damirov_rafael_1993_2_boec_likhie_90_e.json"}
 , {"y":1993,"bid":101,"b":"3. Боец: лихие 90-е","sc":3,"s":"Боец","sid":93,"se":"F","sx":"1","ad":"2023-10-19","url":"gurov_valeriy_damirov_rafael_1993_3_boec_likhie_90_e.json"}
 , {"y":1993,"bid":102,"b":"4. Боец: лихие 90-е","sc":3,"s":"Боец","sid":93,"se":"F","sx":"1","ad":"2023-12-14","url":"gurov_valeriy_damirov_rafael_1993_4_boec_likhie_90_e.json"}
+, {"y":1993,"bid":5003,"b":"Боец: лихие 90-е (тома)","sc":3,"s":"Боец","sid":93,"ad":"2025-02-28","url":"gurov_valeriy_damirov_rafael_1993_boec_likhie_90_e_toma_.json"}
 , {"y":1983,"bid":301,"b":"Брат","sc":3,"se":"P","sx":"1","ad":"2023-12-14","url":"gurov_valeriy_damirov_rafael_1983_brat.json"}
 , {"y":1980,"bid":392,"b":"1. Физрук: назад в СССР","sc":3,"s":"Физрук","sid":947,"se":"F","sx":"1","ad":"2023-12-14","url":"gurov_valeriy_damirov_rafael_1980_1_fizruk_nazad_v_sssr.json"}
 , {"y":1980,"bid":393,"b":"2. Физрук: назад в СССР","sc":3,"s":"Физрук","sid":947,"se":"F","sx":"1","ad":"2023-12-14","url":"gurov_valeriy_damirov_rafael_1980_2_fizruk_nazad_v_sssr.json"}
 , {"y":1980,"bid":394,"b":"3. Физрук: назад в СССР","sc":3,"s":"Физрук","sid":947,"se":"P","sx":"1","ad":"2024-01-31","url":"gurov_valeriy_damirov_rafael_1980_3_fizruk_nazad_v_sssr.json"}
+, {"y":1980,"bid":5027,"b":"Физрук (10 томов)","sc":3,"s":"Физрук","sid":947,"ad":"2025-02-28","url":"gurov_valeriy_damirov_rafael_1980_fizruk_10_tomov_.json"}
+, {"y":1976,"bid":5041,"b":"Боксер: назад в СССР","sc":3,"s":"Боксёр","sid":1090,"ad":"2025-02-28","url":"gurov_valeriy_damirov_rafael_1976_bokser_nazad_v_sssr.json"}
+, {"y":1976,"bid":5043,"b":"Боксер: назад в СССР","sc":3,"s":"Боксёр","sid":1090,"ad":"2025-02-28","url":"gurov_valeriy_damirov_rafael_1976_bokser_nazad_v_sssr.json"}
 , {"y":1920,"bid":1821,"b":"Мурка","se":"P","sx":"1","ad":"2024-01-31","url":"gurov_valeriy_damirov_rafael_1920_murka.json"}
 ]
 , "series": [{"sid":93,"s":"Боец","se":"boec","a":"Гуров Валерий, Дамиров Рафаэль"}
+, {"sid":1090,"s":"Боксёр","se":"boksyor","a":"Гуров Валерий, Дамиров Рафаэль"}
+, {"sid":1091,"s":"Боксёр","se":"boksyor","a":"Гуров Валерий, Дамиров Рафаэль"}
 , {"sid":947,"s":"Физрук","se":"fizruk","a":"Гуров Валерий, Дамиров Рафаэль"}
+]
+
+}
+, {"AuthorId":1248,"AuthorName":"Гуров Валерий, Старый Денис","AuthorEng":"gurov_valeriy_stary_denis","books": [{"y":1848,"bid":5130,"b":"Барин-Шабарин","sc":3,"s":"Барин-Шабарин","sid":1145,"ad":"2025-02-28","url":"gurov_valeriy_stary_denis_1848_barin_shabarin.json"}
+, {"y":1146,"bid":5166,"b":"1 - 8. Гридень","sc":3,"s":"Гридень","sid":1171,"ad":"2025-02-28","url":"gurov_valeriy_stary_denis_1146_1_8_griden.json"}
+]
+, "series": [{"sid":1145,"s":"Барин-Шабарин","se":"barin_shabarin","a":"Гуров Валерий, Старый Денис"}
+, {"sid":1171,"s":"Гридень","se":"griden","a":"Гуров Валерий, Старый Денис"}
 ]
 
 }
@@ -2643,7 +2741,8 @@
 ]
 
 }
-, {"AuthorId":347,"AuthorName":"Дамиров Рафаэль","AuthorEng":"damirov_rafael","AuthorGender":"1","books": [{"y":1978,"bid":440,"b":"01. Курсант: назад в СССР 1","sc":3,"s":"Курсант","sid":446,"se":"F","sx":"1","ad":"2023-02-07","url":"damirov_rafael_1978_01_kursant_nazad_v_sssr_1.json"}
+, {"AuthorId":347,"AuthorName":"Дамиров Рафаэль","AuthorEng":"damirov_rafael","AuthorGender":"1","books": [{"y":1978,"bid":5035,"b":"Начальник милиции","sc":3,"sid":1088,"ad":"2025-02-28","url":"damirov_rafael_1978_nachalnik_milicii.json"}
+, {"y":1978,"bid":440,"b":"01. Курсант: назад в СССР 1","sc":3,"s":"Курсант","sid":446,"se":"F","sx":"1","ad":"2023-02-07","url":"damirov_rafael_1978_01_kursant_nazad_v_sssr_1.json"}
 , {"y":1978,"bid":441,"b":"02. Курсант: назад в СССР 2","sc":3,"s":"Курсант","sid":446,"se":"F","sx":"1","ad":"2023-02-07","url":"damirov_rafael_1978_02_kursant_nazad_v_sssr_2.json"}
 , {"y":1978,"bid":442,"b":"03. Курсант: назад в СССР 3","sc":3,"s":"Курсант","sid":446,"se":"F","sx":"1","ad":"2023-02-07","url":"damirov_rafael_1978_03_kursant_nazad_v_sssr_3.json"}
 , {"y":1978,"bid":443,"b":"04. Курсант: Назад в СССР 4","sc":3,"s":"Курсант","sid":446,"se":"F","sx":"1","ad":"2023-02-07","url":"damirov_rafael_1978_04_kursant_nazad_v_sssr_4.json"}
@@ -2654,12 +2753,19 @@
 , {"y":1978,"bid":448,"b":"09. Курсант: назад в СССР 9","sc":3,"s":"Курсант","sid":446,"se":"F","sx":"1","ad":"2023-08-13","url":"damirov_rafael_1978_09_kursant_nazad_v_sssr_9.json"}
 , {"y":1978,"bid":449,"b":"10. Курсант: Назад в СССР 10","sc":3,"s":"Курсант","sid":446,"se":"F","sx":"1","ad":"2023-08-13","url":"damirov_rafael_1978_10_kursant_nazad_v_sssr_10.json"}
 , {"y":1978,"bid":450,"b":"11. Курсант: Назад в СССР","sc":3,"s":"Курсант","sid":446,"se":"F","sx":"1","ad":"2024-01-31","url":"damirov_rafael_1978_11_kursant_nazad_v_sssr.json"}
+, {"y":1976,"bid":5039,"b":"Завод: назад в СССР","sc":3,"sid":1088,"ad":"2025-02-28","url":"damirov_rafael_1976_zavod_nazad_v_sssr.json"}
 ]
-, "series": [{"sid":446,"s":"Курсант","se":"kursant","a":"Дамиров Рафаэль"}
+, "series": [{"sid":1088,"se":"_","a":"Дамиров Рафаэль"}
+, {"sid":446,"s":"Курсант","se":"kursant","a":"Дамиров Рафаэль"}
 ]
 
 }
 , {"AuthorId":348,"AuthorName":"Дамиров Рафаэль, Гуров Валерий","AuthorEng":"damirov_rafael_gurov_valeriy","AuthorGender":"1","books": [{"y":1975,"bid":610,"b":"Писатель: Назад в СССР","sc":3,"se":"P","sx":"1","ad":"2024-01-31","url":"damirov_rafael_gurov_valeriy_1975_pisatel_nazad_v_sssr.json"}
+]
+, "series": []
+
+}
+, {"AuthorId":1249,"AuthorName":"Дамиров Рафаэль, Киров Никита","AuthorEng":"damirov_rafael_kirov_nikita","books": [{"y":1996,"bid":5002,"b":"Прорвёмся, опера! (несколько томов)","sc":3,"ad":"2025-02-28","url":"damirov_rafael_kirov_nikita_1996_prorvyomsya_opera_neskolko_tomov_.json"}
 ]
 , "series": []
 
@@ -2715,6 +2821,14 @@
 , "series": []
 
 }
+, {"AuthorId":1250,"AuthorName":"Дашко Дмитрий, Самойлов Александр","AuthorEng":"dashko_dmitriy_samoylov_aleksandr","books": [{"y":1904,"bid":5104,"b":"Ротмистр Гордеев 1-4","sc":3,"s":"Ротмистр Гордеев","sid":1129,"ad":"2025-02-28","url":"dashko_dmitriy_samoylov_aleksandr_1904_rotmistr_gordeev_1_4.json"}
+, {"y":1881,"bid":5121,"b":"Лестрейд. Рыжий... Честный... Инспектор","sc":3,"s":"Лестрейд","sid":1139,"ad":"2025-02-28","url":"dashko_dmitriy_samoylov_aleksandr_1881_lestreyd_ryzhiy_chestny_inspektor.json"}
+]
+, "series": [{"sid":1139,"s":"Лестрейд","se":"lestreyd","a":"Дашко Дмитрий, Самойлов Александр"}
+, {"sid":1129,"s":"Ротмистр Гордеев","se":"rotmistr_gordeev","a":"Дашко Дмитрий, Самойлов Александр"}
+]
+
+}
 , {"AuthorId":355,"AuthorName":"Дашко Дмитрий, Шалашов Евгений","AuthorEng":"dashko_dmitriy_shalashov_evgeniy","AuthorGender":"1","books": [{"y":1610,"bid":3032,"b":"2. Спасти Смоленск","sc":3,"s":"Спецназ времени","sid":854,"se":"S","sx":"1","url":"dashko_dmitriy_shalashov_evgeniy_1610_2_spasti_smolensk.json"}
 , {"y":1239,"bid":3397,"b":"1. Спасти Козельск","sc":3,"s":"Спецназ времени","sid":854,"se":"S","sx":"1","url":"dashko_dmitriy_shalashov_evgeniy_1239_1_spasti_kozelsk.json"}
 , {"y":1239,"bid":3398,"b":"3. Спасти Смоленск-2","sc":3,"s":"Спецназ времени","sid":854,"se":"F","sx":"1","url":"dashko_dmitriy_shalashov_evgeniy_1239_3_spasti_smolensk_2.json"}
@@ -2741,6 +2855,7 @@
 , {"AuthorId":359,"AuthorName":"Демидов Вадим","AuthorEng":"demidov_vadim","AuthorGender":"1","books": [{"y":1969,"bid":788,"b":"1. Император Антарктиды","sc":2,"s":"Император Антарктиды","sid":334,"se":"F","sx":"1","url":"demidov_vadim_1969_1_imperator_antarktidy.json"}
 , {"y":1969,"bid":789,"b":"2. Я пришёл!","sc":2,"s":"Император Антарктиды","sid":334,"se":"F","sx":"1","url":"demidov_vadim_1969_2_ya_prishyol_.json"}
 , {"y":1969,"bid":790,"b":"3. Моё решение!","sc":2,"s":"Император Антарктиды","sid":334,"se":"F","sx":"1","url":"demidov_vadim_1969_3_moyo_reshenie_.json"}
+, {"y":1969,"bid":5060,"b":"4 -5. Император Антарктиды 4. План Б.","sc":2,"s":"Император Антарктиды","sid":334,"ad":"2025-02-28","url":"demidov_vadim_1969_4_5_imperator_antarktidy_4_plan_b_.json"}
 ]
 , "series": [{"sid":334,"s":"Император Антарктиды","se":"imperator_antarktidy","a":"Демидов Вадим"}
 ]
@@ -2749,6 +2864,7 @@
 , {"AuthorId":360,"AuthorName":"Демидов Вадим (Vicont)","AuthorEng":"demidov_vadim_vicont_","books": [{"y":1949,"bid":980,"b":"1. Сделай и живи спокойно","sc":3,"s":"Прораб попаданец","sid":722,"se":"F","ad":"2023-02-07","url":"demidov_vadim_vicont__1949_1_sdelay_i_zhivi_spokoyno.json"}
 , {"y":1949,"bid":981,"b":"2. Сделай и живи спокойно 2","sc":3,"s":"Прораб попаданец","sid":722,"se":"F","ad":"2023-02-07","url":"demidov_vadim_vicont__1949_2_sdelay_i_zhivi_spokoyno_2.json"}
 , {"y":1949,"bid":982,"b":"3. Сделай и живи спокойно 3","sc":3,"s":"Прораб попаданец","sid":722,"se":"F","ad":"2023-08-13","url":"demidov_vadim_vicont__1949_3_sdelay_i_zhivi_spokoyno_3.json"}
+, {"y":1949,"bid":5069,"b":"4 -8. Сделай и живи спокойно 1","sc":3,"s":"Прораб попаданец","sid":722,"ad":"2025-02-28","url":"demidov_vadim_vicont__1949_4_8_sdelay_i_zhivi_spokoyno_1.json"}
 ]
 , "series": [{"sid":722,"s":"Прораб попаданец","se":"prorab_popadanec","a":"Демидов Вадим (Vicont)"}
 ]
@@ -2884,7 +3000,8 @@
 ]
 
 }
-, {"AuthorId":380,"AuthorName":"Дорин Михаил","AuthorEng":"dorin_mikhail","AuthorGender":"1","books": [{"y":1976,"bid":570,"b":"01. Авиатор: назад в СССР","sc":3,"s":"Покоряя небо","sid":679,"se":"F","sx":"1","ad":"2023-08-13","url":"dorin_mikhail_1976_01_aviator_nazad_v_sssr.json"}
+, {"AuthorId":380,"AuthorName":"Дорин Михаил","AuthorEng":"dorin_mikhail","AuthorGender":"1","books": [{"y":1980,"bid":5025,"b":"Рубеж 1-4","sc":3,"s":"Рубеж","sid":1081,"ad":"2025-02-28","url":"dorin_mikhail_1980_rubezh_1_4.json"}
+, {"y":1976,"bid":570,"b":"01. Авиатор: назад в СССР","sc":3,"s":"Покоряя небо","sid":679,"se":"F","sx":"1","ad":"2023-08-13","url":"dorin_mikhail_1976_01_aviator_nazad_v_sssr.json"}
 , {"y":1976,"bid":571,"b":"02. Авиатор: назад в СССР 2","sc":3,"s":"Покоряя небо","sid":679,"se":"F","sx":"1","ad":"2023-08-13","url":"dorin_mikhail_1976_02_aviator_nazad_v_sssr_2.json"}
 , {"y":1976,"bid":572,"b":"03. Авиатор: назад в СССР 3","sc":3,"s":"Покоряя небо","sid":679,"se":"F","sx":"1","ad":"2023-08-13","url":"dorin_mikhail_1976_03_aviator_nazad_v_sssr_3.json"}
 , {"y":1976,"bid":573,"b":"04. Авиатор: назад в СССР 4","sc":3,"s":"Покоряя небо","sid":679,"se":"F","sx":"1","ad":"2023-08-13","url":"dorin_mikhail_1976_04_aviator_nazad_v_sssr_4.json"}
@@ -2893,8 +3010,10 @@
 , {"y":1976,"bid":576,"b":"07. Авиатор: назад в СССР 7","sc":3,"s":"Покоряя небо","sid":679,"se":"F","sx":"1","ad":"2023-10-19","url":"dorin_mikhail_1976_07_aviator_nazad_v_sssr_7.json"}
 , {"y":1976,"bid":577,"b":"08. Авиатор: назад в СССР 8","sc":3,"s":"Покоряя небо","sid":679,"se":"F","sx":"1","ad":"2023-12-14","url":"dorin_mikhail_1976_08_aviator_nazad_v_sssr_8.json"}
 , {"y":1976,"bid":578,"b":"10. Авиатор: назад в СССР 10","sc":3,"s":"Покоряя небо","sid":679,"se":"P","sx":"1","ad":"2024-01-31","url":"dorin_mikhail_1976_10_aviator_nazad_v_sssr_10.json"}
+, {"y":1976,"bid":5042,"b":"11.-15. Авиатор: назад в СССР 11-15","sc":3,"s":"Покоряя небо","sid":679,"ad":"2025-02-28","url":"dorin_mikhail_1976_11_15_aviator_nazad_v_sssr_11_15.json"}
 ]
 , "series": [{"sid":679,"s":"Покоряя небо","se":"pokoryaya_nebo","a":"Дорин Михаил"}
+, {"sid":1081,"s":"Рубеж","se":"rubezh","a":"Дорин Михаил"}
 ]
 
 }
@@ -2913,6 +3032,7 @@
 }
 , {"AuthorId":383,"AuthorName":"Дроздов Анатолий","AuthorEng":"drozdov_anatoliy","AuthorGender":"1","books": [{"y":1990,"bid":142,"b":"1. Малахольный экстрасенс.","sc":3,"s":"Малахольный экстрасенс","sid":470,"se":"S","sx":"1","url":"drozdov_anatoliy_1990_1_malakholny_ekstrasens_.json"}
 , {"y":1990,"bid":143,"b":"2. Экстрасенс разбушевался.","sc":3,"s":"Малахольный экстрасенс","sid":470,"se":"S","sx":"1","url":"drozdov_anatoliy_1990_2_ekstrasens_razbushevalsya_.json"}
+, {"y":1980,"bid":5028,"b":"Зубных дел мастер","sc":3,"s":"Зубных дел мастер","sid":1082,"ad":"2025-02-28","url":"drozdov_anatoliy_1980_zubnykh_del_master.json"}
 , {"y":1975,"bid":611,"b":"Реваншист","sc":4,"se":"F","sx":"1","url":"drozdov_anatoliy_1975_revanshist.json"}
 , {"y":1967,"bid":819,"b":"1. Божья коровка","sc":3,"s":"Божья Коровка","sid":94,"se":"F","sx":"1","ad":"2023-02-07","url":"drozdov_anatoliy_1967_1_bozhya_korovka.json"}
 , {"y":1967,"bid":820,"b":"2. Божья коровка-2","sc":3,"s":"Божья Коровка","sid":94,"se":"F","sx":"1","ad":"2023-08-13","url":"drozdov_anatoliy_1967_2_bozhya_korovka_2.json"}
@@ -2930,6 +3050,7 @@
 ]
 , "series": [{"sid":94,"s":"Божья Коровка","se":"bozhya_korovka","a":"Дроздов Анатолий"}
 , {"sid":309,"s":"Зауряд-врач","se":"zauryad_vrach","a":"Дроздов Анатолий"}
+, {"sid":1082,"s":"Зубных дел мастер","se":"zubnykh_del_master","a":"Дроздов Анатолий"}
 , {"sid":352,"s":"Интендант","se":"intendant","a":"Дроздов Анатолий"}
 , {"sid":470,"s":"Малахольный экстрасенс","se":"malakholny_ekstrasens","a":"Дроздов Анатолий"}
 , {"sid":962,"s":"Хозяин дракона","se":"khozyain_drakona","a":"Дроздов Анатолий"}
@@ -2988,6 +3109,7 @@
 , {"y":1815,"bid":2590,"b":"2. Трудовые будни барышни-попаданки 2","sc":3,"s":"Барышня-попаданка","sid":69,"se":"F","ad":"2023-08-13","url":"devlin_dzheyd_1815_2_trudovye_budni_baryshni_popadanki_2.json"}
 , {"y":1815,"bid":2591,"b":"3. Трудовые будни барышни-попаданки 3","sc":3,"s":"Барышня-попаданка","sid":69,"se":"F","ad":"2023-08-13","url":"devlin_dzheyd_1815_3_trudovye_budni_baryshni_popadanki_3.json"}
 , {"y":1815,"bid":2592,"b":"4. Трудовые будни барышни-попаданки 4","sc":3,"s":"Барышня-попаданка","sid":69,"se":"P","ad":"2024-01-31","url":"devlin_dzheyd_1815_4_trudovye_budni_baryshni_popadanki_4.json"}
+, {"y":1815,"bid":5133,"b":"5. Трудовые будни барышни-попаданки 5","sc":3,"s":"Барышня-попаданка","sid":69,"ad":"2025-02-28","url":"devlin_dzheyd_1815_5_trudovye_budni_baryshni_popadanki_5.json"}
 ]
 , "series": [{"sid":69,"s":"Барышня-попаданка","se":"baryshnya_popadanka","a":"Дэвлин Джейд"}
 ]
@@ -3350,6 +3472,12 @@
 ]
 
 }
+, {"AuthorId":1251,"AuthorName":"Зарубин Михаил, Карачина Аня","AuthorEng":"zarubin_mikhail_karachina_anya","books": [{"y":1904,"bid":5100,"b":"1 - 4.Юлька или рыжая шиза кавторанга Беляева","sc":3,"s":"Юлька или рыжая шиза кавторанга Беляева","sid":1125,"ad":"2025-02-28","url":"zarubin_mikhail_karachina_anya_1904_1_4_yulka_ili_ryzhaya_shiza_kavtoranga_belyaeva.json"}
+]
+, "series": [{"sid":1125,"s":"Юлька или рыжая шиза кавторанга Беляева","se":"yulka_ili_ryzhaya_shiza_kavtoranga_belyaeva","a":"Зарубин Михаил, Карачина Аня"}
+]
+
+}
 , {"AuthorId":438,"AuthorName":"Заспа Петр","AuthorEng":"zaspa_petr","AuthorGender":"1","books": [{"y":1941,"bid":1412,"b":"Антипиранья","sc":2,"se":"S","sx":"1","url":"zaspa_petr_1941_antipiranya.json"}
 , {"y":1941,"bid":1319,"b":"1. Торпедой - пли!","sc":2,"s":"Торпедой - пли!","sid":914,"se":"S","sx":"1","url":"zaspa_petr_1941_1_torpedoy_pli_.json"}
 , {"y":1941,"bid":1320,"b":"2. Wunderland обетованная","sc":2,"s":"Торпедой - пли!","sid":914,"se":"S","sx":"1","url":"zaspa_petr_1941_2_wunderland_obetovannaya.json"}
@@ -3384,6 +3512,7 @@
 , {"y":1988,"bid":180,"b":"4. Дембель Советского Союза","sc":4,"s":"Дембель неизбежен","sid":248,"se":"S","sx":"1","url":"zdrav_oleg_1988_4_dembel_sovetskogo_soyuza.json"}
 , {"y":1988,"bid":181,"b":"5. Весь мир на дембель","sc":4,"s":"Дембель неизбежен","sid":248,"se":"S","sx":"1","url":"zdrav_oleg_1988_5_ves_mir_na_dembel.json"}
 , {"y":1988,"bid":182,"b":"6. Не время для дембеля","sc":4,"s":"Дембель неизбежен","sid":248,"se":"F","sx":"1","url":"zdrav_oleg_1988_6_ne_vremya_dlya_dembelya.json"}
+, {"y":1988,"bid":5010,"b":"7. Дембель 20-го века","sc":3,"s":"Дембель неизбежен","sid":248,"ad":"2025-02-28","url":"zdrav_oleg_1988_7_dembel_20_go_veka.json"}
 ]
 , "series": [{"sid":248,"s":"Дембель неизбежен","se":"dembel_neizbezhen","a":"Здрав  Олег"}
 ]
@@ -3397,15 +3526,18 @@
 , {"AuthorId":444,"AuthorName":"Зеленин Сергей","AuthorEng":"zelenin_sergey","AuthorGender":"1","books": [{"y":1941,"bid":1414,"b":"Лучшая АИ Второй мировой войны","sc":2,"se":"F","sx":"1","url":"zelenin_sergey_1941_luchshaya_ai_vtoroy_mirovoy_voyny.json"}
 , {"y":1941,"bid":1367,"b":"1. Я вам не Сталин! Я хуже","sc":1,"s":"Я вам не Сталин... Я хуже!","sid":1055,"se":"F","sx":"1","ad":"2023-08-13","url":"zelenin_sergey_1941_1_ya_vam_ne_stalin_ya_khuzhe.json"}
 , {"y":1941,"bid":1368,"b":"2: Генеральный апгрейд","sc":1,"s":"Я вам не Сталин... Я хуже!","sid":1055,"se":"P","sx":"1","ad":"2023-08-13","url":"zelenin_sergey_1941_2_generalny_apgreyd.json"}
+, {"y":1941,"bid":5076,"b":"3 - 4 Я вам не Сталин… Я хуже! Часть третья: Текущая реальность.","sc":1,"s":"Я вам не Сталин... Я хуже!","sid":1055,"ad":"2025-02-28","url":"zelenin_sergey_1941_3_4_ya_vam_ne_stalin_ya_khuzhe_chast_tretya_tekushchaya_realnost_.json"}
 , {"y":1922,"bid":1797,"b":"1. Я - АНГЕЛ. Часть 1. \"Под прикрытием\"","sc":2,"s":"Я - АНГЕЛ","sid":1052,"se":"F","sx":"1","ad":"2023-02-07","url":"zelenin_sergey_1922_ya_angel_chast_1_pod_prikrytiem_.json"}
 , {"y":1922,"bid":1798,"b":"2. Я - АНГЕЛ. Часть 2: Между Сциллой и Харибдой","sc":2,"s":"Я - АНГЕЛ","sid":1052,"se":"F","sx":"1","url":"zelenin_sergey_1922_ya_angel_chast_2_mezhdu_scilloy_i_kharibdoy.json"}
 , {"y":1922,"bid":1799,"b":"3. Я - АНГЕЛ. Часть 3: Клякса бифуркации","sc":3,"s":"Я - АНГЕЛ","sid":1052,"se":"F","sx":"1","ad":"2023-02-07","url":"zelenin_sergey_1922_ya_angel_chast_3_klyaksa_bifurkacii.json"}
 , {"y":1922,"bid":1800,"b":"4. Я - АНГЕЛ. Часть 4. И аз создам!","sc":3,"s":"Я - АНГЕЛ","sid":1052,"se":"F","sx":"1","ad":"2023-02-07","url":"zelenin_sergey_1922_ya_angel_chast_4_i_az_sozdam_.json"}
 , {"y":1915,"bid":1971,"b":"Я, Николай II... Верховный Главнокомандующий.","sc":3,"se":"P","sx":"1","ad":"2023-12-14","url":"zelenin_sergey_1915_ya_nikolay_ii_verkhovny_glavnokomanduyushchiy_.json"}
 , {"y":1915,"bid":1969,"b":"1. Верховный Главнокомандующий","sc":3,"s":"Я, Николай II...","sid":1059,"se":"F","sx":"1","url":"zelenin_sergey_1915_1_verkhovny_glavnokomanduyushchiy.json"}
+, {"y":1895,"bid":5111,"b":"2-3 Корпорация \"\"USSR\"\" ","sc":3,"s":"Корпорация \"\"USSR\"\" ","sid":1134,"ad":"2025-02-28","url":"zelenin_sergey_1895_2_3_korporaciya_ussr_.json"}
 , {"y":1895,"bid":2225,"b":"1. Корпорация \"USSR\" ","sc":3,"s":"Корпорация \"USSR\" ","sid":426,"se":"F","sx":"1","url":"zelenin_sergey_1895_korporaciya_ussr_.json"}
 ]
-, "series": [{"sid":426,"s":"Корпорация \"USSR\" ","se":"korporaciya_ussr_","a":"Зеленин Сергей"}
+, "series": [{"sid":1134,"s":"Корпорация \"\"USSR\"\" ","se":"korporaciya_ussr_","a":"Зеленин Сергей"}
+, {"sid":426,"s":"Корпорация \"USSR\" ","se":"korporaciya_ussr_","a":"Зеленин Сергей"}
 , {"sid":1052,"s":"Я - АНГЕЛ","se":"ya_angel","a":"Зеленин Сергей"}
 , {"sid":1055,"s":"Я вам не Сталин... Я хуже!","se":"ya_vam_ne_stalin_ya_khuzhe_","a":"Зеленин Сергей"}
 , {"sid":1059,"s":"Я, Николай II...","se":"ya_nikolay_ii_","a":"Зеленин Сергей"}
@@ -3453,8 +3585,12 @@
 
 }
 , {"AuthorId":451,"AuthorName":"Злотников Роман","AuthorEng":"zlotnikov_roman","books": [{"y":1971,"bid":708,"b":"3. Однажды в Америке","sc":3,"s":"Настоящее прошлое","sid":541,"se":"F","ad":"2023-02-07","url":"zlotnikov_roman_1971_3_odnazhdy_v_amerike.json"}
+, {"y":1803,"bid":5136,"b":"1 -2 Крепостной","sc":3,"s":"Император и трубочист","sid":1150,"ad":"2025-02-28","url":"zlotnikov_roman_1803_1_2_krepostnoy.json"}
+, {"y":1380,"bid":5162,"b":"1 - 2 Князь Фёдор. Куликовская сеча","sc":3,"s":"Князь Федор (Злая Русь 2)","sid":1168,"ad":"2025-02-28","url":"zlotnikov_roman_1380_1_2_knyaz_fyodor_kulikovskaya_secha.json"}
 ]
-, "series": [{"sid":541,"s":"Настоящее прошлое","se":"nastoyashchee_proshloe","a":"Злотников Роман"}
+, "series": [{"sid":1150,"s":"Император и трубочист","se":"imperator_i_trubochist","a":"Злотников Роман"}
+, {"sid":1168,"s":"Князь Федор (Злая Русь 2)","se":"knyaz_fedor_zlaya_rus_2_","a":"Злотников Роман"}
+, {"sid":541,"s":"Настоящее прошлое","se":"nastoyashchee_proshloe","a":"Злотников Роман"}
 ]
 
 }
@@ -3486,6 +3622,7 @@
 }
 , {"AuthorId":453,"AuthorName":"Злотников Роман, Гринчевский Игорь","AuthorEng":"zlotnikov_roman_grinchevskiy_igor","AuthorGender":"1","books": [{"y":1895,"bid":2223,"b":"1. Американец","sc":3,"s":"Американец","sid":41,"se":"S","sx":"1","url":"zlotnikov_roman_grinchevskiy_igor_1895_1_amerikanec.json"}
 , {"y":1895,"bid":2224,"b":"2. Американец. Путь на север","sc":3,"s":"Американец","sid":41,"se":"S","sx":"1","url":"zlotnikov_roman_grinchevskiy_igor_1895_2_amerikanec_put_na_sever.json"}
+, {"y":1895,"bid":5112,"b":"3-6. Американец. Путь на север","sc":3,"s":"Американец","sid":41,"ad":"2025-02-28","url":"zlotnikov_roman_grinchevskiy_igor_1895_3_6_amerikanec_put_na_sever.json"}
 ]
 , "series": [{"sid":41,"s":"Американец","se":"amerikanec","a":"Злотников Роман, Гринчевский Игорь"}
 ]
@@ -3555,6 +3692,7 @@
 , {"y":1984,"bid":266,"b":"08. Большие надежды","sc":3,"s":"Девяностые","sid":245,"se":"F","sx":"1","ad":"2023-08-13","url":"ivanov_dmitriy_valerevich_dmitriy__1984_08_bolshie_nadezhdy.json"}
 , {"y":1984,"bid":267,"b":"09. Покой нам только снится","sc":3,"s":"Девяностые","sid":245,"se":"F","sx":"1","ad":"2023-12-14","url":"ivanov_dmitriy_valerevich_dmitriy__1984_09_pokoy_nam_tolko_snitsya.json"}
 , {"y":1984,"bid":268,"b":"10. Решала","sc":3,"s":"Девяностые","sid":245,"se":"P","sx":"1","ad":"2024-01-31","url":"ivanov_dmitriy_valerevich_dmitriy__1984_10_reshala.json"}
+, {"y":1984,"bid":5014,"b":"11 - 14","sc":3,"s":"Девяностые","sid":245,"ad":"2025-02-28","url":"ivanov_dmitriy_valerevich_dmitriy__1984_11_14.json"}
 ]
 , "series": [{"sid":245,"s":"Девяностые","se":"devyanostye","a":"Иванов Дмитрий Валерьевич (Дмитрий)"}
 ]
@@ -3760,6 +3898,12 @@
 ]
 
 }
+, {"AuthorId":1252,"AuthorName":"Калинин Алексей Николаевич","AuthorEng":"kalinin_aleksey_nikolaevich","books": [{"y":1970,"bid":5058,"b":"Не повторяется такое никогда!","sc":3,"s":"Не повторяется такое никогда!","sid":1099,"ad":"2025-02-28","url":"kalinin_aleksey_nikolaevich_1970_ne_povtoryaetsya_takoe_nikogda_.json"}
+]
+, "series": [{"sid":1099,"s":"Не повторяется такое никогда!","se":"ne_povtoryaetsya_takoe_nikogda_","a":"Калинин Алексей Николаевич"}
+]
+
+}
 , {"AuthorId":490,"AuthorName":"Калинин Даниил","AuthorEng":"kalinin_daniil","AuthorGender":"1","books": [{"y":1941,"bid":1112,"b":"1. Игра не для всех.1941","sc":3,"s":"Игра не для всех","sid":326,"se":"F","sx":"1","url":"kalinin_daniil_1941_1_igra_ne_dlya_vsekh_1941.json"}
 , {"y":1941,"bid":1113,"b":"2. Игра не для всех. Крым 1942","sc":3,"s":"Игра не для всех","sid":326,"se":"F","sx":"1","ad":"2023-02-07","url":"kalinin_daniil_1941_2_igra_ne_dlya_vsekh_krym_1942.json"}
 , {"y":1941,"bid":1114,"b":"3. Игра не для всех. Сталинград","sc":3,"s":"Игра не для всех","sid":326,"se":"F","sx":"1","ad":"2023-11-15","url":"kalinin_daniil_1941_3_igra_ne_dlya_vsekh_stalingrad.json"}
@@ -3768,6 +3912,7 @@
 , {"y":1609,"bid":3034,"b":"2. Путь чести","sc":3,"s":"Орел и Ворон","sid":607,"se":"F","sx":"1","ad":"2023-08-13","url":"kalinin_daniil_1609_2_put_chesti.json"}
 , {"y":1609,"bid":3035,"b":"3. Вторжение","sc":3,"s":"Орел и Ворон","sid":607,"se":"F","sx":"1","ad":"2023-09-19","url":"kalinin_daniil_1609_3_vtorzhenie.json"}
 , {"y":1609,"bid":3036,"b":"4. Кесарь","sc":3,"s":"Орел и Ворон","sid":607,"se":"P","sx":"1","ad":"2023-12-14","url":"kalinin_daniil_1609_4_kesar.json"}
+, {"y":1380,"bid":5163,"b":"1 - 3 Князь Фёдор. Куликовская сеча 1 -3 ","sc":3,"s":"Князь Федор (Злая Русь 2) ","sid":1169,"ad":"2025-02-28","url":"kalinin_daniil_1380_1_3_knyaz_fyodor_kulikovskaya_secha_1_3_.json"}
 , {"y":1237,"bid":3407,"b":"1. Злая Русь. Зима 1237","sc":3,"s":"Злая Русь","sid":317,"se":"F","sx":"1","ad":"2023-02-07","url":"kalinin_daniil_1237_1_zlaya_rus_zima_1237.json"}
 , {"y":1237,"bid":3408,"b":"2. Злая Русь. Пронск","sc":3,"s":"Злая Русь","sid":317,"se":"F","sx":"1","ad":"2023-02-07","url":"kalinin_daniil_1237_2_zlaya_rus_pronsk.json"}
 , {"y":1237,"bid":3409,"b":"3. Злая Русь. Зима 1238","sc":3,"s":"Злая Русь","sid":317,"se":"F","sx":"1","ad":"2023-02-07","url":"kalinin_daniil_1237_3_zlaya_rus_zima_1238.json"}
@@ -3776,6 +3921,7 @@
 ]
 , "series": [{"sid":317,"s":"Злая Русь","se":"zlaya_rus","a":"Калинин Даниил"}
 , {"sid":326,"s":"Игра не для всех","se":"igra_ne_dlya_vsekh","a":"Калинин Даниил"}
+, {"sid":1169,"s":"Князь Федор (Злая Русь 2) ","se":"knyaz_fedor_zlaya_rus_2_","a":"Калинин Даниил"}
 , {"sid":607,"s":"Орел и Ворон","se":"orel_i_voron","a":"Калинин Даниил"}
 ]
 
@@ -4049,8 +4195,10 @@
 , {"y":1490,"bid":3234,"b":"3. Нагибатор Сухоруков","sc":4,"s":"Император Сухоруков","sid":340,"se":"F","sx":"1","ad":"2023-02-07","url":"klenin_vasiliy_1490_3_nagibator_sukhorukov.json"}
 , {"y":1490,"bid":3235,"b":"4. Кондотьер Сухоруков","sc":4,"s":"Император Сухоруков","sid":340,"se":"F","sx":"1","ad":"2023-02-07","url":"klenin_vasiliy_1490_4_kondoter_sukhorukov.json"}
 , {"y":1490,"bid":3236,"b":"5. Теотль Сухоруков","sc":4,"s":"Император Сухоруков","sid":340,"se":"P","sx":"1","ad":"2023-02-07","url":"klenin_vasiliy_1490_5_teotl_sukhorukov.json"}
+, {"y":1419,"bid":5160,"b":"Пресвитерианцы","sc":3,"s":"Пресвитерианцы","sid":1166,"ad":"2025-02-28","url":"klenin_vasiliy_1419_presviteriancy.json"}
 ]
 , "series": [{"sid":340,"s":"Император Сухоруков","se":"imperator_sukhorukov","a":"Кленин Василий"}
+, {"sid":1166,"s":"Пресвитерианцы","se":"presviteriancy","a":"Кленин Василий"}
 , {"sid":788,"s":"Русь Чёрная","se":"rus_chyornaya","a":"Кленин Василий"}
 ]
 
@@ -4076,6 +4224,7 @@
 , {"y":1982,"bid":315,"b":"2. Покорители прошлого","sc":3,"s":"Мир станет другим","sid":498,"se":"F","ad":"2023-08-13","url":"klimonov_yuriy_lebedeva_nataliya_evgenevna_1982_2_pokoriteli_proshlogo.json"}
 , {"y":1982,"bid":316,"b":"3. Другим путём","sc":3,"s":"Мир станет другим","sid":498,"se":"F","ad":"2023-12-14","url":"klimonov_yuriy_lebedeva_nataliya_evgenevna_1982_3_drugim_putyom.json"}
 , {"y":1982,"bid":317,"b":"4. Москва зовёт","sc":3,"s":"Мир станет другим","sid":498,"se":"P","ad":"2024-01-31","url":"klimonov_yuriy_lebedeva_nataliya_evgenevna_1982_4_moskva_zovyot.json"}
+, {"y":1982,"bid":5018,"b":"5. Гори, но живи","sc":3,"s":"Мир станет другим","sid":498,"ad":"2025-02-28","url":"klimonov_yuriy_lebedeva_nataliya_evgenevna_1982_5_gori_no_zhivi.json"}
 ]
 , "series": [{"sid":498,"s":"Мир станет другим","se":"mir_stanet_drugim","a":"Климонов Юрий, Лебедева Наталия Евгеньевна"}
 ]
@@ -4176,6 +4325,12 @@
 , {"AuthorId":548,"AuthorName":"Колка Ярина","AuthorEng":"kolka_yarina","books": [{"y":1866,"bid":2420,"b":"Святки без оглядки","sc":3,"se":"P","ad":"2023-08-13","url":"kolka_yarina_1866_svyatki_bez_oglyadki.json"}
 ]
 , "series": []
+
+}
+, {"AuthorId":1253,"AuthorName":"Коллингвуд Виктор","AuthorEng":"kollingvud_viktor","books": [{"y":1787,"bid":5140,"b":"1 -5 Благословенный","sc":3,"s":"Александр I Благословенный","sid":1153,"ad":"2025-02-28","url":"kollingvud_viktor_1787_1_5_blagoslovenny.json"}
+]
+, "series": [{"sid":1153,"s":"Александр I Благословенный","se":"aleksandr_i_blagoslovenny","a":"Коллингвуд Виктор"}
+]
 
 }
 , {"AuthorId":549,"AuthorName":"Колмаков Владислав","AuthorEng":"kolmakov_vladislav","AuthorGender":"1","books": [{"y":1939,"bid":1606,"b":"Тень Перл-Харбора","sc":3,"se":"F","sx":"1","url":"kolmakov_vladislav_1939_ten_perl_kharbora.json"}
@@ -4351,12 +4506,15 @@
 }
 , {"AuthorId":570,"AuthorName":"Коруд Ал","AuthorEng":"korud_al","books": [{"y":1975,"bid":593,"b":"1. Иннокентий","sc":3,"s":"Иннокентий","sid":351,"se":"F","ad":"2023-12-14","url":"korud_al_1975_1_innokentiy.json"}
 , {"y":1975,"bid":594,"b":"2. Иннокентий 2","sc":3,"s":"Иннокентий","sid":351,"se":"P","ad":"2024-01-31","url":"korud_al_1975_2_innokentiy_2.json"}
+, {"y":1975,"bid":5046,"b":"3. Иннокентий 3","sc":3,"s":"Иннокентий","sid":351,"ad":"2025-02-28","url":"korud_al_1975_3_innokentiy_3.json"}
 , {"y":1975,"bid":599,"b":"1. Рожденные в СССР. Часть Первая. Пришествие","sc":3,"s":"Рожденные в СССР","sid":774,"se":"F","ad":"2023-02-07","url":"korud_al_1975_1_rozhdennye_v_sssr_chast_pervaya_prishestvie.json"}
 , {"y":1975,"bid":600,"b":"2. Рожденные в СССР. Часть вторая. Обретение","sc":3,"s":"Рожденные в СССР","sid":774,"se":"F","url":"korud_al_1975_2_rozhdennye_v_sssr_chast_vtoraya_obretenie.json"}
 , {"y":1975,"bid":601,"b":"3. Рожденные в СССР. Откат","sc":3,"s":"Рожденные в СССР","sid":774,"se":"F","ad":"2023-02-07","url":"korud_al_1975_3_rozhdennye_v_sssr_otkat.json"}
 , {"y":1975,"bid":602,"b":"4. Рожденные в СССР. Восхождение","sc":3,"s":"Рожденные в СССР","sid":774,"se":"F","ad":"2023-02-07","url":"korud_al_1975_4_rozhdennye_v_sssr_voskhozhdenie.json"}
+, {"y":1965,"bid":5065,"b":"Генеральный попаданец","sc":3,"s":"Генеральный","sid":1102,"ad":"2025-02-28","url":"korud_al_1965_generalny_popadanec.json"}
 ]
-, "series": [{"sid":351,"s":"Иннокентий","se":"innokentiy","a":"Коруд Ал"}
+, "series": [{"sid":1102,"s":"Генеральный","se":"generalny","a":"Коруд Ал"}
+, {"sid":351,"s":"Иннокентий","se":"innokentiy","a":"Коруд Ал"}
 , {"sid":774,"s":"Рожденные в СССР","se":"rozhdennye_v_sssr","a":"Коруд Ал"}
 ]
 
@@ -4691,6 +4849,7 @@
 , {"y":1979,"bid":428,"b":"1. Коронавирус","sc":3,"s":"Хроники скупщика","sid":973,"se":"S","sx":"1","url":"kukovyakin_sergey_anatolevich_1979_1_koronavirus.json"}
 , {"y":1979,"bid":429,"b":"2. В чужую юность","sc":3,"s":"Хроники скупщика","sid":973,"se":"S","sx":"1","url":"kukovyakin_sergey_anatolevich_1979_2_v_chuzhuyu_yunost.json"}
 , {"y":1979,"bid":430,"b":"3. Новый полдень","sc":3,"s":"Хроники скупщика","sid":973,"se":"F","sx":"1","ad":"2023-02-07","url":"kukovyakin_sergey_anatolevich_1979_3_novy_polden.json"}
+, {"y":1928,"bid":5093,"b":"1 -2 Санька-умник 1 -2 ","sc":3,"s":"Санька-умник","sid":1119,"ad":"2025-02-28","url":"kukovyakin_sergey_anatolevich_1928_1_2_sanka_umnik_1_2_.json"}
 , {"y":1908,"bid":2017,"b":"1. Девки гулящие","sc":3,"s":"Девки гулящие","sid":244,"se":"F","sx":"1","ad":"2023-02-07","url":"kukovyakin_sergey_anatolevich_1908_1_devki_gulyashchie.json"}
 , {"y":1908,"bid":2018,"b":"2. Девки гулящие 2","sc":3,"s":"Девки гулящие","sid":244,"se":"F","sx":"1","ad":"2023-02-07","url":"kukovyakin_sergey_anatolevich_1908_2_devki_gulyashchie_2.json"}
 , {"y":1908,"bid":2019,"b":"3. Девки гулящие 3","sc":3,"s":"Девки гулящие","sid":244,"se":"F","sx":"1","ad":"2023-02-07","url":"kukovyakin_sergey_anatolevich_1908_3_devki_gulyashchie_3.json"}
@@ -4704,10 +4863,12 @@
 , {"y":1903,"bid":2135,"b":"08. Ванька 8","sc":3,"s":"Ванька","sid":118,"se":"F","sx":"1","ad":"2023-09-19","url":"kukovyakin_sergey_anatolevich_1903_08_vanka_8.json"}
 , {"y":1903,"bid":2136,"b":"09. Ванька 9","sc":3,"s":"Ванька","sid":118,"se":"F","sx":"1","ad":"2023-12-14","url":"kukovyakin_sergey_anatolevich_1903_09_vanka_9.json"}
 , {"y":1903,"bid":2137,"b":"10. Ванька 10","sc":3,"s":"Ванька","sid":118,"se":"P","sx":"1","ad":"2024-01-31","url":"kukovyakin_sergey_anatolevich_1903_10_vanka_10.json"}
+, {"y":1903,"bid":5107,"b":"11 - 13. Ванька 11 - 13.","sc":3,"s":"Ванька","sid":118,"ad":"2025-02-28","url":"kukovyakin_sergey_anatolevich_1903_11_13_vanka_11_13_.json"}
 ]
 , "series": [{"sid":65,"s":"Бакалавр","se":"bakalavr","a":"Куковякин Сергей Анатольевич"}
 , {"sid":118,"s":"Ванька","se":"vanka","a":"Куковякин Сергей Анатольевич"}
 , {"sid":244,"s":"Девки гулящие","se":"devki_gulyashchie","a":"Куковякин Сергей Анатольевич"}
+, {"sid":1119,"s":"Санька-умник","se":"sanka_umnik","a":"Куковякин Сергей Анатольевич"}
 , {"sid":973,"s":"Хроники скупщика","se":"khroniki_skupshchika","a":"Куковякин Сергей Анатольевич"}
 ]
 
@@ -4717,23 +4878,27 @@
 , "series": []
 
 }
-, {"AuthorId":607,"AuthorName":"Кулаков Алексей","AuthorEng":"kulakov_aleksey","AuthorGender":"1","books": [{"y":1886,"bid":2311,"b":"1. \u0027На границе тучи ходят хмуро\u0027","sc":3,"s":"Александр Агренев ","sid":31,"se":"S","sx":"1","url":"kulakov_aleksey_1886_1_na_granice_tuchi_khodyat_khmuro_.json"}
+, {"AuthorId":607,"AuthorName":"Кулаков Алексей","AuthorEng":"kulakov_aleksey","AuthorGender":"1","books": [{"y":1937,"bid":5088,"b":"Морана","sc":3,"s":"Морана","sid":1114,"ad":"2025-02-28","url":"kulakov_aleksey_1937_morana.json"}
+, {"y":1886,"bid":2311,"b":"1. \u0027На границе тучи ходят хмуро\u0027","sc":3,"s":"Александр Агренев ","sid":31,"se":"S","sx":"1","url":"kulakov_aleksey_1886_1_na_granice_tuchi_khodyat_khmuro_.json"}
 , {"y":1886,"bid":2312,"b":"2. Оружейникъ","sc":3,"s":"Александр Агренев ","sid":31,"se":"S","sx":"1","url":"kulakov_aleksey_1886_2_oruzheynik_.json"}
 , {"y":1886,"bid":2313,"b":"3. Промышленникъ","sc":3,"s":"Александр Агренев ","sid":31,"se":"S","sx":"1","url":"kulakov_aleksey_1886_3_promyshlennik_.json"}
 , {"y":1886,"bid":2314,"b":"4. Магнатъ","sc":3,"s":"Александр Агренев ","sid":31,"se":"F","sx":"1","url":"kulakov_aleksey_1886_4_magnat_.json"}
 , {"y":1886,"bid":2315,"b":"5. Военный советник","sc":3,"s":"Александр Агренев ","sid":31,"se":"F","sx":"1","url":"kulakov_aleksey_1886_5_voenny_sovetnik.json"}
 , {"y":1886,"bid":2316,"b":"6. Чиновникъ Особых поручений","sc":3,"s":"Александр Агренев ","sid":31,"se":"F","sx":"1","url":"kulakov_aleksey_1886_6_chinovnik_osobykh_porucheniy.json"}
+, {"y":1886,"bid":5119,"b":"7. Торговец Смертью","sc":3,"s":"Александр Агренев ","sid":31,"ad":"2025-02-28","url":"kulakov_aleksey_1886_7_torgovec_smertyu.json"}
 , {"y":1560,"bid":3123,"b":"1. Наследник","sc":3,"s":"Рюрикова кровь","sid":790,"se":"S","sx":"1","url":"kulakov_aleksey_1560_1_naslednik.json"}
 , {"y":1560,"bid":3124,"b":"2. Великий князь","sc":3,"s":"Рюрикова кровь","sid":790,"se":"S","sx":"1","url":"kulakov_aleksey_1560_2_velikiy_knyaz.json"}
 , {"y":1560,"bid":3125,"b":"3. Государь","sc":3,"s":"Рюрикова кровь","sid":790,"se":"P","sx":"1","url":"kulakov_aleksey_1560_3_gosudar.json"}
 ]
 , "series": [{"sid":31,"s":"Александр Агренев ","se":"aleksandr_agrenev_","a":"Кулаков Алексей"}
+, {"sid":1114,"s":"Морана","se":"morana","a":"Кулаков Алексей"}
 , {"sid":790,"s":"Рюрикова кровь","se":"ryurikova_krov","a":"Кулаков Алексей"}
 ]
 
 }
 , {"AuthorId":608,"AuthorName":"Кулаков Игорь","AuthorEng":"kulakov_igor","AuthorGender":"1","books": [{"y":1978,"bid":505,"b":"1. Цивилизатор в СССР 1978","sc":3,"s":"Цивилизатор в СССР","sid":987,"se":"F","sx":"1","ad":"2023-02-07","url":"kulakov_igor_1978_1_civilizator_v_sssr_1978.json"}
 , {"y":1978,"bid":506,"b":"2. Цивилизатор в СССР 1980","sc":3,"s":"Цивилизатор в СССР","sid":987,"se":"F","sx":"1","ad":"2023-08-13","url":"kulakov_igor_1978_2_civilizator_v_sssr_1980.json"}
+, {"y":1978,"bid":5033,"b":"3 - 4. Цивилизатор в СССР 1982","sc":3,"s":"Цивилизатор в СССР","sid":987,"ad":"2025-02-28","url":"kulakov_igor_1978_3_4_civilizator_v_sssr_1982.json"}
 , {"y":1941,"bid":1015,"b":"1. \"Ковидники\" ft. \"совки\"","sc":3,"s":"\"Ковидники\" ft. \"совки\"","sid":4,"se":"F","sx":"1","url":"kulakov_igor_1941_1_kovidniki_ft_sovki_.json"}
 , {"y":1941,"bid":1016,"b":"2. Посудная лавка химеромира","sc":2,"s":"\"Ковидники\" ft. \"совки\"","sid":4,"se":"F","sx":"1","ad":"2023-02-07","url":"kulakov_igor_1941_2_posudnaya_lavka_khimeromira.json"}
 , {"y":1940,"bid":1553,"b":"1. Программист Сталина","sc":3,"s":"Программист Сталина","sid":710,"se":"F","sx":"1","url":"kulakov_igor_1940_1_programmist_stalina.json"}
@@ -4741,6 +4906,7 @@
 , {"y":1940,"bid":1555,"b":"3. Диапазон скорби 1942","sc":3,"s":"Программист Сталина","sid":710,"se":"F","sx":"1","url":"kulakov_igor_1940_3_diapazon_skorbi_1942.json"}
 , {"y":1940,"bid":1556,"b":"4. Троянец двух господ 1943","sc":3,"s":"Программист Сталина","sid":710,"se":"F","sx":"1","url":"kulakov_igor_1940_4_troyanec_dvukh_gospod_1943.json"}
 , {"y":1940,"bid":1557,"b":"5. Плоды релиза Победы 1948","sc":3,"s":"Программист Сталина","sid":710,"se":"F","sx":"1","ad":"2023-02-07","url":"kulakov_igor_1940_5_plody_reliza_pobedy_1948.json"}
+, {"y":1940,"bid":5085,"b":"6. Игры Сталина 1955","sc":3,"s":"Программист Сталина","sid":710,"ad":"2025-02-28","url":"kulakov_igor_1940_6_igry_stalina_1955.json"}
 ]
 , "series": [{"sid":4,"s":"\"Ковидники\" ft. \"совки\"","se":"_kovidniki_ft_sovki_","a":"Кулаков Игорь"}
 , {"sid":710,"s":"Программист Сталина","se":"programmist_stalina","a":"Кулаков Игорь"}
@@ -4940,6 +5106,7 @@
 , {"y":850,"bid":3695,"b":"2. Князь... просто князь","sc":3,"s":"Ярослав","sid":1060,"se":"F","sx":"1","url":"lancov_mikhail_850_2_knyaz_prosto_knyaz.json"}
 , {"y":850,"bid":3696,"b":"3. Консул Руси","sc":3,"s":"Ярослав","sid":1060,"se":"F","sx":"1","url":"lancov_mikhail_850_3_konsul_rusi.json"}
 , {"y":850,"bid":3697,"b":"4. Государь Руси","sc":3,"s":"Ярослав","sid":1060,"se":"F","sx":"1","url":"lancov_mikhail_850_4_gosudar_rusi.json"}
+, {"y":150,"bid":5170,"b":"Хозяин Дубравы","sc":4,"s":"Хозяин дубравы","sid":1173,"ad":"2025-02-28","url":"lancov_mikhail_150_khozyain_dubravy.json"}
 ]
 , "series": [{"sid":76,"s":"Безумный Макс","se":"bezumny_maks","a":"Ланцов Михаил"}
 , {"sid":251,"s":"Десантник на престоле","se":"desantnik_na_prestole","a":"Ланцов Михаил"}
@@ -4951,6 +5118,7 @@
 , {"sid":883,"s":"Сын Петра","se":"syn_petra","a":"Ланцов Михаил"}
 , {"sid":956,"s":"Фрунзе","se":"frunze","a":"Ланцов Михаил"}
 , {"sid":960,"s":"Хмурый Император","se":"khmury_imperator","a":"Ланцов Михаил"}
+, {"sid":1173,"s":"Хозяин дубравы","se":"khozyain_dubravy","a":"Ланцов Михаил"}
 , {"sid":1044,"s":"Эрик","se":"erik","a":"Ланцов Михаил"}
 , {"sid":1060,"s":"Ярослав","se":"yaroslav","a":"Ланцов Михаил"}
 ]
@@ -5221,10 +5389,13 @@
 , {"y":1900,"bid":2178,"b":"1. Первый Император. Дебют ","sc":3,"s":"Первый император","sid":641,"se":"S","sx":"1","url":"loginov_anatoliy_1900_1_pervy_imperator_debyut_.json"}
 , {"y":1900,"bid":2179,"b":"2. Первый Император. Миттельшпиль ","sc":3,"s":"Первый император","sid":641,"se":"F","sx":"1","url":"loginov_anatoliy_1900_2_pervy_imperator_mittelshpil_.json"}
 , {"y":1900,"bid":2180,"b":"3. Первый император. Эндшпиль","sc":3,"s":"Первый император","sid":641,"se":"F","sx":"1","ad":"2023-02-07","url":"loginov_anatoliy_1900_3_pervy_imperator_endshpil.json"}
+, {"y":1900,"bid":5109,"b":"4. Первый император. Наследник","sc":3,"s":"Первый император","sid":641,"ad":"2025-02-28","url":"loginov_anatoliy_1900_4_pervy_imperator_naslednik.json"}
 , {"y":1066,"bid":3580,"b":"1. Часть 1. Боже, храни Англию!","sc":3,"s":"Сага о пришельцах из будущего. God, save England!","sid":792,"se":"F","sx":"1","url":"loginov_anatoliy_1066_chast_1_bozhe_khrani_angliyu_.json"}
 , {"y":1066,"bid":3581,"b":"2. Часть 2. Suum quique. Империя Русь","sc":3,"s":"Сага о пришельцах из будущего. God, save England!","sid":792,"sx":"1","url":"loginov_anatoliy_1066_chast_2_suum_quique_imperiya_rus.json"}
+, {"y":79,"bid":5171,"b":"Roma Aeterna (Вечный Рим)","sc":3,"s":"Roma Aeterna (Вечный Рим)","sid":1174,"ad":"2025-02-28","url":"loginov_anatoliy_79_roma_aeterna_vechny_rim_.json"}
 ]
-, "series": [{"sid":254,"s":"Джеронимо","se":"dzheronimo","a":"Логинов Анатолий"}
+, "series": [{"sid":1174,"s":"Roma Aeterna (Вечный Рим)","se":"roma_aeterna_vechny_rim_","a":"Логинов Анатолий"}
+, {"sid":254,"s":"Джеронимо","se":"dzheronimo","a":"Логинов Анатолий"}
 , {"sid":386,"s":"Клим Ворошилов-2/2","se":"klim_voroshilov_2_2","a":"Логинов Анатолий"}
 , {"sid":641,"s":"Первый император","se":"pervy_imperator","a":"Логинов Анатолий"}
 , {"sid":792,"s":"Сага о пришельцах из будущего. God, save England!","se":"saga_o_prishelcakh_iz_budushchego_god_save_england_","a":"Логинов Анатолий"}
@@ -5260,6 +5431,7 @@
 
 }
 , {"AuthorId":669,"AuthorName":"Лопатин Георгий","AuthorEng":"lopatin_georgiy","AuthorGender":"1","books": [{"y":1980,"bid":4021,"b":"Приказ простой...","sx":"1","url":"lopatin_georgiy_1980_prikaz_prostoy_.json"}
+, {"y":1980,"bid":5029,"b":"1 -4 Приказ простой 1 - 4","sc":3,"s":"Приказ простой","sid":1083,"ad":"2025-02-28","url":"lopatin_georgiy_1980_1_4_prikaz_prostoy_1_4.json"}
 , {"y":1916,"bid":1938,"b":"1. Экспедиционный корпус","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":"1","ad":"2023-02-07","url":"lopatin_georgiy_1916_1_ekspedicionny_korpus.json"}
 , {"y":1916,"bid":1939,"b":"2. Возвращение экспедиционного корпуса","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":"1","ad":"2023-08-13","url":"lopatin_georgiy_1916_2_vozvrashchenie_ekspedicionnogo_korpusa.json"}
 , {"y":1916,"bid":1940,"b":"3. Гражданская война","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"P","sx":"1","ad":"2023-08-13","url":"lopatin_georgiy_1916_3_grazhdanskaya_voyna.json"}
@@ -5279,6 +5451,7 @@
 ]
 , "series": [{"sid":77,"s":"Беловодье","se":"belovode","a":"Лопатин Георгий"}
 , {"sid":394,"s":"Князь РУС","se":"knyaz_rus","a":"Лопатин Георгий"}
+, {"sid":1083,"s":"Приказ простой","se":"prikaz_prostoy","a":"Лопатин Георгий"}
 , {"sid":979,"s":"Царь Юрий","se":"car_yuriy","a":"Лопатин Георгий"}
 , {"sid":1007,"s":"Чёрный шаман","se":"chyorny_shaman","a":"Лопатин Георгий"}
 , {"sid":1038,"s":"Экспедиционный корпус","se":"ekspedicionny_korpus","a":"Лопатин Георгий"}
@@ -5320,6 +5493,7 @@
 , {"y":1850,"bid":2500,"b":"1. Некомбатант","sc":3,"s":"Некомбатант","sid":558,"se":"F","sx":"1","ad":"2023-02-07","url":"lysak_sergey_1850_1_nekombatant.json"}
 , {"y":1850,"bid":2501,"b":"2. Некомбатант 2","sc":3,"s":"Некомбатант","sid":558,"se":"F","sx":"1","ad":"2023-08-13","url":"lysak_sergey_1850_2_nekombatant_2.json"}
 , {"y":1850,"bid":2502,"b":"3. Черноморский призрак","sc":3,"s":"Некомбатант","sid":558,"se":"P","sx":"1","ad":"2024-01-31","url":"lysak_sergey_1850_3_chernomorskiy_prizrak.json"}
+, {"y":1850,"bid":5129,"b":"4. Черноморский призрак - 2","sc":3,"s":"Некомбатант","sid":558,"ad":"2025-02-28","url":"lysak_sergey_1850_4_chernomorskiy_prizrak_2.json"}
 , {"y":1715,"bid":2848,"b":"1. Одиссея адмирала","sc":3,"s":"Одиссея адмирала Кортеса","sid":590,"se":"S","sx":"1","url":"lysak_sergey_1715_1_odisseya_admirala.json"}
 , {"y":1715,"bid":2849,"b":"2. Карибский рейдер ","sc":3,"s":"Одиссея адмирала Кортеса","sid":590,"se":"S","sx":"1","url":"lysak_sergey_1715_2_karibskiy_reyder_.json"}
 , {"y":1715,"bid":2850,"b":"3. От Гудзона до Ла-Платы","sc":3,"s":"Одиссея адмирала Кортеса","sid":590,"se":"S","sx":"1","url":"lysak_sergey_1715_3_ot_gudzona_do_la_platy.json"}
@@ -5355,6 +5529,7 @@
 }
 , {"AuthorId":679,"AuthorName":"Любушкин Алексей","AuthorEng":"lyubushkin_aleksey","AuthorGender":"1","books": [{"y":1914,"bid":1982,"b":"1. Штурмовик Империи","sc":2,"s":"Штурмовик","sid":1032,"se":"P","sx":"1","ad":"2023-09-19","url":"lyubushkin_aleksey_1914_1_shturmovik_imperii.json"}
 , {"y":1914,"bid":1983,"b":"2. Кровь Империи","sc":3,"s":"Штурмовик","sid":1032,"se":"P","sx":"1","ad":"2024-01-31","url":"lyubushkin_aleksey_1914_2_krov_imperii.json"}
+, {"y":1914,"bid":5099,"b":"3. Честь Империи","sc":3,"s":"Штурмовик","sid":1032,"ad":"2025-02-28","url":"lyubushkin_aleksey_1914_3_chest_imperii.json"}
 ]
 , "series": [{"sid":1032,"s":"Штурмовик","se":"shturmovik","a":"Любушкин Алексей"}
 ]
@@ -5407,10 +5582,12 @@
 
 }
 , {"AuthorId":683,"AuthorName":"Майоров Сергей","AuthorEng":"mayorov_sergey","AuthorGender":"1","books": [{"y":1982,"bid":339,"b":"Аферист","sc":3,"se":"P","sx":"1","ad":"2023-08-13","url":"mayorov_sergey_1982_aferist.json"}
+, {"y":1982,"bid":5019,"b":"Аферист 2","sc":3,"s":"Аферист","sid":1078,"ad":"2025-02-28","url":"mayorov_sergey_1982_aferist_2.json"}
 , {"y":1975,"bid":591,"b":"1. Золото Советского Союза: назад в 1975.","sc":3,"s":"Золото Советского Союз","sid":319,"se":"F","sx":"1","ad":"2023-02-07","url":"mayorov_sergey_1975_1_zoloto_sovetskogo_soyuza_nazad_v_1975_.json"}
 , {"y":1975,"bid":592,"b":"2. Золото Советского Союза: назад в 1975. Книга 2","sc":3,"s":"Золото Советского Союз","sid":319,"se":"F","sx":"1","ad":"2023-02-07","url":"mayorov_sergey_1975_2_zoloto_sovetskogo_soyuza_nazad_v_1975_kniga_2.json"}
 ]
-, "series": [{"sid":319,"s":"Золото Советского Союз","se":"zoloto_sovetskogo_soyuz","a":"Майоров Сергей"}
+, "series": [{"sid":1078,"s":"Аферист","se":"aferist","a":"Майоров Сергей"}
+, {"sid":319,"s":"Золото Советского Союз","se":"zoloto_sovetskogo_soyuz","a":"Майоров Сергей"}
 ]
 
 }
@@ -5665,6 +5842,7 @@
 , {"y":1895,"bid":2227,"b":"Произвольная точка бифуркации","sc":3,"se":"F","sx":"1","url":"markhuz_1895_proizvolnaya_tochka_bifurkacii.json"}
 , {"y":1875,"bid":2391,"b":"1. Книга I","sc":3,"s":"Детище архангела Азраила","sid":252,"se":"F","sx":"1","url":"markhuz_1875_1_kniga_i.json"}
 , {"y":1875,"bid":2392,"b":"2. Книга II","sc":3,"s":"Детище архангела Азраила","sid":252,"sx":"1","url":"markhuz_1875_2_kniga_ii.json"}
+, {"y":1875,"bid":5123,"b":"Развоплощённый","sc":3,"s":"Развоплощённый","sid":1140,"ad":"2025-02-28","url":"markhuz_1875_razvoploshchyonny.json"}
 , {"y":1860,"bid":2458,"b":"1. Чёрный поручик","sc":3,"s":"Чёрный поручик","sid":1004,"se":"F","sx":"1","ad":"2023-02-07","url":"markhuz_1860_1_chyorny_poruchik.json"}
 , {"y":1860,"bid":2459,"b":"2. Чёрный господарь","sc":3,"s":"Чёрный поручик","sid":1004,"se":"F","sx":"1","ad":"2023-02-07","url":"markhuz_1860_2_chyorny_gospodar.json"}
 , {"y":1860,"bid":2460,"b":"3. Чёрный полководец","sc":3,"s":"Чёрный поручик","sid":1004,"se":"P","sx":"1","ad":"2023-02-07","url":"markhuz_1860_3_chyorny_polkovodec.json"}
@@ -5682,6 +5860,7 @@
 , {"sid":226,"s":"Гром из будущего","se":"grom_iz_budushchego","a":"Мархуз"}
 , {"sid":252,"s":"Детище архангела Азраила","se":"detishche_arkhangela_azraila","a":"Мархуз"}
 , {"sid":392,"s":"Князь Вяземский","se":"knyaz_vyazemskiy","a":"Мархуз"}
+, {"sid":1140,"s":"Развоплощённый","se":"razvoploshchyonny","a":"Мархуз"}
 , {"sid":753,"s":"Реактивация яджуджи","se":"reaktivaciya_yadzhudzhi","a":"Мархуз"}
 , {"sid":863,"s":"Старко","se":"starko","a":"Мархуз"}
 , {"sid":1004,"s":"Чёрный поручик","se":"chyorny_poruchik","a":"Мархуз"}
@@ -5694,6 +5873,7 @@
 , {"y":1977,"bid":520,"b":"4. Том IV","sc":3,"s":"Второй шанс","sid":193,"se":"F","sx":"1","url":"marchenko_gennadiy_1977_4_tom_iv.json"}
 , {"y":1977,"bid":521,"b":"5. Том V","sc":3,"s":"Второй шанс","sid":193,"se":"F","sx":"1","url":"marchenko_gennadiy_1977_5_tom_v.json"}
 , {"y":1977,"bid":522,"b":"6. Второй шанс - VI","sc":3,"s":"Второй шанс","sid":193,"se":"F","sx":"1","url":"marchenko_gennadiy_1977_6_vtoroy_shans_vi.json"}
+, {"y":1976,"bid":5040,"b":"1 -3 Вторая жизнь Арсения Коренева 1 -3","sc":3,"s":"Вторая жизнь Арсения Коренева","sid":1089,"ad":"2025-02-28","url":"marchenko_gennadiy_1976_1_3_vtoraya_zhizn_arseniya_koreneva_1_3.json"}
 , {"y":1975,"bid":598,"b":"1. Перезагрузка или Back in the Ussr (3 книги)","sc":3,"s":"Перезагрузка","sid":644,"se":"F","sx":"1","url":"marchenko_gennadiy_1975_perezagruzka_ili_back_in_the_ussr_3_knigi_.json"}
 , {"y":1973,"bid":643,"b":"1. Стилист Том I ","sc":3,"s":"Стилист","sid":865,"se":"F","sx":"1","url":"marchenko_gennadiy_1973_1_stilist_tom_i_.json"}
 , {"y":1973,"bid":644,"b":"2. Стилист Том II ","sc":3,"s":"Стилист","sid":865,"se":"F","sx":"1","url":"marchenko_gennadiy_1973_2_stilist_tom_ii_.json"}
@@ -5710,7 +5890,8 @@
 , {"y":1147,"bid":3536,"b":"1. Крестоносец","sc":3,"s":"Крестоносец","sid":437,"se":"F","sx":"1","ad":"2023-02-07","url":"marchenko_gennadiy_1147_1_krestonosec.json"}
 , {"y":1147,"bid":3537,"b":"2. Крестоносец. Византия","sc":3,"s":"Крестоносец","sid":437,"se":"F","sx":"1","ad":"2023-02-07","url":"marchenko_gennadiy_1147_2_krestonosec_vizantiya.json"}
 ]
-, "series": [{"sid":193,"s":"Второй шанс","se":"vtoroy_shans","a":"Марченко Геннадий"}
+, "series": [{"sid":1089,"s":"Вторая жизнь Арсения Коренева","se":"vtoraya_zhizn_arseniya_koreneva","a":"Марченко Геннадий"}
+, {"sid":193,"s":"Второй шанс","se":"vtoroy_shans","a":"Марченко Геннадий"}
 , {"sid":437,"s":"Крестоносец","se":"krestonosec","a":"Марченко Геннадий"}
 , {"sid":508,"s":"Мой адрес - Советский Союз","se":"moy_adres_sovetskiy_soyuz","a":"Марченко Геннадий"}
 , {"sid":509,"s":"Мой адрес - Советский Союз!","se":"moy_adres_sovetskiy_soyuz_","a":"Марченко Геннадий"}
@@ -5742,12 +5923,14 @@
 , {"AuthorId":724,"AuthorName":"Матвиенко Анатолий","AuthorEng":"matvienko_anatoliy","AuthorGender":"1","books": [{"y":1982,"bid":305,"b":"1. Алло, милиция?","sc":3,"s":"Алло, милиция?","sid":37,"se":"F","sx":"1","ad":"2023-02-07","url":"matvienko_anatoliy_1982_1_allo_miliciya_.json"}
 , {"y":1982,"bid":306,"b":"2. Алло, Милиция? Часть 2 ","sc":3,"s":"Алло, милиция?","sid":37,"se":"F","sx":"1","url":"matvienko_anatoliy_1982_2_allo_miliciya_chast_2_.json"}
 , {"y":1982,"bid":307,"b":"3. Часть 3","sc":3,"s":"Алло, милиция?","sid":37,"se":"P","sx":"1","ad":"2024-01-31","url":"matvienko_anatoliy_1982_3_chast_3.json"}
+, {"y":1957,"bid":5067,"b":"Второй полёт Гагарина","sc":3,"s":"Космонавт","sid":1104,"ad":"2025-02-28","url":"matvienko_anatoliy_1957_vtoroy_polyot_gagarina.json"}
 , {"y":1826,"bid":2568,"b":"1. Во славу русскую","sc":3,"s":"Штуцер и тесак","sid":1035,"se":"F","sx":"1","ad":"2023-02-07","url":"matvienko_anatoliy_1826_vo_slavu_russkuyu.json"}
 , {"y":1579,"bid":3089,"b":"1. Де Бюсси","sc":3,"s":"Граф Де Бюсси","sid":224,"se":"S","sx":"1","url":"matvienko_anatoliy_1579_1_de_byussi.json"}
 , {"y":1579,"bid":3090,"b":"2. Де Бюсси и инфанта","sc":3,"s":"Граф Де Бюсси","sid":224,"se":"S","sx":"1","url":"matvienko_anatoliy_1579_2_de_byussi_i_infanta.json"}
 ]
 , "series": [{"sid":37,"s":"Алло, милиция?","se":"allo_miliciya_","a":"Матвиенко Анатолий"}
 , {"sid":224,"s":"Граф Де Бюсси","se":"graf_de_byussi","a":"Матвиенко Анатолий"}
+, {"sid":1104,"s":"Космонавт","se":"kosmonavt","a":"Матвиенко Анатолий"}
 , {"sid":1035,"s":"Штуцер и тесак","se":"shtucer_i_tesak","a":"Матвиенко Анатолий"}
 ]
 
@@ -5967,6 +6150,7 @@
 , {"y":1941,"bid":1050,"b":"4. Вторая \u0027Зимняя Война\u0027","sc":2,"s":"Врата Войны","sid":180,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_4_vtoraya_zimnyaya_voyna_.json"}
 , {"y":1941,"bid":1051,"b":"5. Балканы. Красный рассвет","sc":2,"s":"Врата Войны","sid":180,"se":"S","sx":"2","ad":"2023-02-07","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_5_balkany_krasny_rassvet.json"}
 , {"y":1941,"bid":1052,"b":"6. Операция «Яростный полдень»","sc":3,"s":"Врата Войны","sid":180,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_6_operaciya_yarostny_polden_.json"}
+, {"y":1941,"bid":5077,"b":"7 - 9. За точкой невозврата. Утро псового лая\n","sc":3,"s":"Врата войны","sid":180,"ad":"2025-02-28","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_7_9_za_tochkoy_nevozvrata_utro_psovogo_laya_.json"}
 , {"y":1941,"bid":1071,"b":"2. Визит «Полярного Лиса»","sc":2,"s":"Галактические войны ","sid":202,"se":"F","sx":"2","ad":"2023-02-07","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_2_vizit_polyarnogo_lisa_.json"}
 , {"y":1941,"bid":1149,"b":"6. Освободительный поход","sc":2,"s":"Крымский излом","sid":441,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_6_osvoboditelny_pokhod.json"}
 , {"y":1941,"bid":1150,"b":"7. Похищение Европы","sc":2,"s":"Крымский излом","sid":441,"se":"S","sx":"2","url":"mikhaylovskiy_aleksandr_markova_yuliya_1941_7_pokhishchenie_evropy.json"}
@@ -6004,6 +6188,7 @@
 , {"y":1941,"bid":1155,"b":"3. Ветер с востока","sc":2,"s":"Крымский излом","sid":442,"se":"S","sx":"1","url":"mikhaylovskiy_aleksandr_kharnikov_aleksandr_1941_3_veter_s_vostoka.json"}
 , {"y":1941,"bid":1156,"b":"4. Брянский капкан","sc":2,"s":"Крымский излом","sid":442,"se":"S","sx":"1","url":"mikhaylovskiy_aleksandr_kharnikov_aleksandr_1941_4_bryanskiy_kapkan.json"}
 , {"y":1941,"bid":1157,"b":"5. Коренной перелом","sc":2,"s":"Крымский излом","sid":442,"se":"S","sx":"1","url":"mikhaylovskiy_aleksandr_kharnikov_aleksandr_1941_5_korennoy_perelom.json"}
+, {"y":1941,"bid":5078,"b":"6 -9.  Освободительный поход\n","sc":2,"s":"Крымский излом","sid":442,"ad":"2025-02-28","url":"mikhaylovskiy_aleksandr_kharnikov_aleksandr_1941_6_9_osvoboditelny_pokhod_.json"}
 , {"y":1941,"bid":1235,"b":"1. \"Гроза\" против \"Барбароссы\"","sc":2,"s":"Операция \u0027Гроза плюс\u0027","sid":602,"se":"S","sx":"1","url":"mikhaylovskiy_aleksandr_kharnikov_aleksandr_1941_1_groza_protiv_barbarossy_.json"}
 , {"y":1941,"bid":1236,"b":"2. Самый трудный день","sc":2,"s":"Операция \u0027Гроза плюс\u0027","sid":602,"se":"S","sx":"1","url":"mikhaylovskiy_aleksandr_kharnikov_aleksandr_1941_2_samy_trudny_den.json"}
 , {"y":1941,"bid":1237,"b":"3. Победителей не судят","sc":2,"s":"Операция \u0027Гроза плюс\u0027","sid":602,"se":"F","sx":"1","url":"mikhaylovskiy_aleksandr_kharnikov_aleksandr_1941_3_pobediteley_ne_sudyat.json"}
@@ -6170,6 +6355,12 @@
 , {"y":1095,"bid":3571,"b":"1. Меч на ладонях (3 книги)","sc":3,"s":"Меч на ладонях","sid":489,"se":"S","sx":"1","url":"muravev_andrey_1095_mech_na_ladonyakh_3_knigi_.json"}
 ]
 , "series": [{"sid":489,"s":"Меч на ладонях","se":"mech_na_ladonyakh","a":"Муравьев Андрей"}
+]
+
+}
+, {"AuthorId":1254,"AuthorName":"Мусаниф Сергей","AuthorEng":"musanif_sergey","books": [{"y":1989,"bid":5009,"b":"Другие грабли (три тома)","sc":4,"s":"Другие грабли","sid":1071,"ad":"2025-02-28","url":"musanif_sergey_1989_drugie_grabli_tri_toma_.json"}
+]
+, "series": [{"sid":1071,"s":"Другие грабли","se":"drugie_grabli","a":"Мусаниф Сергей"}
 ]
 
 }
@@ -6450,6 +6641,7 @@
 
 }
 , {"AuthorId":813,"AuthorName":"Оченков Иван","AuthorEng":"ochenkov_ivan","AuthorGender":"1","books": [{"y":1922,"bid":1801,"b":"Лабух","sc":4,"se":"P","sx":"1","ad":"2023-10-19","url":"ochenkov_ivan_1922_labukh.json"}
+, {"y":1922,"bid":5095,"b":"Лабух","sc":3,"s":"Лабух","sid":1121,"ad":"2025-02-28","url":"ochenkov_ivan_1922_labukh.json"}
 , {"y":1877,"bid":2366,"b":"1. Путь на Балканы","sc":3,"s":"Стрелок","sid":873,"se":"S","sx":"1","url":"ochenkov_ivan_1877_1_put_na_balkany.json"}
 , {"y":1877,"bid":2367,"b":"2. Стрелок 2","sc":3,"s":"Стрелок","sid":873,"se":"S","sx":"1","url":"ochenkov_ivan_1877_2_strelok_2.json"}
 , {"y":1877,"bid":2368,"b":"3. Митральезы Белого генерала. Часть первая","sc":3,"s":"Стрелок","sid":873,"se":"F","sx":"1","url":"ochenkov_ivan_1877_3_mitralezy_belogo_generala_chast_pervaya.json"}
@@ -6462,21 +6654,26 @@
 , {"y":1610,"bid":3026,"b":"5. Мекленбургская принцесса","sc":4,"s":"Мекленбургский цикл","sid":479,"se":"S","sx":"1","url":"ochenkov_ivan_1610_5_meklenburgskaya_princessa.json"}
 , {"y":1610,"bid":3027,"b":"6. Государево дело","sc":4,"s":"Мекленбургский цикл","sid":479,"se":"S","sx":"1","url":"ochenkov_ivan_1610_6_gosudarevo_delo.json"}
 ]
-, "series": [{"sid":479,"s":"Мекленбургский цикл","se":"meklenburgskiy_cikl","a":"Оченков Иван"}
+, "series": [{"sid":1121,"s":"Лабух","se":"labukh","a":"Оченков Иван"}
+, {"sid":479,"s":"Мекленбургский цикл","se":"meklenburgskiy_cikl","a":"Оченков Иван"}
 , {"sid":873,"s":"Стрелок","se":"strelok","a":"Оченков Иван"}
 ]
 
 }
-, {"AuthorId":814,"AuthorName":"Оченков Иван, Перунов Антон","AuthorEng":"ochenkov_ivan_perunov_anton","AuthorGender":"1","books": [{"y":1610,"bid":3028,"b":"7. Азовский гамбит","sc":5,"s":"Мекленбургский цикл","sid":480,"se":"F","sx":"1","ad":"2023-02-07","url":"ochenkov_ivan_perunov_anton_1610_7_azovskiy_gambit.json"}
+, {"AuthorId":814,"AuthorName":"Оченков Иван, Перунов Антон","AuthorEng":"ochenkov_ivan_perunov_anton","AuthorGender":"1","books": [{"y":1853,"bid":5128,"b":"1-4 Константин. Балтийский ястреб 1-4","sc":4,"s":"Константин","sid":1144,"ad":"2025-02-28","url":"ochenkov_ivan_perunov_anton_1853_1_4_konstantin_baltiyskiy_yastreb_1_4.json"}
+, {"y":1610,"bid":3028,"b":"7. Азовский гамбит","sc":5,"s":"Мекленбургский цикл","sid":480,"se":"F","sx":"1","ad":"2023-02-07","url":"ochenkov_ivan_perunov_anton_1610_7_azovskiy_gambit.json"}
 , {"y":1610,"bid":3029,"b":"8. Мекленбургский дьявол","sc":4,"s":"Мекленбургский цикл","sid":480,"se":"F","sx":"1","ad":"2023-02-07","url":"ochenkov_ivan_perunov_anton_1610_8_meklenburgskiy_dyavol.json"}
 ]
-, "series": [{"sid":480,"s":"Мекленбургский цикл","se":"meklenburgskiy_cikl","a":"Оченков Иван, Перунов Антон"}
+, "series": [{"sid":1144,"s":"Константин","se":"konstantin","a":"Оченков Иван, Перунов Антон"}
+, {"sid":480,"s":"Мекленбургский цикл","se":"meklenburgskiy_cikl","a":"Оченков Иван, Перунов Антон"}
 ]
 
 }
 , {"AuthorId":815,"AuthorName":"Павел Ларин","AuthorEng":"pavel_larin","books": [{"y":1985,"bid":251,"b":"Пионер. Назад в СССР","sc":2,"se":"F","ad":"2023-08-13","url":"pavel_larin_1985_pioner_nazad_v_sssr.json"}
+, {"y":1985,"bid":5013,"b":"Петров, к доске!","sc":4,"s":"Петров, опять?!","sid":1074,"ad":"2025-02-28","url":"pavel_larin_1985_petrov_k_doske_.json"}
 ]
-, "series": []
+, "series": [{"sid":1074,"s":"Петров, опять?!","se":"petrov_opyat_","a":"Павел Ларин"}
+]
 
 }
 , {"AuthorId":816,"AuthorName":"Павлищева Наталья","AuthorEng":"pavlishcheva_natalya","AuthorGender":"2","books": [{"y":1237,"bid":3404,"b":"1. Кровь и пепел","sc":3,"s":"Дева войны","sid":243,"se":"S","sx":"2","url":"pavlishcheva_natalya_1237_1_krov_i_pepel.json"}
@@ -6549,12 +6746,14 @@
 , {"y":1862,"bid":2445,"b":"1. Трущобы Империй","sc":3,"s":"Просто выжить","sid":723,"se":"F","sx":"1","url":"panfilov_vasiliy_1862_1_trushchoby_imperiy.json"}
 , {"y":1862,"bid":2446,"b":"2. Европейское турне","sc":3,"s":"Просто выжить","sid":723,"se":"F","sx":"1","url":"panfilov_vasiliy_1862_2_evropeyskoe_turne.json"}
 , {"y":1862,"bid":2447,"b":"3. Дети Революции","sc":3,"s":"Просто выжить","sid":723,"se":"F","sx":"1","url":"panfilov_vasiliy_1862_3_deti_revolyucii.json"}
+, {"y":1854,"bid":5127,"b":"1 - 2 Старые недобрые времена","sc":3,"s":"Старые недобрые времена","sid":1143,"ad":"2025-02-28","url":"panfilov_vasiliy_1854_1_2_starye_nedobrye_vremena.json"}
 , {"y":1760,"bid":2768,"b":"Улан (4 книги)","sc":3,"se":"S","sx":"1","url":"panfilov_vasiliy_1760_ulan_4_knigi_.json"}
 ]
 , "series": [{"sid":73,"s":"Без Веры, Царя и Отечества","se":"bez_very_carya_i_otechestva","a":"Панфилов Василий"}
 , {"sid":138,"s":"Великая Депрессия","se":"velikaya_depressiya","a":"Панфилов Василий"}
 , {"sid":723,"s":"Просто выжить","se":"prosto_vyzhit","a":"Панфилов Василий"}
 , {"sid":780,"s":"Россия, которую мы...","se":"rossiya_kotoruyu_my_","a":"Панфилов Василий"}
+, {"sid":1143,"s":"Старые недобрые времена","se":"starye_nedobrye_vremena","a":"Панфилов Василий"}
 , {"sid":1012,"s":"Чужой среди своих 1","se":"chuzhoy_sredi_svoikh_1","a":"Панфилов Василий"}
 , {"sid":1013,"s":"Чужой среди своих 2","se":"chuzhoy_sredi_svoikh_2","a":"Панфилов Василий"}
 , {"sid":1014,"s":"Чужой среди своих 3","se":"chuzhoy_sredi_svoikh_3","a":"Панфилов Василий"}
@@ -6580,6 +6779,7 @@
 , {"y":1938,"bid":1620,"b":"4. Гвардеец","sc":3,"s":"Китобой","sid":384,"se":"F","sx":"1","ad":"2023-08-13","url":"panchenko_andrey_alekseevich_1938_4_gvardeec.json"}
 , {"y":1938,"bid":1621,"b":"5. Адмирал","sc":3,"s":"Китобой","sid":384,"se":"F","sx":"1","ad":"2023-10-19","url":"panchenko_andrey_alekseevich_1938_5_admiral.json"}
 , {"y":1669,"bid":2944,"b":"1. Гардемарин","sc":3,"s":"Андреевский флаг","sid":45,"se":"P","sx":"1","ad":"2023-12-14","url":"panchenko_andrey_alekseevich_1669_1_gardemarin.json"}
+, {"y":1669,"bid":5145,"b":"2 - 4. Гардемарин","sc":3,"s":"Андреевский флаг","sid":45,"ad":"2025-02-28","url":"panchenko_andrey_alekseevich_1669_2_4_gardemarin.json"}
 ]
 , "series": [{"sid":45,"s":"Андреевский флаг","se":"andreevskiy_flag","a":"Панченко Андрей Алексеевич"}
 , {"sid":96,"s":"Болотник","se":"bolotnik","a":"Панченко Андрей Алексеевич"}
@@ -6587,10 +6787,12 @@
 ]
 
 }
-, {"AuthorId":826,"AuthorName":"Патман Анатолий","AuthorEng":"patman_anatoliy","AuthorGender":"1","books": [{"y":1972,"bid":672,"b":"1. Инженер и принцесса","sc":3,"s":"Инженер","sid":350,"se":"F","sx":"1","ad":"2023-02-07","url":"patman_anatoliy_1972_1_inzhener_i_princessa.json"}
+, {"AuthorId":826,"AuthorName":"Патман Анатолий","AuthorEng":"patman_anatoliy","AuthorGender":"1","books": [{"y":1979,"bid":5032,"b":"1 - 2. Дивный сон в дивное утро","sc":3,"s":"Длинный шаг с крыши","sid":1086,"ad":"2025-02-28","url":"patman_anatoliy_1979_1_2_divny_son_v_divnoe_utro.json"}
+, {"y":1972,"bid":672,"b":"1. Инженер и принцесса","sc":3,"s":"Инженер","sid":350,"se":"F","sx":"1","ad":"2023-02-07","url":"patman_anatoliy_1972_1_inzhener_i_princessa.json"}
 , {"y":1972,"bid":673,"b":"2. Инженер и Княгиня","sc":3,"s":"Инженер","sid":350,"se":"F","sx":"1","url":"patman_anatoliy_1972_2_inzhener_i_knyaginya.json"}
 , {"y":1972,"bid":674,"b":"3. Инженер и любовь","sc":3,"s":"Инженер","sid":350,"se":"F","sx":"1","ad":"2023-08-13","url":"patman_anatoliy_1972_3_inzhener_i_lyubov.json"}
 , {"y":1972,"bid":675,"b":"4. Инженер и дела","sc":3,"s":"Инженер","sid":350,"se":"P","sx":"1","ad":"2023-08-13","url":"patman_anatoliy_1972_4_inzhener_i_dela.json"}
+, {"y":1972,"bid":5051,"b":"5. Инженером быть не просто","sc":3,"s":"Инженер","sid":350,"ad":"2025-02-28","url":"patman_anatoliy_1972_5_inzhenerom_byt_ne_prosto.json"}
 , {"y":1939,"bid":1598,"b":"1. Человек с гранатометом","sc":2,"s":"Человек с ...","sid":996,"se":"F","sx":"1","url":"patman_anatoliy_1939_1_chelovek_s_granatometom.json"}
 , {"y":1939,"bid":1599,"b":"2. Человек с танком","sc":2,"s":"Человек с ...","sid":996,"se":"F","sx":"1","url":"patman_anatoliy_1939_2_chelovek_s_tankom.json"}
 , {"y":1939,"bid":1600,"b":"3. Человек в ожидании грозы","sc":2,"s":"Человек с ...","sid":996,"sx":"1","url":"patman_anatoliy_1939_3_chelovek_v_ozhidanii_grozy.json"}
@@ -6600,6 +6802,7 @@
 , {"y":1798,"bid":2684,"b":"Проклятый немец для Петра","sc":3,"se":"P","sx":"1","ad":"2023-08-13","url":"patman_anatoliy_1798_proklyaty_nemec_dlya_petra.json"}
 ]
 , "series": [{"sid":175,"s":"Вот и свела нас судьба","se":"vot_i_svela_nas_sudba","a":"Патман Анатолий"}
+, {"sid":1086,"s":"Длинный шаг с крыши","se":"dlinny_shag_s_kryshi","a":"Патман Анатолий"}
 , {"sid":350,"s":"Инженер","se":"inzhener","a":"Патман Анатолий"}
 , {"sid":996,"s":"Человек с ...","se":"chelovek_s_","a":"Патман Анатолий"}
 ]
@@ -6772,8 +6975,10 @@
 , {"y":2021,"bid":2,"b":"2. Я спас РФ-2","sc":3,"s":"Я спас РФ","sid":1057,"se":"F","sx":"1","url":"podus_igor_2021_2_ya_spas_rf_2.json"}
 , {"y":2021,"bid":3,"b":"3. Я спас РФ-3","sc":3,"s":"Я спас РФ","sid":1057,"se":"F","sx":"1","url":"podus_igor_2021_3_ya_spas_rf_3.json"}
 , {"y":2021,"bid":4,"b":"4. Я спас РФ-4","sc":3,"s":"Я спас РФ","sid":1057,"se":"F","sx":"1","ad":"2023-02-07","url":"podus_igor_2021_4_ya_spas_rf_4.json"}
+, {"y":1980,"bid":5030,"b":"Участковый. Назад в СССР","sc":3,"s":"Участковый. Назад в СССР","sid":1084,"ad":"2025-02-28","url":"podus_igor_1980_uchastkovy_nazad_v_sssr.json"}
 ]
-, "series": [{"sid":1057,"s":"Я спас РФ","se":"ya_spas_rf","sd":"Цикл романов, про потерявших всё людей, пытающихся изменить будущее. В результате научного эксперимента модифицированный спецназовец с учёным теоретиком попадают в 2021 год. Там они попытаются предотвратить гибель родины и отомстить за смерть близких.","surl":"https://author.today/work/series/14949","a":"Подус Игорь"}
+, "series": [{"sid":1084,"s":"Участковый. Назад в СССР","se":"uchastkovy_nazad_v_sssr","a":"Подус Игорь"}
+, {"sid":1057,"s":"Я спас РФ","se":"ya_spas_rf","sd":"Цикл романов, про потерявших всё людей, пытающихся изменить будущее. В результате научного эксперимента модифицированный спецназовец с учёным теоретиком попадают в 2021 год. Там они попытаются предотвратить гибель родины и отомстить за смерть близких.","surl":"https://author.today/work/series/14949","a":"Подус Игорь"}
 ]
 
 }
@@ -6813,6 +7018,7 @@
 , {"y":1941,"bid":1220,"b":"1. Штурмовик из будущего","sc":3,"s":"Небо в огне","sid":553,"se":"S","sx":"1","url":"politov_dmitriy_1941_1_shturmovik_iz_budushchego.json"}
 , {"y":1941,"bid":1221,"b":"2. Штурмовик из будущего-2","sc":3,"s":"Небо в огне","sid":553,"se":"F","sx":"1","ad":"2023-02-07","url":"politov_dmitriy_1941_2_shturmovik_iz_budushchego_2.json"}
 , {"y":1941,"bid":1222,"b":"3. Штурмовик из будущего-3","sc":3,"s":"Небо в огне","sid":553,"se":"F","sx":"1","ad":"2023-08-13","url":"politov_dmitriy_1941_3_shturmovik_iz_budushchego_3.json"}
+, {"y":1941,"bid":5079,"b":"4. Штурмовик из будущего-4","sc":3,"s":"Небо в огне","sid":553,"ad":"2025-02-28","url":"politov_dmitriy_1941_4_shturmovik_iz_budushchego_4.json"}
 ]
 , "series": [{"sid":236,"s":"Данила Мельник. Футболист","se":"danila_melnik_futbolist","a":"Политов Дмитрий"}
 , {"sid":553,"s":"Небо в огне","se":"nebo_v_ogne","a":"Политов Дмитрий"}
@@ -6922,13 +7128,15 @@
 , {"y":1971,"bid":735,"b":"6. Тафгай 6","sc":3,"s":"Тафгай","sid":896,"se":"F","sx":"1","ad":"2023-08-13","url":"poroshin_vlad_1971_6_tafgay_6.json"}
 , {"y":1971,"bid":736,"b":"7. Тафгай 7","sc":3,"s":"Тафгай","sid":896,"se":"F","sx":"1","ad":"2023-08-13","url":"poroshin_vlad_1971_7_tafgay_7.json"}
 , {"y":1971,"bid":737,"b":"8. Тафгай 8","sc":3,"s":"Тафгай","sid":896,"se":"P","sx":"1","ad":"2023-10-19","url":"poroshin_vlad_1971_8_tafgay_8.json"}
+, {"y":1964,"bid":5066,"b":"Гость из будущего","sc":3,"s":"Гость из будущего","sid":1103,"ad":"2025-02-28","url":"poroshin_vlad_1964_gost_iz_budushchego.json"}
 , {"y":1960,"bid":918,"b":"1. Туманная река","sc":4,"s":"Туманная река","sid":923,"se":"F","sx":"1","url":"poroshin_vlad_1960_1_tumannaya_reka.json"}
 , {"y":1960,"bid":919,"b":"2. Туманная река 2","sc":3,"s":"Туманная река","sid":923,"se":"F","sx":"1","url":"poroshin_vlad_1960_2_tumannaya_reka_2.json"}
 , {"y":1960,"bid":920,"b":"3. Туманная река 3","sc":3,"s":"Туманная река","sid":923,"se":"F","sx":"1","url":"poroshin_vlad_1960_3_tumannaya_reka_3.json"}
 , {"y":1960,"bid":921,"b":"4. Туманная река 4","sc":3,"s":"Туманная река","sid":923,"se":"F","sx":"1","ad":"2023-02-07","url":"poroshin_vlad_1960_4_tumannaya_reka_4.json"}
 , {"y":1951,"bid":964,"b":"Сашка форвард","sc":3,"sx":"1","ad":"2023-02-07","url":"poroshin_vlad_1951_sashka_forvard.json"}
 ]
-, "series": [{"sid":432,"s":"Красно-белый","se":"krasno_bely","a":"Порошин Влад"}
+, "series": [{"sid":1103,"s":"Гость из будущего","se":"gost_iz_budushchego","a":"Порошин Влад"}
+, {"sid":432,"s":"Красно-белый","se":"krasno_bely","a":"Порошин Влад"}
 , {"sid":896,"s":"Тафгай","se":"tafgay","a":"Порошин Влад"}
 , {"sid":923,"s":"Туманная река","se":"tumannaya_reka","a":"Порошин Влад"}
 ]
@@ -6979,6 +7187,7 @@
 
 }
 , {"AuthorId":869,"AuthorName":"Посняков Андрей","AuthorEng":"posnyakov_andrey","AuthorGender":"1","books": [{"y":1968,"bid":817,"b":"Париж 1968 (Красный май)","sc":3,"se":"F","sx":"1","ad":"2023-02-07","url":"posnyakov_andrey_1968_parizh_1968_krasny_may_.json"}
+, {"y":1968,"bid":5061,"b":"Париж 1968, книга вторая: Рваное время","sc":3,"s":"Париж 1968 ","sid":1100,"ad":"2025-02-28","url":"posnyakov_andrey_1968_parizh_1968_kniga_vtoraya_rvanoe_vremya.json"}
 , {"y":1810,"bid":2620,"b":"1. Гусар (2 книги)","sc":3,"s":"Гусар ","sid":230,"se":"S","sx":"1","url":"posnyakov_andrey_1810_gusar_2_knigi_.json"}
 , {"y":1806,"bid":2628,"b":"1. Судьба гусара","sc":3,"s":"ДавыдOff","sid":235,"se":"F","sx":"1","ad":"2023-08-13","url":"posnyakov_andrey_1806_1_sudba_gusara.json"}
 , {"y":1806,"bid":2629,"b":"2. Разящий клинок","sc":3,"s":"ДавыдOff","sid":235,"se":"F","sx":"1","ad":"2023-08-13","url":"posnyakov_andrey_1806_2_razyashchiy_klinok.json"}
@@ -6987,6 +7196,7 @@
 , {"y":1705,"bid":2869,"b":"1. Красный Барон","sc":3,"s":"Пират","sid":656,"se":"F","sx":"1","url":"posnyakov_andrey_1705_1_krasny_baron.json"}
 , {"y":1705,"bid":2870,"b":"2. Капитан-командор","sc":3,"s":"Пират","sid":656,"se":"F","sx":"1","url":"posnyakov_andrey_1705_2_kapitan_komandor.json"}
 , {"y":1705,"bid":2871,"b":"3. Господин полковник","sc":3,"s":"Пират","sid":656,"se":"F","sx":"1","url":"posnyakov_andrey_1705_3_gospodin_polkovnik.json"}
+, {"y":1655,"bid":5146,"b":"1 -2 Власть шпаги","sc":3,"s":"Лоцман (Бунташный век)","sid":1157,"ad":"2025-02-28","url":"posnyakov_andrey_1655_1_2_vlast_shpagi.json"}
 , {"y":1570,"bid":3112,"b":"1. Кондотьер (3 книги)","sc":3,"s":"Кондотьер ","sid":414,"se":"S","sx":"1","url":"posnyakov_andrey_1570_kondoter_3_knigi_.json"}
 , {"y":1519,"bid":3193,"b":"1. Ацтеки (2 книги)","sc":3,"s":"Ацтеки","sid":64,"se":"S","sx":"1","url":"posnyakov_andrey_1519_acteki_2_knigi_.json"}
 , {"y":1470,"bid":3264,"b":"1. Новгородская сага (5 книг)","sc":3,"s":"Новгородская сага","sid":574,"se":"S","sx":"1","url":"posnyakov_andrey_1470_novgorodskaya_saga_5_knig_.json"}
@@ -7015,7 +7225,9 @@
 , {"sid":235,"s":"ДавыдOff","se":"davydoff","a":"Посняков Андрей"}
 , {"sid":266,"s":"Довмонт","se":"dovmont","a":"Посняков Андрей"}
 , {"sid":414,"s":"Кондотьер ","se":"kondoter_","a":"Посняков Андрей"}
+, {"sid":1157,"s":"Лоцман (Бунташный век)","se":"locman_buntashny_vek_","a":"Посняков Андрей"}
 , {"sid":574,"s":"Новгородская сага","se":"novgorodskaya_saga","a":"Посняков Андрей"}
+, {"sid":1100,"s":"Париж 1968 ","se":"parizh_1968_","a":"Посняков Андрей"}
 , {"sid":656,"s":"Пират","se":"pirat","a":"Посняков Андрей"}
 , {"sid":752,"s":"Ратник","se":"ratnik","a":"Посняков Андрей"}
 , {"sid":939,"s":"Фараон","se":"faraon","a":"Посняков Андрей"}
@@ -7125,6 +7337,7 @@
 , {"y":1978,"bid":458,"b":"7. Мамба в Сомали: Чёрный передел","sc":3,"s":"Мамба в Сомали","sid":474,"se":"F","sx":"1","ad":"2023-09-19","url":"ptica_aleksey_1978_7_mamba_v_somali_chyorny_peredel.json"}
 , {"y":1978,"bid":459,"b":"8. Мамба в Сомали: Чёрный Союз","sc":3,"s":"Мамба в Сомали","sid":474,"se":"F","sx":"1","ad":"2023-10-19","url":"ptica_aleksey_1978_8_mamba_v_somali_chyorny_soyuz.json"}
 , {"y":1978,"bid":460,"b":"9. Чёрный октябрь","sc":3,"s":"Мамба в Сомали","sid":474,"se":"F","sx":"1","ad":"2024-01-31","url":"ptica_aleksey_1978_9_chyorny_oktyabr.json"}
+, {"y":1929,"bid":5091,"b":"В гостях у Рёма, или Разведчик из будущего","sc":3,"s":"Веймар","sid":1117,"ad":"2025-02-28","url":"ptica_aleksey_1929_v_gostyakh_u_ryoma_ili_razvedchik_iz_budushchego.json"}
 , {"y":1917,"bid":1883,"b":"1. Вождь революции","sc":3,"s":"Керенский","sid":377,"se":"F","sx":"1","ad":"2023-02-07","url":"ptica_aleksey_1917_1_vozhd_revolyucii.json"}
 , {"y":1917,"bid":1884,"b":"2. В шаге от краха","sc":3,"s":"Керенский","sid":377,"se":"F","sx":"1","ad":"2023-02-07","url":"ptica_aleksey_1917_2_v_shage_ot_krakha.json"}
 , {"y":1917,"bid":1885,"b":"3. Пока дышу - надеюсь","sc":3,"s":"Керенский","sid":377,"se":"F","sx":"1","ad":"2023-02-07","url":"ptica_aleksey_1917_3_poka_dyshu_nadeyus.json"}
@@ -7139,7 +7352,8 @@
 , {"y":1881,"bid":2347,"b":"7. Император Африки","sc":3,"s":"Император Африки","sid":335,"se":"F","sx":"1","url":"ptica_aleksey_1881_7_imperator_afriki.json"}
 , {"y":1881,"bid":2348,"b":"8. Кингчесс","sc":3,"s":"Император Африки","sid":335,"se":"F","sx":"1","url":"ptica_aleksey_1881_8_kingchess.json"}
 ]
-, "series": [{"sid":335,"s":"Император Африки","se":"imperator_afriki","a":"Птица Алексей"}
+, "series": [{"sid":1117,"s":"Веймар","se":"veymar","a":"Птица Алексей"}
+, {"sid":335,"s":"Император Африки","se":"imperator_afriki","a":"Птица Алексей"}
 , {"sid":377,"s":"Керенский","se":"kerenskiy","a":"Птица Алексей"}
 , {"sid":474,"s":"Мамба в Сомали","se":"mamba_v_somali","a":"Птица Алексей"}
 ]
@@ -7148,11 +7362,13 @@
 , {"AuthorId":885,"AuthorName":"Ра Юрий","AuthorEng":"ra_yuriy","AuthorGender":"1","books": [{"y":1985,"bid":240,"b":"1. Сортировка","sc":4,"s":"Сортировка","sid":838,"se":"F","sx":"1","ad":"2023-08-13","url":"ra_yuriy_1985_1_sortirovka.json"}
 , {"y":1985,"bid":241,"b":"2. Завод","sc":3,"s":"Сортировка","sid":838,"se":"F","sx":"1","ad":"2023-08-13","url":"ra_yuriy_1985_2_zavod.json"}
 , {"y":1981,"bid":362,"b":"Дневник восьмиклассника","sc":3,"se":"P","sx":"1","ad":"2023-10-19","url":"ra_yuriy_1981_dnevnik_vosmiklassnika.json"}
+, {"y":1981,"bid":5024,"b":"2. Дневник восьмиклассника","sc":3,"s":"Дневник восьмиклассника","sid":1080,"ad":"2025-02-28","url":"ra_yuriy_1981_2_dnevnik_vosmiklassnika.json"}
 , {"y":1981,"bid":345,"b":"1-3. Цикл \"Жорж Милославский\"","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_1_3_cikl_zhorzh_miloslavskiy_.json"}
 , {"y":1981,"bid":346,"b":"4. Жорж Милославский. Бабочка под сапогом.","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_4_zhorzh_miloslavskiy_babochka_pod_sapogom_.json"}
 , {"y":1981,"bid":347,"b":"5. Жорж Милославский. Альтернатива.","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_5_zhorzh_miloslavskiy_alternativa_.json"}
 ]
-, "series": [{"sid":292,"s":"Жорж Милославский","se":"zhorzh_miloslavskiy","a":"Ра Юрий"}
+, "series": [{"sid":1080,"s":"Дневник восьмиклассника","se":"dnevnik_vosmiklassnika","a":"Ра Юрий"}
+, {"sid":292,"s":"Жорж Милославский","se":"zhorzh_miloslavskiy","a":"Ра Юрий"}
 , {"sid":838,"s":"Сортировка","se":"sortirovka","a":"Ра Юрий"}
 ]
 
@@ -7217,6 +7433,7 @@
 , {"y":1964,"bid":881,"b":"2. Связь без брака - 2. Время олимпийских рекордов","sc":3,"s":"Связь без брака","sid":806,"se":"F","sx":"1","ad":"2023-02-07","url":"raspopov_dmitriy_1964_2_svyaz_bez_braka_2_vremya_olimpiyskikh_rekordov.json"}
 , {"y":1964,"bid":882,"b":"3. Связь без брака – 3. Время разбрасывать камни","sc":3,"s":"Связь без брака","sid":806,"se":"F","sx":"1","ad":"2023-02-07","url":"raspopov_dmitriy_1964_3_svyaz_bez_braka_3_vremya_razbrasyvat_kamni.json"}
 , {"y":1964,"bid":883,"b":"4. Связь без брака – 4. Время собирать камни\n","sc":3,"s":"Связь без брака","sid":806,"se":"F","sx":"1","ad":"2023-02-07","url":"raspopov_dmitriy_1964_4_svyaz_bez_braka_4_vremya_sobirat_kamni_.json"}
+, {"y":1401,"bid":5161,"b":"30 сребреников","sc":3,"s":"30 сребреников","sid":1167,"ad":"2025-02-28","url":"raspopov_dmitriy_1401_30_srebrenikov.json"}
 , {"y":1191,"bid":3510,"b":"1. Венецианский купец","sc":3,"s":"Венецианский купец","sid":140,"se":"F","sx":"1","ad":"2023-02-07","url":"raspopov_dmitriy_1191_1_venecianskiy_kupec.json"}
 , {"y":1191,"bid":3511,"b":"2. Венецианский купец-2. По дороге пряностей","sc":3,"s":"Венецианский купец","sid":140,"se":"F","sx":"1","ad":"2023-02-07","url":"raspopov_dmitriy_1191_2_venecianskiy_kupec_2_po_doroge_pryanostey.json"}
 , {"y":1191,"bid":3512,"b":"3. Венецианский купец - 3. (Не) Всё могут короли","sc":3,"s":"Венецианский купец","sid":140,"se":"F","sx":"1","ad":"2023-02-07","url":"raspopov_dmitriy_1191_3_venecianskiy_kupec_3_ne_vsyo_mogut_koroli.json"}
@@ -7229,7 +7446,8 @@
 , {"y":-1460,"bid":3907,"b":"4. Царь поневоле. Том 1","sc":3,"s":"Фараон","sid":940,"se":"F","sx":"1","ad":"2023-12-14","url":"raspopov_dmitriy_-1460_4_car_ponevole_tom_1.json"}
 , {"y":-1460,"bid":3908,"b":"5. Царь поневоле. Том 2","sc":3,"s":"Фараон","sid":940,"se":"P","sx":"1","ad":"2024-01-31","url":"raspopov_dmitriy_-1460_5_car_ponevole_tom_2.json"}
 ]
-, "series": [{"sid":140,"s":"Венецианский купец","se":"venecianskiy_kupec","a":"Распопов Дмитрий"}
+, "series": [{"sid":1167,"s":"30 сребреников","se":"30_srebrenikov","a":"Распопов Дмитрий"}
+, {"sid":140,"s":"Венецианский купец","se":"venecianskiy_kupec","a":"Распопов Дмитрий"}
 , {"sid":806,"s":"Связь без брака","se":"svyaz_bez_braka","a":"Распопов Дмитрий"}
 , {"sid":940,"s":"Фараон","se":"faraon","a":"Распопов Дмитрий"}
 ]
@@ -7290,14 +7508,18 @@
 , {"y":1987,"bid":204,"b":"2. Чемпион","sc":3,"s":"Центрфорвард","sid":984,"se":"F","sx":"1","ad":"2023-08-13","url":"ridder_aristarkh_1987_2_chempion.json"}
 , {"y":1987,"bid":205,"b":"3. Чемпион, часть вторая","sc":3,"s":"Центрфорвард","sid":984,"se":"F","sx":"1","ad":"2023-08-13","url":"ridder_aristarkh_1987_3_chempion_chast_vtoraya.json"}
 , {"y":1987,"bid":206,"b":"4. Кубок Канады 1989","sc":3,"s":"Центрфорвард","sid":984,"se":"P","sx":"1","ad":"2023-12-14","url":"ridder_aristarkh_1987_4_kubok_kanady_1989.json"}
+, {"y":1983,"bid":5016,"b":"Ложная девятка 1-2","sc":3,"s":" 4-4-2","sid":1076,"ad":"2025-02-28","url":"ridder_aristarkh_1983_lozhnaya_devyatka_1_2.json"}
+, {"y":1967,"bid":5063,"b":"Учитель. Назад в СССР","sc":3,"s":"Учитель","sid":1101,"ad":"2025-02-28","url":"ridder_aristarkh_1967_uchitel_nazad_v_sssr.json"}
 , {"y":1804,"bid":2633,"b":"1. Авантюрист. Начало","sc":3,"s":"Александр Гамильтон ","sid":32,"se":"F","sx":"1","ad":"2023-02-07","url":"ridder_aristarkh_1804_1_avantyurist_nachalo.json"}
 , {"y":1804,"bid":2634,"b":"2. Авантюрист. Калифорния","sc":3,"s":"Александр Гамильтон ","sid":32,"se":"F","sx":"1","ad":"2023-02-07","url":"ridder_aristarkh_1804_2_avantyurist_kaliforniya.json"}
 , {"y":1804,"bid":2635,"b":"3. Авантюрист. Русская Америка","sc":3,"s":"Александр Гамильтонт","sid":33,"se":"F","sx":"1","ad":"2023-02-07","url":"ridder_aristarkh_1804_3_avantyurist_russkaya_amerika.json"}
 , {"y":1804,"bid":2636,"b":"4. Авантюрист. Русская Америка. Часть вторая","sc":3,"s":"Александр Гамильтонт","sid":33,"se":"F","sx":"1","ad":"2023-02-07","url":"ridder_aristarkh_1804_4_avantyurist_russkaya_amerika_chast_vtoraya.json"}
 , {"y":1804,"bid":2637,"b":"5. Авантюрист. Финал","sc":3,"s":"Александр Гамильтонт","sid":33,"se":"F","sx":"1","ad":"2023-02-07","url":"ridder_aristarkh_1804_5_avantyurist_final.json"}
 ]
-, "series": [{"sid":32,"s":"Александр Гамильтон ","se":"aleksandr_gamilton_","a":"Риддер Аристарх"}
+, "series": [{"sid":1076,"s":" 4-4-2","se":"_4_4_2","a":"Риддер Аристарх"}
+, {"sid":32,"s":"Александр Гамильтон ","se":"aleksandr_gamilton_","a":"Риддер Аристарх"}
 , {"sid":33,"s":"Александр Гамильтонт","se":"aleksandr_gamiltont","a":"Риддер Аристарх"}
+, {"sid":1101,"s":"Учитель","se":"uchitel","a":"Риддер Аристарх"}
 , {"sid":984,"s":"Центрфорвард","se":"centrforvard","a":"Риддер Аристарх"}
 ]
 
@@ -7375,8 +7597,18 @@
 
 }
 , {"AuthorId":912,"AuthorName":"Романов Герман","AuthorEng":"romanov_german","books": [{"y":1941,"bid":1142,"b":"1. Крепость на дюнах","sc":2,"s":"Комиссар","sid":409,"se":"F","ad":"2023-02-07","url":"romanov_german_1941_1_krepost_na_dyunakh.json"}
+, {"y":1904,"bid":5102,"b":"1 -2 «Два доллара»","sc":3,"s":"Армада","sid":1127,"ad":"2025-02-28","url":"romanov_german_1904_1_2_dva_dollara_.json"}
+, {"y":1904,"bid":5101,"b":"1 -2 Третий шанс","sc":3,"s":"Фельдмаршал","sid":1126,"ad":"2025-02-28","url":"romanov_german_1904_1_2_tretiy_shans.json"}
+, {"y":1904,"bid":5103,"b":"1 -2 «В одном шаге»","sc":3,"s":"Эскадра","sid":1128,"ad":"2025-02-28","url":"romanov_german_1904_1_2_v_odnom_shage_.json"}
+, {"y":1903,"bid":5108,"b":"1 - 2 «Вторая попытка»","sc":3,"s":"Адмирал","sid":1132,"ad":"2025-02-28","url":"romanov_german_1903_1_2_vtoraya_popytka_.json"}
+, {"y":1500,"bid":5154,"b":"Пенсия для морского дьявола","sc":3,"s":"Пенсия для морского дьявола","sid":1163,"ad":"2025-02-28","url":"romanov_german_1500_pensiya_dlya_morskogo_dyavola.json"}
 ]
-, "series": [{"sid":409,"s":"Комиссар","se":"komissar","a":"Романов Герман"}
+, "series": [{"sid":1132,"s":"Адмирал","se":"admiral","a":"Романов Герман"}
+, {"sid":1127,"s":"Армада","se":"armada","a":"Романов Герман"}
+, {"sid":409,"s":"Комиссар","se":"komissar","a":"Романов Герман"}
+, {"sid":1163,"s":"Пенсия для морского дьявола","se":"pensiya_dlya_morskogo_dyavola","a":"Романов Герман"}
+, {"sid":1126,"s":"Фельдмаршал","se":"feldmarshal","a":"Романов Герман"}
+, {"sid":1128,"s":"Эскадра","se":"eskadra","a":"Романов Герман"}
 ]
 
 }
@@ -7447,6 +7679,7 @@
 , {"y":1980,"bid":403,"b":"09. У последней черты","sc":3,"s":"Цеховик","sid":986,"se":"F","sx":"1","ad":"2024-01-31","url":"romov_dmitriy_1980_09_u_posledney_cherty.json"}
 , {"y":1980,"bid":404,"b":"10. За горизонт!","sc":3,"s":"Цеховик","sid":986,"se":"F","sx":"1","ad":"2024-01-31","url":"romov_dmitriy_1980_10_za_gorizont_.json"}
 , {"y":1980,"bid":405,"b":"11. Книга 11.","sc":3,"s":"Цеховик","sid":986,"se":"P","sx":"1","ad":"2024-01-31","url":"romov_dmitriy_1980_11_kniga_11_.json"}
+, {"y":1980,"bid":5026,"b":"Цеховик (15 томов)","sc":3,"s":"Цеховик","sid":986,"ad":"2025-02-28","url":"romov_dmitriy_1980_cekhovik_15_tomov_.json"}
 ]
 , "series": [{"sid":986,"s":"Цеховик","se":"cekhovik","a":"Ромов Дмитрий"}
 ]
@@ -7620,21 +7853,30 @@
 ]
 
 }
-, {"AuthorId":939,"AuthorName":"Савинков Андрей aka Funt izuma","AuthorEng":"savinkov_andrey_aka_funt_izuma","books": [{"y":1802,"bid":2643,"b":"1. Николай 1 Освободитель","sc":3,"s":"Николай I Освободитель","sid":566,"se":"F","ad":"2023-02-07","url":"savinkov_andrey_aka_funt_izuma_1802_1_nikolay_1_osvoboditel.json"}
+, {"AuthorId":939,"AuthorName":"Савинков Андрей aka Funt izuma","AuthorEng":"savinkov_andrey_aka_funt_izuma","books": [{"y":1985,"bid":5011,"b":"Меченый. Том 1. Второй шанс","sc":4,"s":"Генеральный секретарь","sid":1072,"ad":"2025-02-28","url":"savinkov_andrey_aka_funt_izuma_1985_mecheny_tom_1_vtoroy_shans.json"}
+, {"y":1802,"bid":2643,"b":"1. Николай 1 Освободитель","sc":3,"s":"Николай I Освободитель","sid":566,"se":"F","ad":"2023-02-07","url":"savinkov_andrey_aka_funt_izuma_1802_1_nikolay_1_osvoboditel.json"}
 , {"y":1802,"bid":2644,"b":"2. Николай I Освободитель // Книга 2","sc":3,"s":"Николай I Освободитель","sid":566,"se":"F","ad":"2023-02-07","url":"savinkov_andrey_aka_funt_izuma_1802_2_nikolay_i_osvoboditel_kniga_2.json"}
 , {"y":1802,"bid":2645,"b":"3. Книга 3","sc":3,"s":"Николай I Освободитель","sid":566,"se":"F","ad":"2023-10-19","url":"savinkov_andrey_aka_funt_izuma_1802_3_kniga_3.json"}
 , {"y":1802,"bid":2646,"b":"4. Книга 4","sc":3,"s":"Николай I Освободитель","sid":566,"se":"F","ad":"2023-12-14","url":"savinkov_andrey_aka_funt_izuma_1802_4_kniga_4.json"}
 , {"y":1802,"bid":2647,"b":"5.  Книга 5","sc":3,"s":"Николай I Освободитель","sid":566,"se":"P","ad":"2024-01-31","url":"savinkov_andrey_aka_funt_izuma_1802_5_kniga_5.json"}
+, {"y":1802,"bid":5137,"b":"5.  Книга 6 - 10","sc":3,"s":"Николай I Освободитель","sid":566,"ad":"2025-02-28","url":"savinkov_andrey_aka_funt_izuma_1802_5_kniga_6_10.json"}
 ]
-, "series": [{"sid":566,"s":"Николай I Освободитель","se":"nikolay_i_osvoboditel","a":"Савинков Андрей aka Funt izuma"}
+, "series": [{"sid":1072,"s":"Генеральный секретарь","se":"generalny_sekretar","a":"Савинков Андрей aka Funt izuma"}
+, {"sid":566,"s":"Николай I Освободитель","se":"nikolay_i_osvoboditel","a":"Савинков Андрей aka Funt izuma"}
 ]
 
 }
-, {"AuthorId":940,"AuthorName":"Савинов Сергей, Емельянов Антон","AuthorEng":"savinov_sergey_emelyanov_anton","AuthorGender":"1","books": [{"y":1986,"bid":213,"b":"1. Главред: назад в СССР","sc":3,"s":"Главред","sid":214,"se":"F","sx":"1","ad":"2023-08-13","url":"savinov_sergey_emelyanov_anton_1986_1_glavred_nazad_v_sssr.json"}
+, {"AuthorId":940,"AuthorName":"Савинов Сергей, Емельянов Антон","AuthorEng":"savinov_sergey_emelyanov_anton","AuthorGender":"1","books": [{"y":1993,"bid":5004,"b":"Камень 1993 (три тома)","sc":3,"s":"Камень","sid":1067,"ad":"2025-02-28","url":"savinov_sergey_emelyanov_anton_1993_kamen_1993_tri_toma_.json"}
+, {"y":1986,"bid":213,"b":"1. Главред: назад в СССР","sc":3,"s":"Главред","sid":214,"se":"F","sx":"1","ad":"2023-08-13","url":"savinov_sergey_emelyanov_anton_1986_1_glavred_nazad_v_sssr.json"}
 , {"y":1986,"bid":214,"b":"2. Главред: назад в СССР 2","sc":3,"s":"Главред","sid":214,"se":"F","sx":"1","ad":"2023-08-13","url":"savinov_sergey_emelyanov_anton_1986_2_glavred_nazad_v_sssr_2.json"}
 , {"y":1986,"bid":215,"b":"3. Главред: назад в СССР 3","sc":3,"s":"Главред","sid":214,"se":"P","sx":"1","ad":"2023-12-14","url":"savinov_sergey_emelyanov_anton_1986_3_glavred_nazad_v_sssr_3.json"}
+, {"y":1904,"bid":5106,"b":"Японская война. 1904","sc":3,"s":"Второй Сибирский","sid":1131,"ad":"2025-02-28","url":"savinov_sergey_emelyanov_anton_1904_yaponskaya_voyna_1904.json"}
+, {"y":1854,"bid":5126,"b":"Крымская война","sc":3,"s":"Крымская война","sid":1142,"ad":"2025-02-28","url":"savinov_sergey_emelyanov_anton_1854_krymskaya_voyna.json"}
 ]
-, "series": [{"sid":214,"s":"Главред","se":"glavred","a":"Савинов Сергей, Емельянов Антон"}
+, "series": [{"sid":1131,"s":"Второй Сибирский","se":"vtoroy_sibirskiy","a":"Савинов Сергей, Емельянов Антон"}
+, {"sid":214,"s":"Главред","se":"glavred","a":"Савинов Сергей, Емельянов Антон"}
+, {"sid":1067,"s":"Камень","se":"kamen","a":"Савинов Сергей, Емельянов Антон"}
+, {"sid":1142,"s":"Крымская война","se":"krymskaya_voyna","a":"Савинов Сергей, Емельянов Антон"}
 ]
 
 }
@@ -7703,6 +7945,7 @@
 }
 , {"AuthorId":951,"AuthorName":"Санфиров Александр","AuthorEng":"sanfirov_aleksandr","AuthorGender":"1","books": [{"y":1972,"bid":700,"b":"1. Часть I","sc":3,"s":"Шеф-повар Александр Красовский","sid":1025,"se":"F","sx":"1","ad":"2023-02-07","url":"sanfirov_aleksandr_1972_1_chast_i.json"}
 , {"y":1972,"bid":701,"b":"2. Часть II","sc":3,"s":"Шеф-повар Александр Красовский","sid":1025,"se":"F","sx":"1","ad":"2023-02-07","url":"sanfirov_aleksandr_1972_2_chast_ii.json"}
+, {"y":1972,"bid":5052,"b":"3. Часть 3","sc":3,"s":"Шеф-повар Александр Красовский","sid":1025,"ad":"2025-02-28","url":"sanfirov_aleksandr_1972_3_chast_3.json"}
 , {"y":1968,"bid":818,"b":"Вторая жизнь","sc":3,"se":"S","sx":"1","url":"sanfirov_aleksandr_1968_vtoraya_zhizn.json"}
 , {"y":1966,"bid":862,"b":"1. Фармацевт","sc":3,"s":"Фармацевт","sid":941,"se":"F","sx":"1","ad":"2023-02-07","url":"sanfirov_aleksandr_1966_1_farmacevt.json"}
 , {"y":1966,"bid":863,"b":"2. Фармацевт - 2","sc":3,"s":"Фармацевт","sid":941,"se":"F","sx":"1","ad":"2023-02-07","url":"sanfirov_aleksandr_1966_2_farmacevt_2.json"}
@@ -7886,6 +8129,7 @@
 , {"y":1971,"bid":714,"b":"5. Пятый прыжок с кульбитом","sc":3,"s":"Прыжки с кульбитом","sid":730,"se":"F","sx":"1","url":"serbskiy_vladimir_1971_5_pyaty_pryzhok_s_kulbitom.json"}
 , {"y":1971,"bid":715,"b":"6. Шестой прыжок с кульбитом","sc":3,"s":"Прыжки с кульбитом","sid":730,"se":"F","sx":"1","url":"serbskiy_vladimir_1971_6_shestoy_pryzhok_s_kulbitom.json"}
 , {"y":1971,"bid":716,"b":"7. Седьмой прыжок с кульбитом","sc":3,"s":"Прыжки с кульбитом","sid":730,"se":"P","sx":"1","url":"serbskiy_vladimir_1971_7_sedmoy_pryzhok_s_kulbitom.json"}
+, {"y":1971,"bid":5055,"b":"8. Седьмой прыжок с кульбитом","sc":3,"s":"Прыжки с кульбитом","sid":730,"ad":"2025-02-28","url":"serbskiy_vladimir_1971_8_sedmoy_pryzhok_s_kulbitom.json"}
 ]
 , "series": [{"sid":730,"s":"Прыжки с кульбитом","se":"pryzhki_s_kulbitom","a":"Сербский Владимир"}
 ]
@@ -7902,6 +8146,7 @@
 
 }
 , {"AuthorId":978,"AuthorName":"Сергеев Станислав","AuthorEng":"sergeev_stanislav","AuthorGender":"1","books": [{"y":1941,"bid":1055,"b":"1. Достойны ли мы отцов и дедов (9 книг)","sc":3,"s":"Всегда война (Достойны ли мы отцов и дедов)","sid":187,"se":"S","sx":"1","url":"sergeev_stanislav_1941_dostoyny_li_my_otcov_i_dedov_9_knig_.json"}
+, {"y":1941,"bid":5080,"b":"10. Достойны ли мы отцов и дедов (10я книга)","sc":3,"s":"Всегда война (Достойны ли мы отцов и дедов)","sid":187,"ad":"2025-02-28","url":"sergeev_stanislav_1941_10_dostoyny_li_my_otcov_i_dedov_10ya_kniga_.json"}
 , {"y":1881,"bid":2349,"b":"1. Шерлок Холмс Мценского уезда","sc":3,"s":"Исповедь эгоиста","sid":357,"se":"F","sx":"1","ad":"2023-02-07","url":"sergeev_stanislav_1881_sherlok_kholms_mcenskogo_uezda.json"}
 , {"y":1853,"bid":2488,"b":"1. Товарищ Жандарм (Меч дедов) Книга 1","sc":3,"s":"Товарищ Жандарм (Меч дедов) ","sid":912,"se":"S","sx":"1","url":"sergeev_stanislav_1853_tovarishch_zhandarm_mech_dedov_kniga_1.json"}
 ]
@@ -8065,7 +8310,8 @@
 ]
 
 }
-, {"AuthorId":999,"AuthorName":"Смолин Павел Александрович","AuthorEng":"smolin_pavel_aleksandrovich","AuthorGender":"1","books": [{"y":1989,"bid":154,"b":"01. Моя анимежизнь","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-02-07","url":"smolin_pavel_aleksandrovich_1989_01_moya_animezhizn.json"}
+, {"AuthorId":999,"AuthorName":"Смолин Павел Александрович","AuthorEng":"smolin_pavel_aleksandrovich","AuthorGender":"1","books": [{"y":2014,"bid":5001,"b":"Ван Ван из Чайны","sc":3,"s":"Ван Ван из Чайны","sid":1066,"ad":"2025-02-28","url":"smolin_pavel_aleksandrovich_2014_van_van_iz_chayny.json"}
+, {"y":1989,"bid":154,"b":"01. Моя анимежизнь","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-02-07","url":"smolin_pavel_aleksandrovich_1989_01_moya_animezhizn.json"}
 , {"y":1989,"bid":155,"b":"02. Золотая Неделя","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-02-07","url":"smolin_pavel_aleksandrovich_1989_02_zolotaya_nedelya.json"}
 , {"y":1989,"bid":156,"b":"03. В ожидании каникул","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-02-07","url":"smolin_pavel_aleksandrovich_1989_03_v_ozhidanii_kanikul.json"}
 , {"y":1989,"bid":157,"b":"04. Эпоха Фестивалей","sc":3,"s":"Моя анимежизнь","sid":519,"se":"F","sx":"1","ad":"2023-02-07","url":"smolin_pavel_aleksandrovich_1989_04_epokha_festivaley.json"}
@@ -8086,8 +8332,12 @@
 , {"y":1968,"bid":811,"b":"08. Самый лучший комсомолец. Том шестой (СЛП-8)","sc":3,"s":"Самый лучший пионер","sid":798,"se":"F","sx":"1","ad":"2023-12-14","url":"smolin_pavel_aleksandrovich_1968_08_samy_luchshiy_komsomolec_tom_shestoy_slp_8_.json"}
 , {"y":1968,"bid":812,"b":"09. Самый лучший комсомолец. Том седьмой (СЛП-9)","sc":3,"s":"Самый лучший пионер","sid":798,"se":"F","sx":"1","ad":"2023-12-14","url":"smolin_pavel_aleksandrovich_1968_09_samy_luchshiy_komsomolec_tom_sedmoy_slp_9_.json"}
 , {"y":1968,"bid":813,"b":"10. Самый лучший коммунист (СЛП-10)","sc":3,"s":"Самый лучший пионер","sid":798,"se":"P","sx":"1","ad":"2024-01-31","url":"smolin_pavel_aleksandrovich_1968_10_samy_luchshiy_kommunist_slp_10_.json"}
+, {"y":1968,"bid":5062,"b":"10. Самый лучший коммунист (СЛП-10)","sc":3,"s":"Самый лучший пионер","sid":798,"ad":"2025-02-28","url":"smolin_pavel_aleksandrovich_1968_10_samy_luchshiy_kommunist_slp_10_.json"}
+, {"y":1889,"bid":5117,"b":"Главная роль","sc":3,"s":"Главная роль","sid":1137,"ad":"2025-02-28","url":"smolin_pavel_aleksandrovich_1889_glavnaya_rol.json"}
 ]
-, "series": [{"sid":519,"s":"Моя анимежизнь","se":"moya_animezhizn","a":"Смолин Павел Александрович"}
+, "series": [{"sid":1066,"s":"Ван Ван из Чайны","se":"van_van_iz_chayny","a":"Смолин Павел Александрович"}
+, {"sid":1137,"s":"Главная роль","se":"glavnaya_rol","a":"Смолин Павел Александрович"}
+, {"sid":519,"s":"Моя анимежизнь","se":"moya_animezhizn","a":"Смолин Павел Александрович"}
 , {"sid":798,"s":"Самый лучший пионер","se":"samy_luchshiy_pioner","a":"Смолин Павел Александрович"}
 ]
 
@@ -8101,17 +8351,29 @@
 , {"y":1967,"bid":828,"b":"2. Команданте","sc":4,"s":"Касик","sid":374,"se":"F","sx":"1","ad":"2023-02-07","url":"sobolev_nikolay_zampolit__1967_2_komandante.json"}
 , {"y":1967,"bid":829,"b":"3. Венсеремос!","sc":4,"s":"Касик","sid":374,"se":"F","sx":"1","ad":"2023-09-19","url":"sobolev_nikolay_zampolit__1967_3_venseremos_.json"}
 , {"y":1941,"bid":1365,"b":"1. Тамо далеко (1941)","sc":4,"s":"Юнак","sid":1049,"se":"P","sx":"1","ad":"2023-12-14","url":"sobolev_nikolay_zampolit__1941_1_tamo_daleko_1941_.json"}
+, {"y":1941,"bid":5081,"b":"2 - 4. Тамо далеко (1941)","sc":4,"s":"Юнак","sid":1049,"ad":"2025-02-28","url":"sobolev_nikolay_zampolit__1941_2_4_tamo_daleko_1941_.json"}
+, {"y":1920,"bid":5097,"b":"Трейдер. Деньги войны","sc":4,"s":"¡No pasaran!","sid":1123,"ad":"2025-02-28","url":"sobolev_nikolay_zampolit__1920_treyder_dengi_voyny.json"}
 , {"y":1897,"bid":2210,"b":"1. Провокатор","sc":5,"s":"Неверный ленинец","sid":556,"se":"F","sx":"1","url":"sobolev_nikolay_zampolit__1897_1_provokator.json"}
 , {"y":1897,"bid":2211,"b":"2. Пулеметчик","sc":5,"s":"Неверный ленинец","sid":556,"se":"F","sx":"1","url":"sobolev_nikolay_zampolit__1897_2_pulemetchik.json"}
 , {"y":1897,"bid":2212,"b":"3. Пораженец","sc":5,"s":"Неверный ленинец","sid":556,"se":"F","sx":"1","ad":"2023-02-07","url":"sobolev_nikolay_zampolit__1897_3_porazhenec.json"}
 , {"y":1897,"bid":2213,"b":"4. Председатель","sc":5,"s":"Неверный ленинец","sid":556,"se":"F","sx":"1","ad":"2023-02-07","url":"sobolev_nikolay_zampolit__1897_4_predsedatel.json"}
 , {"y":1433,"bid":3304,"b":"1. Прямой наследник","sc":3,"s":"Рождение империи","sid":773,"se":"F","sx":"1","ad":"2023-08-13","url":"sobolev_nikolay_zampolit__1433_1_pryamoy_naslednik.json"}
+, {"y":1433,"bid":5159,"b":"2. Великий князь Русский","sc":3,"s":"Рождение империи","sid":773,"ad":"2025-02-28","url":"sobolev_nikolay_zampolit__1433_2_velikiy_knyaz_russkiy.json"}
 , {"y":1433,"bid":3305,"b":"2. Полудержавный властелин","sc":3,"s":"Рождение империи","sid":773,"se":"F","sx":"1","ad":"2023-08-13","url":"sobolev_nikolay_zampolit__1433_2_poluderzhavny_vlastelin.json"}
 ]
-, "series": [{"sid":374,"s":"Касик","se":"kasik","a":"Соболев Николай (Zampolit)"}
+, "series": [{"sid":1123,"s":"¡No pasaran!","se":"_no_pasaran_","a":"Соболев Николай (Zampolit)"}
+, {"sid":374,"s":"Касик","se":"kasik","a":"Соболев Николай (Zampolit)"}
 , {"sid":556,"s":"Неверный ленинец","se":"neverny_leninec","a":"Соболев Николай (Zampolit)"}
 , {"sid":773,"s":"Рождение империи","se":"rozhdenie_imperii","a":"Соболев Николай (Zampolit)"}
 , {"sid":1049,"s":"Юнак","se":"yunak","a":"Соболев Николай (Zampolit)"}
+]
+
+}
+, {"AuthorId":1255,"AuthorName":"Советский Всеволод, Дамиров Рафаэль, Гуров Валерий","AuthorEng":"sovetskiy_vsevolod_damirov_rafael_gurov_valeriy","books": [{"y":1982,"bid":5021,"b":"Солдат и пёс","sc":3,"s":"Солдат и пёс","sid":1079,"ad":"2025-02-28","url":"sovetskiy_vsevolod_damirov_rafael_gurov_valeriy_1982_soldat_i_pyos.json"}
+, {"y":1978,"bid":5036,"b":"Студент","sc":3,"s":"Студент","sid":1087,"ad":"2025-02-28","url":"sovetskiy_vsevolod_damirov_rafael_gurov_valeriy_1978_student.json"}
+]
+, "series": [{"sid":1079,"s":"Солдат и пёс","se":"soldat_i_pyos","a":"Советский Всеволод, Дамиров Рафаэль, Гуров Валерий"}
+, {"sid":1087,"s":"Студент","se":"student","a":"Советский Всеволод, Дамиров Рафаэль, Гуров Валерий"}
 ]
 
 }
@@ -8286,7 +8548,8 @@
 ]
 
 }
-, {"AuthorId":1025,"AuthorName":"Старый Денис","AuthorEng":"stary_denis","AuthorGender":"1","books": [{"y":1744,"bid":2797,"b":"1. Наследник","sc":3,"s":"Внук Петра","sid":157,"se":"F","sx":"1","ad":"2023-09-19","url":"stary_denis_1744_1_naslednik.json"}
+, {"AuthorId":1025,"AuthorName":"Старый Денис","AuthorEng":"stary_denis","AuthorGender":"1","books": [{"y":1795,"bid":5139,"b":"1 - 7. Сперанский","sc":3,"s":"Сперанский","sid":1152,"ad":"2025-02-28","url":"stary_denis_1795_1_7_speranskiy.json"}
+, {"y":1744,"bid":2797,"b":"1. Наследник","sc":3,"s":"Внук Петра","sid":157,"se":"F","sx":"1","ad":"2023-09-19","url":"stary_denis_1744_1_naslednik.json"}
 , {"y":1744,"bid":2798,"b":"2. Цесаревич","sc":3,"s":"Внук Петра","sid":157,"se":"F","sx":"1","ad":"2023-09-19","url":"stary_denis_1744_2_cesarevich.json"}
 , {"y":1744,"bid":2799,"b":"3. Соправитель","sc":3,"s":"Внук Петра","sid":157,"se":"F","sx":"1","ad":"2023-10-19","url":"stary_denis_1744_3_sopravitel.json"}
 , {"y":1744,"bid":2800,"b":"4. Император","sc":3,"s":"Внук Петра","sid":157,"se":"F","sx":"1","ad":"2023-12-14","url":"stary_denis_1744_4_imperator.json"}
@@ -8302,6 +8565,7 @@
 , "series": [{"sid":157,"s":"Внук Петра","se":"vnuk_petra","a":"Старый Денис"}
 , {"sid":460,"s":"Лжец на троне","se":"lzhec_na_trone","a":"Старый Денис"}
 , {"sid":660,"s":"По грехам нашим","se":"po_grekham_nashim","a":"Старый Денис"}
+, {"sid":1152,"s":"Сперанский","se":"speranskiy","a":"Старый Денис"}
 ]
 
 }
@@ -8424,6 +8688,7 @@
 
 }
 , {"AuthorId":1043,"AuthorName":"Тамбовский Сергей","AuthorEng":"tambovskiy_sergey","books": [{"y":1990,"bid":141,"b":"2. Кирпичики-2","sc":3,"s":"Кирпичики","sid":381,"se":"F","ad":"2023-02-07","url":"tambovskiy_sergey_1990_2_kirpichiki_2.json"}
+, {"y":1982,"bid":5020,"b":"6 - 7  Младший научный сотрудник","sc":3,"s":"МНС","sid":506,"ad":"2025-02-28","url":"tambovskiy_sergey_1982_6_7_mladshiy_nauchny_sotrudnik.json"}
 ]
 , "series": [{"sid":381,"s":"Кирпичики","se":"kirpichiki","a":"Тамбовский Сергей"}
 ]
@@ -8509,6 +8774,7 @@
 , {"y":1932,"bid":1708,"b":"3. Гражданская война","sc":3,"s":"Мы, Мигель Мартинес","sid":527,"se":"F","sx":"1","ad":"2023-08-13","url":"tarkhanov_vlad_1932_3_grazhdanskaya_voyna.json"}
 , {"y":1932,"bid":1709,"b":"4. Война","sc":3,"s":"Мы, Мигель Мартинес","sid":527,"se":"P","sx":"1","ad":"2023-12-14","url":"tarkhanov_vlad_1932_4_voyna.json"}
 , {"y":1890,"bid":2279,"b":"1. Соправитель","sc":3,"s":"Сандро из Тифлиса","sid":799,"se":"P","sx":"1","ad":"2023-10-19","url":"tarkhanov_vlad_1890_1_sopravitel.json"}
+, {"y":1890,"bid":5116,"b":"1. Соправитель","sc":3,"s":"Сандро из Тифлиса","sid":799,"ad":"2025-02-28","url":"tarkhanov_vlad_1890_1_sopravitel.json"}
 , {"y":1880,"bid":2354,"b":"1. Цена империи. Чистилище","sc":3,"s":"Михайловичи","sid":503,"se":"F","sx":"1","ad":"2023-02-07","url":"tarkhanov_vlad_1880_1_cena_imperii_chistilishche.json"}
 , {"y":1880,"bid":2355,"b":"2. Цена империи. На начинающего Бог","sc":3,"s":"Михайловичи","sid":503,"se":"F","sx":"1","ad":"2023-02-07","url":"tarkhanov_vlad_1880_2_cena_imperii_na_nachinayushchego_bog.json"}
 , {"y":1880,"bid":2356,"b":"3. Цена империи. Фактор нестабильности","sc":3,"s":"Михайловичи ","sid":504,"se":"F","sx":"1","ad":"2023-02-07","url":"tarkhanov_vlad_1880_3_cena_imperii_faktor_nestabilnosti.json"}
@@ -8692,6 +8958,7 @@
 , {"y":1877,"bid":2372,"b":"1. Шатун","sc":3,"s":"Шатун","sid":1022,"se":"F","sx":"1","ad":"2023-08-13","url":"trofimov_erofey_elkhan_askerov__1877_1_shatun.json"}
 , {"y":1877,"bid":2373,"b":"2. Лесной гамбит","sc":3,"s":"Шатун","sid":1022,"se":"F","sx":"1","ad":"2023-08-13","url":"trofimov_erofey_elkhan_askerov__1877_2_lesnoy_gambit.json"}
 , {"y":1877,"bid":2374,"b":"3. Кровь на клинке","sc":3,"s":"Шатун","sid":1022,"se":"P","sx":"1","ad":"2023-12-14","url":"trofimov_erofey_elkhan_askerov__1877_3_krov_na_klinke.json"}
+, {"y":1877,"bid":5122,"b":"4 - 5. Шатун. Шаг в неизвестность","sc":3,"s":"Шатун","sid":1022,"ad":"2025-02-28","url":"trofimov_erofey_elkhan_askerov__1877_4_5_shatun_shag_v_neizvestnost.json"}
 , {"y":1876,"bid":2382,"b":"1. Одиночка","sc":3,"s":"Одиночка","sid":589,"se":"F","sx":"1","ad":"2023-02-07","url":"trofimov_erofey_elkhan_askerov__1876_1_odinochka.json"}
 , {"y":1876,"bid":2383,"b":"2. Одиночка. Горные тропы","sc":3,"s":"Одиночка","sid":589,"se":"F","sx":"1","ad":"2023-02-07","url":"trofimov_erofey_elkhan_askerov__1876_2_odinochka_gornye_tropy.json"}
 , {"y":1876,"bid":2384,"b":"3. Одиночка. Школа пластунов","sc":3,"s":"Одиночка","sid":589,"se":"F","sx":"1","ad":"2023-02-07","url":"trofimov_erofey_elkhan_askerov__1876_3_odinochka_shkola_plastunov.json"}
@@ -8759,9 +9026,12 @@
 , {"y":1971,"bid":702,"b":"1-2. Не отступать и не сдаваться","sc":3,"s":"Боксер","sid":95,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1971_1_2_ne_otstupat_i_ne_sdavatsya.json"}
 , {"y":1971,"bid":703,"b":"3. Не отступать и не сдаваться. Том 3","sc":3,"s":"Боксер","sid":95,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1971_3_ne_otstupat_i_ne_sdavatsya_tom_3.json"}
 , {"y":1971,"bid":704,"b":"4. Не отступать и не сдаваться. Том 4","sc":3,"s":"Боксер","sid":95,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1971_4_ne_otstupat_i_ne_sdavatsya_tom_4.json"}
+, {"y":1971,"bid":5056,"b":"1 - 4 Самбист 1- 4 ","sc":3,"s":"Самбист","sid":1097,"ad":"2025-02-28","url":"tynalin_alim_1971_1_4_sambist_1_4_.json"}
+, {"y":1971,"bid":5057,"b":"Сыщики","sc":3,"s":"Сыщики","sid":1098,"ad":"2025-02-28","url":"tynalin_alim_1971_syshchiki.json"}
 , {"y":1950,"bid":972,"b":"1. Отдел возмездия","sc":3,"s":"Отдел возмездия","sid":612,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1950_1_otdel_vozmezdiya.json"}
 , {"y":1950,"bid":973,"b":"2. Отдел возмездия 2. Диктатура пролетариата.","sc":3,"s":"Отдел возмездия","sid":612,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1950_2_otdel_vozmezdiya_2_diktatura_proletariata_.json"}
 , {"y":1946,"bid":1001,"b":"УГРО: операция \"Волкодав\"","sc":3,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1946_ugro_operaciya_volkodav_.json"}
+, {"y":1928,"bid":5092,"b":"1 - 6 Нэпман 1 - 6","sc":3,"s":"Нэпман","sid":1118,"ad":"2025-02-28","url":"tynalin_alim_1928_1_6_nepman_1_6.json"}
 , {"y":1800,"bid":2669,"b":"1. Штык ярости. Том 1. Южный поход\n Штык ярости. Том 2. Индийский поход","sc":4,"s":"Штык ярости","sid":1036,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1800_1_shtyk_yarosti_tom_1_yuzhny_pokhod_shtyk_yarosti_tom_2_indiyskiy_pokhod.json"}
 , {"y":1800,"bid":2670,"b":"2. Штык ярости. Том 2. Индийский поход","sc":3,"s":"Штык ярости","sid":1036,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1800_2_shtyk_yarosti_tom_2_indiyskiy_pokhod.json"}
 , {"y":1800,"bid":2671,"b":"3. Штык ярости. Том 3. Суворов против Наполеона","sc":3,"s":"Штык ярости","sid":1036,"se":"F","sx":"1","ad":"2023-02-07","url":"tynalin_alim_1800_3_shtyk_yarosti_tom_3_suvorov_protiv_napoleona.json"}
@@ -8781,7 +9051,10 @@
 , {"sid":338,"s":"Император Рима","se":"imperator_rima","a":"Тыналин Алим"}
 , {"sid":349,"s":"Индеец","se":"indeec","a":"Тыналин Алим"}
 , {"sid":373,"s":"Каратист","se":"karatist","a":"Тыналин Алим"}
+, {"sid":1118,"s":"Нэпман","se":"nepman","a":"Тыналин Алим"}
 , {"sid":612,"s":"Отдел возмездия","se":"otdel_vozmezdiya","a":"Тыналин Алим"}
+, {"sid":1097,"s":"Самбист","se":"sambist","a":"Тыналин Алим"}
+, {"sid":1098,"s":"Сыщики","se":"syshchiki","a":"Тыналин Алим"}
 , {"sid":1065,"s":"Усмиритель","se":"usmiritel","a":"Тыналин Алим"}
 , {"sid":942,"s":"Фарцовщик","se":"farcovshchik","a":"Тыналин Алим"}
 , {"sid":1036,"s":"Штык ярости","se":"shtyk_yarosti","a":"Тыналин Алим"}
@@ -8904,12 +9177,14 @@
 , {"y":1981,"bid":348,"b":"1. Книга 1","sc":4,"s":"Котёнок","sid":429,"se":"F","sx":"1","ad":"2023-12-14","url":"fedin_andrey_anatolevich_1981_1_kniga_1.json"}
 , {"y":1981,"bid":349,"b":"2. Книга 2","sc":4,"s":"Котёнок","sid":429,"se":"F","sx":"1","ad":"2024-01-31","url":"fedin_andrey_anatolevich_1981_2_kniga_2.json"}
 , {"y":1981,"bid":350,"b":"3. Книга 3","sc":4,"s":"Котёнок","sid":429,"se":"P","sx":"1","ad":"2024-01-31","url":"fedin_andrey_anatolevich_1981_3_kniga_3.json"}
+, {"y":1973,"bid":5049,"b":"Чёрный дембель. Часть 1","sc":4,"s":"Чёрный дембель","sid":1094,"ad":"2025-02-28","url":"fedin_andrey_anatolevich_1973_chyorny_dembel_chast_1.json"}
 , {"y":1969,"bid":791,"b":"1. Комсомолец. Часть 1","sc":4,"s":"Комсомолец","sid":413,"se":"F","sx":"1","ad":"2023-02-07","url":"fedin_andrey_anatolevich_1969_1_komsomolec_chast_1.json"}
 , {"y":1969,"bid":792,"b":"2. Комсомолец. Часть 2","sc":3,"s":"Комсомолец","sid":413,"se":"F","sx":"1","ad":"2023-08-13","url":"fedin_andrey_anatolevich_1969_2_komsomolec_chast_2.json"}
 , {"y":1969,"bid":793,"b":"3. Комсомолец. Часть 3","sc":3,"s":"Комсомолец","sid":413,"se":"F","sx":"1","ad":"2023-08-13","url":"fedin_andrey_anatolevich_1969_3_komsomolec_chast_3.json"}
 ]
 , "series": [{"sid":413,"s":"Комсомолец","se":"komsomolec","a":"Федин Андрей Анатольевич"}
 , {"sid":429,"s":"Котёнок","se":"kotyonok","a":"Федин Андрей Анатольевич"}
+, {"sid":1094,"s":"Чёрный дембель","se":"chyorny_dembel","a":"Федин Андрей Анатольевич"}
 , {"sid":1008,"s":"Честное пионерское!","se":"chestnoe_pionerskoe_","a":"Федин Андрей Анатольевич"}
 ]
 
@@ -8987,6 +9262,7 @@
 }
 , {"AuthorId":1110,"AuthorName":"Фишер Саша","AuthorEng":"fisher_sasha","books": [{"y":1991,"bid":120,"b":"1. 90-е: Шоу должно продолжаться","sc":4,"s":"90-е: Шоу должно продолжаться","sid":16,"se":"F","ad":"2023-12-14","url":"fisher_sasha_1991_1_90_e_shou_dolzhno_prodolzhatsya.json"}
 , {"y":1991,"bid":121,"b":"2. 90-е: Шоу должно продолжаться - 2","sc":3,"s":"90-е: Шоу должно продолжаться","sid":16,"se":"F","ad":"2024-01-31","url":"fisher_sasha_1991_2_90_e_shou_dolzhno_prodolzhatsya_2.json"}
+, {"y":1991,"bid":5005,"b":"3 - 12. 90-е: Шоу должно продолжаться","sc":4,"s":"90-е: Шоу должно продолжаться","sid":16,"ad":"2025-02-28","url":"fisher_sasha_1991_3_12_90_e_shou_dolzhno_prodolzhatsya.json"}
 , {"y":1980,"bid":372,"b":"1. Звезда заводской многотиражки","sc":4,"s":"Звезда заводской многотиражки","sid":311,"se":"F","ad":"2023-02-07","url":"fisher_sasha_1980_1_zvezda_zavodskoy_mnogotirazhki.json"}
 , {"y":1980,"bid":374,"b":"2. Звезда заводской многотиражки 1","sc":4,"s":"Звезда заводской многотиражки","sid":311,"se":"F","url":"fisher_sasha_1980_2_zvezda_zavodskoy_mnogotirazhki_1.json"}
 , {"y":1980,"bid":375,"b":"3. Звезда заводской многотиражки 2","sc":3,"s":"Звезда заводской многотиражки","sid":311,"se":"F","ad":"2023-02-07","url":"fisher_sasha_1980_3_zvezda_zavodskoy_mnogotirazhki_2.json"}
@@ -9000,7 +9276,8 @@
 ]
 
 }
-, {"AuthorId":1111,"AuthorName":"Фишер Саша, Дамиров Рафаэль","AuthorEng":"fisher_sasha_damirov_rafael","AuthorGender":"1","books": [{"y":1941,"bid":1145,"b":"1. Красный вервольф","sc":3,"s":"Красный вервольф","sid":434,"se":"F","sx":"1","ad":"2023-08-13","url":"fisher_sasha_damirov_rafael_1941_1_krasny_vervolf.json"}
+, {"AuthorId":1111,"AuthorName":"Фишер Саша, Дамиров Рафаэль","AuthorEng":"fisher_sasha_damirov_rafael","AuthorGender":"1","books": [{"y":1941,"bid":5072,"b":"Красный вервольф","sc":3,"ad":"2025-02-28","url":"fisher_sasha_damirov_rafael_1941_krasny_vervolf.json"}
+, {"y":1941,"bid":1145,"b":"1. Красный вервольф","sc":3,"s":"Красный вервольф","sid":434,"se":"F","sx":"1","ad":"2023-08-13","url":"fisher_sasha_damirov_rafael_1941_1_krasny_vervolf.json"}
 , {"y":1941,"bid":1146,"b":"2. Красный вервольф - 2","sc":3,"s":"Красный вервольф","sid":434,"se":"F","sx":"1","ad":"2023-08-13","url":"fisher_sasha_damirov_rafael_1941_2_krasny_vervolf_2.json"}
 , {"y":1941,"bid":1147,"b":"3. Красный вервольф - 3","sc":3,"s":"Красный вервольф","sid":434,"se":"F","sx":"1","ad":"2023-08-13","url":"fisher_sasha_damirov_rafael_1941_3_krasny_vervolf_3.json"}
 , {"y":1941,"bid":1148,"b":"4. Красный вервольф - 4","sc":3,"s":"Красный вервольф","sid":434,"se":"F","sx":"1","ad":"2023-10-19","url":"fisher_sasha_damirov_rafael_1941_4_krasny_vervolf_4.json"}
@@ -9050,8 +9327,10 @@
 , {"y":1980,"bid":384,"b":"4. Конторщица-4","sc":3,"s":"Конторщица","sid":416,"se":"F","ad":"2023-08-13","url":"fond_a__1980_4_kontorshchica_4.json"}
 , {"y":1980,"bid":385,"b":"5. Конторщица-5","sc":3,"s":"Конторщица","sid":416,"se":"F","ad":"2023-10-19","url":"fond_a__1980_5_kontorshchica_5.json"}
 , {"y":1965,"bid":873,"b":"Два агронома и дед Митрофан","sc":3,"ad":"2023-02-07","url":"fond_a__1965_dva_agronoma_i_ded_mitrofan.json"}
+, {"y":1951,"bid":5068,"b":"Муля, не нервируй...","sc":3,"s":"Муля, не нервируй...","sid":1105,"ad":"2025-02-28","url":"fond_a__1951_mulya_ne_nerviruy_.json"}
 ]
 , "series": [{"sid":416,"s":"Конторщица","se":"kontorshchica","a":"Фонд А."}
+, {"sid":1105,"s":"Муля, не нервируй...","se":"mulya_ne_nerviruy_","a":"Фонд А."}
 ]
 
 }
@@ -9234,8 +9513,15 @@
 , {"y":1978,"bid":473,"b":"10. Книга X","sc":2,"s":"Новый старый 1978-й","sid":578,"se":"F","sx":"1","url":"khramcov_andrey_1978_10_kniga_x.json"}
 , {"y":1978,"bid":474,"b":"11. Книга XI","sc":2,"s":"Новый старый 1978-й","sid":578,"se":"F","sx":"1","url":"khramcov_andrey_1978_11_kniga_xi.json"}
 , {"y":1978,"bid":475,"b":"12. Книга XII","sc":2,"s":"Новый старый 1978-й","sid":578,"se":"F","sx":"1","url":"khramcov_andrey_1978_12_kniga_xii.json"}
+, {"y":1978,"bid":5034,"b":"13 - 16I","sc":2,"s":"Новый старый 1978-й","sid":578,"ad":"2025-02-28","url":"khramcov_andrey_1978_13_16i.json"}
 ]
 , "series": [{"sid":578,"s":"Новый старый 1978-й","se":"novy_stary_1978_y","a":"Храмцов Андрей"}
+]
+
+}
+, {"AuthorId":1256,"AuthorName":"Хренов Алексей","AuthorEng":"khrenov_aleksey","books": [{"y":1936,"bid":5089,"b":"Московское золото или нежная попа комсомолки.","sc":5,"s":"Лётчик Лёха","sid":1115,"ad":"2025-02-28","url":"khrenov_aleksey_1936_moskovskoe_zoloto_ili_nezhnaya_popa_komsomolki_.json"}
+]
+, "series": [{"sid":1115,"s":"Лётчик Лёха","se":"lyotchik_lyokha","a":"Хренов Алексей"}
 ]
 
 }
@@ -9293,6 +9579,7 @@
 
 }
 , {"AuthorId":1154,"AuthorName":"Чайка Дмитрий","AuthorEng":"chayka_dmitriy","AuthorGender":"1","books": [{"y":619,"bid":3719,"b":"1. Купец из будущего ч.1","sc":4,"s":"Третий Рим","sid":916,"se":"F","sx":"1","ad":"2023-08-13","url":"chayka_dmitriy_619_1_kupec_iz_budushchego_ch_1.json"}
+, {"y":619,"bid":5168,"b":"10-16 Знойные ветры юга 10-16","sc":3,"s":"Третий Рим","sid":916,"ad":"2025-02-28","url":"chayka_dmitriy_619_10_16_znoynye_vetry_yuga_10_16.json"}
 , {"y":619,"bid":3720,"b":"2. Купец из будущего ч.2","sc":3,"s":"Третий Рим","sid":916,"se":"F","sx":"1","ad":"2023-08-13","url":"chayka_dmitriy_619_2_kupec_iz_budushchego_ch_2.json"}
 , {"y":619,"bid":3721,"b":"3. Князь из будущего 1","sc":3,"s":"Третий Рим","sid":916,"se":"F","sx":"1","ad":"2023-08-13","url":"chayka_dmitriy_619_3_knyaz_iz_budushchego_1.json"}
 , {"y":619,"bid":3722,"b":"4. Князь из будущего 2","sc":3,"s":"Третий Рим","sid":916,"se":"F","sx":"1","url":"chayka_dmitriy_619_4_knyaz_iz_budushchego_2.json"}
@@ -9343,8 +9630,10 @@
 , {"y":1984,"bid":273,"b":"2. Второе счастье.","sc":3,"s":"Мир совкового периода","sid":497,"se":"F","sx":"1","ad":"2023-02-07","url":"cheremis_igor_1984_2_vtoroe_schaste_.json"}
 , {"y":1984,"bid":274,"b":"3. Третий лишний","sc":3,"s":"Мир совкового периода","sid":497,"se":"F","sx":"1","ad":"2023-08-13","url":"cheremis_igor_1984_3_tretiy_lishniy.json"}
 , {"y":1984,"bid":275,"b":"4. Четвертая масть","sc":3,"s":"Мир совкового периода","sid":497,"se":"F","sx":"1","ad":"2024-01-31","url":"cheremis_igor_1984_4_chetvertaya_mast.json"}
+, {"y":1972,"bid":5053,"b":"Диссидент-1: Спасите наши души","sc":3,"s":"Диссидент. 1972","sid":1096,"ad":"2025-02-28","url":"cheremis_igor_1972_dissident_1_spasite_nashi_dushi.json"}
 ]
-, "series": [{"sid":497,"s":"Мир совкового периода","se":"mir_sovkovogo_perioda","a":"Черемис Игорь"}
+, "series": [{"sid":1096,"s":"Диссидент. 1972","se":"dissident_1972","a":"Черемис Игорь"}
+, {"sid":497,"s":"Мир совкового периода","se":"mir_sovkovogo_perioda","a":"Черемис Игорь"}
 ]
 
 }
@@ -9407,23 +9696,30 @@
 , {"AuthorId":1167,"AuthorName":"Чинцов Вадим","AuthorEng":"chincov_vadim","AuthorGender":"1","books": [{"y":1977,"bid":514,"b":"1. Часть 1","sc":3,"s":"Вернуть СССР (очередная попытка)","sid":143,"se":"F","sx":"1","url":"chincov_vadim_1977_1_chast_1.json"}
 , {"y":1977,"bid":515,"b":"2. Часть 2","sc":3,"s":"Вернуть СССР (очередная попытка)","sid":143,"se":"F","sx":"1","url":"chincov_vadim_1977_2_chast_2.json"}
 , {"y":1977,"bid":516,"b":"3. Десять лет спустя. Затерянный во времени.","sc":3,"s":"Вернуть СССР (очередная попытка)","sid":143,"se":"F","sx":"1","url":"chincov_vadim_1977_3_desyat_let_spustya_zateryanny_vo_vremeni_.json"}
+, {"y":1977,"bid":5038,"b":"3. Десять лет спустя. Затерянный во времени.","sc":3,"s":"Вернуть СССР (очередная попытка)","sid":143,"ad":"2025-02-28","url":"chincov_vadim_1977_3_desyat_let_spustya_zateryanny_vo_vremeni_.json"}
 , {"y":1941,"bid":1298,"b":"1. В горниле 1941-го","sc":3,"s":"Спецназ","sid":853,"se":"F","sx":"1","ad":"2023-08-13","url":"chincov_vadim_1941_1_v_gornile_1941_go.json"}
 , {"y":1941,"bid":1299,"b":"2. Изменение реальности","sc":3,"s":"Спецназ","sid":853,"se":"F","sx":"1","ad":"2023-09-19","url":"chincov_vadim_1941_2_izmenenie_realnosti.json"}
+, {"y":1941,"bid":5082,"b":"3 - 4 Спецназ. Опять в прошлое?!","sc":3,"s":"Спецназ","sid":853,"ad":"2025-02-28","url":"chincov_vadim_1941_3_4_specnaz_opyat_v_proshloe_.json"}
 , {"y":1941,"bid":1300,"b":"3. Изменененная реальность","sc":3,"s":"Спецназ","sid":853,"se":"P","sx":"1","url":"chincov_vadim_1941_3_izmenenennaya_realnost.json"}
 , {"y":1919,"bid":1825,"b":"1. Важняк из двухтысячных. Внедрение в ЧК ","sc":2,"s":"Важняк из двухтысячных","sid":116,"se":"F","sx":"1","ad":"2023-02-07","url":"chincov_vadim_1919_1_vazhnyak_iz_dvukhtysyachnykh_vnedrenie_v_chk_.json"}
 , {"y":1919,"bid":1826,"b":"2. Важняк из двухтысячных. Внедрение в ЦК ","sc":2,"s":"Важняк из двухтысячных","sid":116,"se":"F","sx":"1","ad":"2023-02-07","url":"chincov_vadim_1919_2_vazhnyak_iz_dvukhtysyachnykh_vnedrenie_v_ck_.json"}
 , {"y":1919,"bid":1827,"b":"3. Важняк из двухтысячных. Внедрение в ЦК - 2","sc":2,"s":"Важняк из двухтысячных","sid":116,"se":"F","sx":"1","ad":"2023-02-07","url":"chincov_vadim_1919_3_vazhnyak_iz_dvukhtysyachnykh_vnedrenie_v_ck_2.json"}
+, {"y":1919,"bid":5098,"b":"Павел Судоплатов","sc":3,"s":"Павел Судоплатов","sid":1124,"ad":"2025-02-28","url":"chincov_vadim_1919_pavel_sudoplatov.json"}
+, {"y":1673,"bid":5144,"b":"Спецназ ГРУ. Жизнь после смерти","sc":3,"s":"Спецназ ГРУ. Жизнь после смерти","sid":1156,"ad":"2025-02-28","url":"chincov_vadim_1673_specnaz_gru_zhizn_posle_smerti.json"}
 , {"y":1245,"bid":3379,"b":"1. Сокровища тамплиеров","sc":2,"s":"Вторая жизнь полковника спецназа. Нагнуть Европу","sid":190,"se":"F","sx":"1","ad":"2023-08-13","url":"chincov_vadim_1245_1_sokrovishcha_tamplierov.json"}
 , {"y":1245,"bid":3380,"b":"2. Император","sc":3,"s":"Вторая жизнь полковника спецназа. Нагнуть Европу","sid":190,"se":"F","sx":"1","ad":"2023-08-13","url":"chincov_vadim_1245_2_imperator.json"}
 ]
 , "series": [{"sid":116,"s":"Важняк из двухтысячных","se":"vazhnyak_iz_dvukhtysyachnykh","a":"Чинцов Вадим"}
 , {"sid":143,"s":"Вернуть СССР (очередная попытка)","se":"vernut_sssr_ocherednaya_popytka_","a":"Чинцов Вадим"}
 , {"sid":190,"s":"Вторая жизнь полковника спецназа. Нагнуть Европу","se":"vtoraya_zhizn_polkovnika_specnaza_nagnut_evropu","a":"Чинцов Вадим"}
+, {"sid":1124,"s":"Павел Судоплатов","se":"pavel_sudoplatov","a":"Чинцов Вадим"}
 , {"sid":853,"s":"Спецназ","se":"specnaz","a":"Чинцов Вадим"}
+, {"sid":1156,"s":"Спецназ ГРУ. Жизнь после смерти","se":"specnaz_gru_zhizn_posle_smerti","a":"Чинцов Вадим"}
 ]
 
 }
-, {"AuthorId":1168,"AuthorName":"Чинцов Вадим Владимирович","AuthorEng":"chincov_vadim_vladimirovich","AuthorGender":"1","books": [{"y":1966,"bid":851,"b":"1. Мышата","sc":2,"s":"Летучие мыши","sid":457,"se":"P","sx":"1","ad":"2024-01-31","url":"chincov_vadim_vladimirovich_1966_1_myshata.json"}
+, {"AuthorId":1168,"AuthorName":"Чинцов Вадим Владимирович","AuthorEng":"chincov_vadim_vladimirovich","AuthorGender":"1","books": [{"y":1966,"bid":5064,"b":"1 - 3 Летучие мыши","sc":3,"s":"Летучие мыши","sid":457,"ad":"2025-02-28","url":"chincov_vadim_vladimirovich_1966_1_3_letuchie_myshi.json"}
+, {"y":1966,"bid":851,"b":"1. Мышата","sc":2,"s":"Летучие мыши","sid":457,"se":"P","sx":"1","ad":"2024-01-31","url":"chincov_vadim_vladimirovich_1966_1_myshata.json"}
 ]
 , "series": [{"sid":457,"s":"Летучие мыши","se":"letuchie_myshi","a":"Чинцов Вадим Владимирович"}
 ]
@@ -9515,8 +9811,16 @@
 , {"y":1918,"bid":1854,"b":"11. Венский вальс","sc":3,"s":"Чекист","sid":995,"se":"F","sx":"1","ad":"2023-08-13","url":"shalashov_evgeniy_1918_11_venskiy_vals.json"}
 , {"y":1918,"bid":1855,"b":"12. Ирландские танцы","sc":3,"s":"Чекист","sid":995,"se":"F","sx":"1","ad":"2023-10-19","url":"shalashov_evgeniy_1918_12_irlandskie_tancy.json"}
 , {"y":1918,"bid":1856,"b":"13. Исполняющий обязанности","sc":3,"s":"Чекист","sid":995,"se":"F","sx":"1","ad":"2023-12-14","url":"shalashov_evgeniy_1918_13_ispolnyayushchiy_obyazannosti.json"}
+, {"y":1883,"bid":5120,"b":"Господин следователь","sc":3,"s":"Господин следователь","sid":1138,"ad":"2025-02-28","url":"shalashov_evgeniy_1883_gospodin_sledovatel.json"}
 ]
-, "series": [{"sid":995,"s":"Чекист","se":"chekist","a":"Шалашов Евгений"}
+, "series": [{"sid":1138,"s":"Господин следователь","se":"gospodin_sledovatel","a":"Шалашов Евгений"}
+, {"sid":995,"s":"Чекист","se":"chekist","a":"Шалашов Евгений"}
+]
+
+}
+, {"AuthorId":1257,"AuthorName":"Шалашов Евгений, Зингер Владимир","AuthorEng":"shalashov_evgeniy_zinger_vladimir","books": [{"y":1976,"bid":5044,"b":"Убей-городок","sc":3,"s":"Милицейский транзит","sid":1092,"ad":"2025-02-28","url":"shalashov_evgeniy_zinger_vladimir_1976_ubey_gorodok.json"}
+]
+, "series": [{"sid":1092,"s":"Милицейский транзит","se":"miliceyskiy_tranzit","a":"Шалашов Евгений, Зингер Владимир"}
 ]
 
 }
@@ -9541,6 +9845,7 @@
 }
 , {"AuthorId":1183,"AuthorName":"Шведов Вадим","AuthorEng":"shvedov_vadim","AuthorGender":"1","books": [{"y":1818,"bid":2587,"b":"1. К чему снится Император? Часть 1","sc":2,"s":"К чему снится Император?","sid":361,"se":"F","sx":"1","ad":"2023-08-13","url":"shvedov_vadim_1818_1_k_chemu_snitsya_imperator_chast_1.json"}
 , {"y":1818,"bid":2588,"b":"2. К чему снится Император? Часть 2","sc":3,"s":"К чему снится Император?","sid":361,"se":"P","sx":"1","ad":"2023-12-14","url":"shvedov_vadim_1818_2_k_chemu_snitsya_imperator_chast_2.json"}
+, {"y":-126,"bid":5172,"b":"Олег - диктатор Рима?","sc":3,"ad":"2025-02-28","url":"shvedov_vadim_-126_oleg_diktator_rima_.json"}
 ]
 , "series": [{"sid":361,"s":"К чему снится Император?","se":"k_chemu_snitsya_imperator_","a":"Шведов Вадим"}
 ]
@@ -9569,10 +9874,13 @@
 , "series": []
 
 }
-, {"AuthorId":1188,"AuthorName":"Шелест Михаил","AuthorEng":"shelest_mikhail","books": [{"y":1510,"bid":3205,"b":"1. Араб с острова Банда ","sc":3,"s":"Араб","sid":55,"se":"F","url":"shelest_mikhail_1510_1_arab_s_ostrova_banda_.json"}
+, {"AuthorId":1188,"AuthorName":"Шелест Михаил","AuthorEng":"shelest_mikhail","books": [{"y":1973,"bid":5050,"b":"Джони, о-е! Или назад в СССР.","sc":3,"s":"Джони","sid":1095,"ad":"2025-02-28","url":"shelest_mikhail_1973_dzhoni_o_e_ili_nazad_v_sssr_.json"}
+, {"y":1552,"bid":5153,"b":"2. Патриарх Московский","sc":3,"s":"Филарет","sid":948,"ad":"2025-02-28","url":"shelest_mikhail_1552_2_patriarkh_moskovskiy.json"}
+, {"y":1510,"bid":3205,"b":"1. Араб с острова Банда ","sc":3,"s":"Араб","sid":55,"se":"F","url":"shelest_mikhail_1510_1_arab_s_ostrova_banda_.json"}
 , {"y":1510,"bid":3206,"b":"2. Араб у трона короля. ","sc":3,"s":"Араб","sid":55,"se":"F","url":"shelest_mikhail_1510_2_arab_u_trona_korolya_.json"}
 ]
 , "series": [{"sid":55,"s":"Араб","se":"arab","a":"Шелест Михаил"}
+, {"sid":1095,"s":"Джони","se":"dzhoni","a":"Шелест Михаил"}
 ]
 
 }
@@ -9595,16 +9903,19 @@
 ]
 
 }
-, {"AuthorId":1190,"AuthorName":"Шенгальц Игорь","AuthorEng":"shengalc_igor","AuthorGender":"1","books": [{"y":1683,"bid":2924,"b":"1. Пиастры, ром и черная метка!","sc":3,"s":"Охотники на пиратов","sid":631,"se":"F","sx":"1","ad":"2023-08-13","url":"shengalc_igor_1683_piastry_rom_i_chernaya_metka_.json"}
+, {"AuthorId":1190,"AuthorName":"Шенгальц Игорь","AuthorEng":"shengalc_igor","AuthorGender":"1","books": [{"y":1942,"bid":5071,"b":"Черные ножи 1 -3 ","sc":3,"s":"Черные ножи","sid":1107,"ad":"2025-02-28","url":"shengalc_igor_1942_chernye_nozhi_1_3_.json"}
+, {"y":1683,"bid":2924,"b":"1. Пиастры, ром и черная метка!","sc":3,"s":"Охотники на пиратов","sid":631,"se":"F","sx":"1","ad":"2023-08-13","url":"shengalc_igor_1683_piastry_rom_i_chernaya_metka_.json"}
 , {"y":1630,"bid":2985,"b":"2. XVII. Наваррец","sc":3,"s":"Семнадцатый","sid":811,"se":"F","sx":"1","ad":"2023-08-13","url":"shengalc_igor_1630_2_xvii_navarrec.json"}
 , {"y":1630,"bid":2986,"b":"4. XVII. Де Брас","sc":3,"s":"Семнадцатый","sid":811,"se":"F","sx":"1","ad":"2023-09-19","url":"shengalc_igor_1630_4_xvii_de_bras.json"}
 ]
 , "series": [{"sid":631,"s":"Охотники на пиратов","se":"okhotniki_na_piratov","a":"Шенгальц Игорь"}
 , {"sid":811,"s":"Семнадцатый","se":"semnadcaty","a":"Шенгальц Игорь"}
+, {"sid":1107,"s":"Черные ножи","se":"chernye_nozhi","a":"Шенгальц Игорь"}
 ]
 
 }
 , {"AuthorId":1191,"AuthorName":"Шенгальц Игорь, Башибузук Александр","AuthorEng":"shengalc_igor_bashibuzuk_aleksandr","AuthorGender":"1","books": [{"y":1630,"bid":2987,"b":"1. XVII. Грязь, кровь и вино!","sc":4,"s":"Семнадцатый","sid":812,"se":"F","sx":"1","ad":"2023-02-07","url":"shengalc_igor_bashibuzuk_aleksandr_1630_1_xvii_gryaz_krov_i_vino_.json"}
+, {"y":1630,"bid":5148,"b":"5. XVII. Мечом и словом Божьим!","sc":3,"s":"Семнадцатый","sid":812,"ad":"2025-02-28","url":"shengalc_igor_bashibuzuk_aleksandr_1630_5_xvii_mechom_i_slovom_bozhim_.json"}
 ]
 , "series": [{"sid":812,"s":"Семнадцатый","se":"semnadcaty","a":"Шенгальц Игорь, Башибузук Александр"}
 ]
@@ -9706,6 +10017,7 @@
 , {"y":1932,"bid":1715,"b":"6. Охота на Тигра. Книга шестая. Комбриг","sc":3,"s":"Охота на Тигра","sid":628,"se":"F","sx":"1","ad":"2023-02-07","url":"shoppert_andrey_1932_6_okhota_na_tigra_kniga_shestaya_kombrig.json"}
 , {"y":1932,"bid":1716,"b":"7. Охота на Тигра. Книга седьмая. Монгольские степи. Халхин-Гол","sc":3,"s":"Охота на Тигра","sid":628,"se":"F","sx":"1","ad":"2023-02-07","url":"shoppert_andrey_1932_7_okhota_na_tigra_kniga_sedmaya_mongolskie_stepi_khalkhin_gol.json"}
 , {"y":1932,"bid":1717,"b":"8. Охота на Тигра. Книга восьмая. Зимняя война","sc":3,"s":"Охота на Тигра","sid":628,"se":"F","sx":"1","ad":"2023-02-07","url":"shoppert_andrey_1932_8_okhota_na_tigra_kniga_vosmaya_zimnyaya_voyna.json"}
+, {"y":1830,"bid":5132,"b":"Дурень","sc":3,"s":"Дурень","sid":1147,"ad":"2025-02-28","url":"shoppert_andrey_1830_duren.json"}
 , {"y":1801,"bid":2653,"b":"1. Царская немилость","sc":3,"s":"Красавчик","sid":431,"se":"F","sx":"1","ad":"2023-02-07","url":"shoppert_andrey_1801_1_carskaya_nemilost.json"}
 , {"y":1801,"bid":2654,"b":"2. И аз воздам","sc":3,"s":"Красавчик","sid":431,"se":"F","sx":"1","ad":"2023-02-07","url":"shoppert_andrey_1801_2_i_az_vozdam.json"}
 , {"y":1801,"bid":2655,"b":"3. Две столицы","sc":3,"s":"Красавчик","sid":431,"se":"F","sx":"1","ad":"2023-08-13","url":"shoppert_andrey_1801_3_dve_stolicy.json"}
@@ -9720,10 +10032,13 @@
 , {"y":1614,"bid":3013,"b":"5. Книга V","sc":3,"s":"И опять Пожарский","sid":322,"se":"F","sx":"1","url":"shoppert_andrey_1614_5_kniga_v.json"}
 , {"y":1614,"bid":3014,"b":"6. Книга VI","sc":3,"s":"И опять Пожарский","sid":322,"se":"F","sx":"1","url":"shoppert_andrey_1614_6_kniga_vi.json"}
 , {"y":1614,"bid":3015,"b":"7. Книга VII","sc":3,"s":"И опять Пожарский","sid":322,"se":"F","sx":"1","url":"shoppert_andrey_1614_7_kniga_vii.json"}
+, {"y":1323,"bid":5164,"b":"Королевство Русское","sc":3,"s":"Королевство Русское","sid":1170,"ad":"2025-02-28","url":"shoppert_andrey_1323_korolevstvo_russkoe.json"}
 ]
 , "series": [{"sid":160,"s":"Вовка-центровой","se":"vovka_centrovoy","a":"Шопперт Андрей"}
+, {"sid":1147,"s":"Дурень","se":"duren","a":"Шопперт Андрей"}
 , {"sid":322,"s":"И опять Пожарский","se":"i_opyat_pozharskiy","a":"Шопперт Андрей"}
 , {"sid":402,"s":"Колхозное строительство","se":"kolkhoznoe_stroitelstvo","a":"Шопперт Андрей"}
+, {"sid":1170,"s":"Королевство Русское","se":"korolevstvo_russkoe","a":"Шопперт Андрей"}
 , {"sid":431,"s":"Красавчик","se":"krasavchik","a":"Шопперт Андрей"}
 , {"sid":628,"s":"Охота на Тигра","se":"okhota_na_tigra","a":"Шопперт Андрей"}
 ]
@@ -9763,7 +10078,8 @@
 ]
 
 }
-, {"AuthorId":1205,"AuthorName":"Шу Алекс","AuthorEng":"shu_aleks","AuthorGender":"1","books": [{"y":1986,"bid":216,"b":"1. Деньги пахнут кровью","sc":3,"s":"Олигарх из будущего","sid":597,"se":"F","sx":"1","url":"shu_aleks_1986_1_dengi_pakhnut_krovyu.json"}
+, {"AuthorId":1205,"AuthorName":"Шу Алекс","AuthorEng":"shu_aleks","AuthorGender":"1","books": [{"y":1991,"bid":5007,"b":"Кровавая весна 91-го","sc":3,"s":"Интриган","sid":1069,"ad":"2025-02-28","url":"shu_aleks_1991_krovavaya_vesna_91_go.json"}
+, {"y":1986,"bid":216,"b":"1. Деньги пахнут кровью","sc":3,"s":"Олигарх из будущего","sid":597,"se":"F","sx":"1","url":"shu_aleks_1986_1_dengi_pakhnut_krovyu.json"}
 , {"y":1986,"bid":217,"b":"2. Удача любит смелых","sc":3,"s":"Олигарх из будущего","sid":597,"se":"F","sx":"1","ad":"2023-10-19","url":"shu_aleks_1986_2_udacha_lyubit_smelykh.json"}
 , {"y":1986,"bid":218,"b":"3. Миллионы рождают власть","sc":3,"s":"Олигарх из будущего","sid":597,"se":"F","sx":"1","ad":"2023-08-13","url":"shu_aleks_1986_3_milliony_rozhdayut_vlast.json"}
 , {"y":1986,"bid":219,"b":"4. Время платить по счетам","sc":3,"s":"Олигарх из будущего","sid":597,"se":"F","sx":"1","ad":"2023-10-19","url":"shu_aleks_1986_4_vremya_platit_po_schetam.json"}
@@ -9773,7 +10089,8 @@
 , {"y":1978,"bid":479,"b":"4.  Ответный удар.","sc":3,"s":"Последний Солдат СССР","sid":700,"se":"F","sx":"1","url":"shu_aleks_1978_4_otvetny_udar_.json"}
 , {"y":1978,"bid":480,"b":"5. Последняя битва.","sc":3,"s":"Последний Солдат СССР","sid":700,"se":"F","sx":"1","ad":"2023-02-07","url":"shu_aleks_1978_5_poslednyaya_bitva_.json"}
 ]
-, "series": [{"sid":597,"s":"Олигарх из будущего","se":"oligarkh_iz_budushchego","a":"Шу Алекс"}
+, "series": [{"sid":1069,"s":"Интриган","se":"intrigan","a":"Шу Алекс"}
+, {"sid":597,"s":"Олигарх из будущего","se":"oligarkh_iz_budushchego","a":"Шу Алекс"}
 , {"sid":700,"s":"Последний Солдат СССР","se":"posledniy_soldat_sssr","a":"Шу Алекс"}
 ]
 
@@ -9812,6 +10129,7 @@
 , {"y":1972,"bid":689,"b":"6. Долины и взгорья","sc":4,"s":"Переигровка","sid":645,"se":"F","sx":"1","ad":"2023-08-13","url":"shchepetnev_vasiliy_1972_6_doliny_i_vzgorya.json"}
 , {"y":1972,"bid":690,"b":"7. Заморозки","sc":4,"s":"Переигровка","sid":645,"se":"F","sx":"1","ad":"2023-08-13","url":"shchepetnev_vasiliy_1972_7_zamorozki.json"}
 , {"y":1972,"bid":691,"b":"8. Во льдах","sc":4,"s":"Переигровка","sid":645,"se":"F","sx":"1","ad":"2023-09-19","url":"shchepetnev_vasiliy_1972_8_vo_ldakh.json"}
+, {"y":1972,"bid":5054,"b":"9-10. Переигровка - 9 - 10","sc":4,"s":"Переигровка","sid":645,"ad":"2025-02-28","url":"shchepetnev_vasiliy_1972_9_10_pereigrovka_9_10.json"}
 , {"y":1972,"bid":692,"b":"9. Переигровка - 9","sc":4,"s":"Переигровка","sid":645,"se":"P","sx":"1","ad":"2023-12-21","url":"shchepetnev_vasiliy_1972_9_pereigrovka_9.json"}
 , {"y":1924,"bid":1775,"b":"3. Загнанный","sc":3,"s":"Барон Магель","sid":68,"se":"P","sx":"1","url":"shchepetnev_vasiliy_1924_3_zagnanny.json"}
 , {"y":1904,"bid":2055,"b":"1. Барон Магель Поправка курса","sc":3,"s":"Барон Магель","sid":68,"se":"F","sx":"1","ad":"2023-02-07","url":"shchepetnev_vasiliy_1904_1_baron_magel_popravka_kursa.json"}
@@ -9950,10 +10268,16 @@
 
 }
 , {"AuthorId":1228,"AuthorName":"Юшкин Вячеслав","AuthorEng":"yushkin_vyacheslav","AuthorGender":"1","books": [{"y":1975,"bid":614,"b":"В черной жаркой Африке...","sc":3,"se":"F","sx":"1","ad":"2023-02-07","url":"yushkin_vyacheslav_1975_v_chernoy_zharkoy_afrike_.json"}
+, {"y":1898,"bid":5110,"b":"1 - 2. Белое на черном","sc":3,"s":"Белое на черном","sid":1133,"ad":"2025-02-28","url":"yushkin_vyacheslav_1898_1_2_beloe_na_chernom.json"}
+, {"y":1804,"bid":5135,"b":"3. Продавец \"\"кондитерки\"\" 3","sc":1,"s":"Продавец \"\"кондитерки\"\"","sid":1149,"ad":"2025-02-28","url":"yushkin_vyacheslav_1804_3_prodavec_konditerki_3.json"}
 , {"y":1804,"bid":2638,"b":"1. Продавец \"кондитерки\"","sc":1,"s":"Продавец \"кондитерки\"","sid":714,"se":"F","sx":"1","ad":"2023-08-13","url":"yushkin_vyacheslav_1804_1_prodavec_konditerki_.json"}
 , {"y":1804,"bid":2639,"b":"2. Продавец \"кондитерки\" 2","sc":1,"s":"Продавец \"кондитерки\"","sid":714,"se":"F","sx":"1","ad":"2023-08-13","url":"yushkin_vyacheslav_1804_2_prodavec_konditerki_2.json"}
+, {"y":1618,"bid":5149,"b":"1 - 4 Арбалетчик с Тверской","sc":3,"s":"Арбалетчик с Тверской","sid":1159,"ad":"2025-02-28","url":"yushkin_vyacheslav_1618_1_4_arbaletchik_s_tverskoy.json"}
 ]
-, "series": [{"sid":714,"s":"Продавец \"кондитерки\"","se":"prodavec_konditerki_","a":"Юшкин Вячеслав"}
+, "series": [{"sid":1159,"s":"Арбалетчик с Тверской","se":"arbaletchik_s_tverskoy","a":"Юшкин Вячеслав"}
+, {"sid":1133,"s":"Белое на черном","se":"beloe_na_chernom","a":"Юшкин Вячеслав"}
+, {"sid":1149,"s":"Продавец \"\"кондитерки\"\"","se":"prodavec_konditerki_","a":"Юшкин Вячеслав"}
+, {"sid":714,"s":"Продавец \"кондитерки\"","se":"prodavec_konditerki_","a":"Юшкин Вячеслав"}
 ]
 
 }
@@ -10018,6 +10342,8 @@
 , {"y":1796,"bid":2688,"b":"4. Бесноватый Цесаревич-4","sc":3,"s":"Бесноватый Цесаревич","sid":82,"se":"F","sx":"1","url":"yamanov_aleksandr_1796_4_besnovaty_cesarevich_4.json"}
 , {"y":1796,"bid":2689,"b":"5. Бесноватый Цесаревич-5","sc":3,"s":"Бесноватый Цесаревич","sid":82,"se":"F","sx":"1","ad":"2023-02-07","url":"yamanov_aleksandr_1796_5_besnovaty_cesarevich_5.json"}
 , {"y":1796,"bid":2690,"b":"6. Бесноватый Цесаревич-6","sc":3,"s":"Бесноватый Цесаревич","sid":82,"se":"F","sx":"1","ad":"2023-02-07","url":"yamanov_aleksandr_1796_6_besnovaty_cesarevich_6.json"}
+, {"y":1764,"bid":5142,"b":"Неожиданный наследник","sc":3,"s":"Царь Иоанн Кровавый","sid":1154,"ad":"2025-02-28","url":"yamanov_aleksandr_1764_neozhidanny_naslednik.json"}
+, {"y":1682,"bid":5143,"b":"Сын Тишайшего","sc":3,"s":"Царь Федя","sid":1155,"ad":"2025-02-28","url":"yamanov_aleksandr_1682_syn_tishayshego.json"}
 , {"y":1225,"bid":3437,"b":"1. Последний из рода Ашина","sc":3,"s":"Кипчак","sid":379,"se":"F","sx":"1","ad":"2023-02-07","url":"yamanov_aleksandr_1225_1_posledniy_iz_roda_ashina.json"}
 , {"y":1225,"bid":3438,"b":"2. Хан из рода Ашина","sc":3,"s":"Кипчак","sid":379,"se":"P","sx":"1","ad":"2024-01-31","url":"yamanov_aleksandr_1225_2_khan_iz_roda_ashina.json"}
 ]
@@ -10025,6 +10351,8 @@
 , {"sid":82,"s":"Бесноватый Цесаревич","se":"besnovaty_cesarevich","a":"Яманов Александр"}
 , {"sid":379,"s":"Кипчак","se":"kipchak","a":"Яманов Александр"}
 , {"sid":759,"s":"Режиссёр","se":"rezhissyor","a":"Яманов Александр"}
+, {"sid":1154,"s":"Царь Иоанн Кровавый","se":"car_ioann_krovavy","a":"Яманов Александр"}
+, {"sid":1155,"s":"Царь Федя","se":"car_fedya","a":"Яманов Александр"}
 ]
 
 }
@@ -10049,6 +10377,7 @@
 , {"y":1233,"bid":3430,"b":"5. Орда","sc":3,"s":"Смоленская Русь","sid":831,"se":"F","sx":"1","url":"yanov_aleksey_1233_5_orda.json"}
 , {"y":245,"bid":3775,"b":"1. Железный гром - 1","sc":3,"s":"Железный гром","sid":288,"se":"F","sx":"1","ad":"2023-02-07","url":"yanov_aleksey_245_1_zhelezny_grom_1.json"}
 , {"y":245,"bid":3776,"b":"2. Железный гром - 2","sc":3,"s":"Железный гром","sid":288,"se":"P","sx":"1","url":"yanov_aleksey_245_2_zhelezny_grom_2.json"}
+, {"y":245,"bid":5169,"b":"3. Железный гром - 3","sc":3,"s":"Железный гром","sid":288,"ad":"2025-02-28","url":"yanov_aleksey_245_3_zhelezny_grom_3.json"}
 ]
 , "series": [{"sid":247,"s":"Декабристы","se":"dekabristy","a":"Янов Алексей"}
 , {"sid":288,"s":"Железный гром","se":"zhelezny_grom","a":"Янов Алексей"}
