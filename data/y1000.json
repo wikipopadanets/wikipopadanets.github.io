@@ -119,6 +119,7 @@
 {"y":1208,"a":"Лопатин Георгий","aid":669,"bid":3485,"b":"2. Защитник Руси","sc":2,"s":"Царь Юрий","sid":979,"se":"S","sx":"1","ad":"","url":"lopatin_georgiy_1208_2_zashchitnik_rusi.json"},
 {"y":1208,"a":"Уточкин Владимир","aid":1094,"bid":3487,"b":"Божий отрок","sc":2,"s":"","sid":"","se":"P","sx":"1","ad":"","url":"utochkin_vladimir_1208_bozhiy_otrok.json"},
 {"y":1205,"a":"Колычёва Наталья","aid":550,"bid":3488,"b":"1. Всадник из будущего. Я вернусь","sc":3,"s":"Правдивые сказки","sid":701,"se":"F","sx":"2","ad":"2023-02-07","url":"kolychyova_natalya_1205_vsadnik_iz_budushchego_ya_vernus.json"},
+{"y":1203,"a":"Молчанов Всеволод","aid":"","bid":5200,"b":"Попаданец","sc":3,"s":"Попаданец","sid":"","se":"P","sx":"1","ad":"2025-02-28","url":"molchanov_vsevolod_1203_popadanets.json"},
 {"y":1202,"a":"Баренберг Александр","aid":153,"bid":3489,"b":"1. Голем из будущего. Путешественник","sc":3,"s":"Голем из будущего","sid":217,"se":"S","sx":"1","ad":"","url":"barenberg_aleksandr_1202_1_golem_iz_budushchego_puteshestvennik.json"},
 {"y":1202,"a":"Баренберг Александр","aid":153,"bid":3490,"b":"2. Голем из будущего. Конкистадор.","sc":3,"s":"Голем из будущего","sid":217,"se":"S","sx":"1","ad":"","url":"barenberg_aleksandr_1202_2_golem_iz_budushchego_konkistador_.json"},
 {"y":1202,"a":"Баренберг Александр","aid":153,"bid":3491,"b":"3. Голем из будущего. Последний поход Мессии","sc":3,"s":"Голем из будущего","sid":217,"se":"S","sx":"1","ad":"","url":"barenberg_aleksandr_1202_3_golem_iz_budushchego_posledniy_pokhod_messii.json"},

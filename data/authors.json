@@ -6295,6 +6295,10 @@
 ]
 
 }
+, {"AuthorId":1258,"AuthorName":"Молчанов Всеволод","AuthorUrl":"https://author.today/u/proforx/works","AuthorEng":"molchano_vsevolod","AuthorGender":"1","books": []
+, "series": []
+
+}
 , {"AuthorId":765,"AuthorName":"Морале А.","AuthorEng":"morale_a_","books": [{"y":1961,"bid":908,"b":"Остров Свободы 12.04.1961","sc":3,"se":"P","ad":"2023-08-13","url":"morale_a__1961_ostrov_svobody_12_04_1961.json"}
 ]
 , "series": []
