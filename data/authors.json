@@ -2605,8 +2605,8 @@
 ]
 
 }
-, {"AuthorId":332,"AuthorName":"Громов Виктор","AuthorEng":"gromov_viktor","AuthorGender":"1","books": [{"y":1978,"bid":481,"b":"1. Пункт назначения 1978","sc":3,"s":"Пункт назначения","sid":733,"se":"F","sx":"1","ad":"2023-02-07","url":"gromov_viktor_1978_1_punkt_naznacheniya_1978.json"}
-, {"y":1978,"bid":482,"b":"2. Пункт назначения 1990. Шаман","sc":3,"s":"Пункт назначения","sid":733,"se":"F","sx":"1","ad":"2023-02-07","url":"gromov_viktor_1978_2_punkt_naznacheniya_1990_shaman.json"}
+, {"AuthorId":332,"AuthorName":"Громов Виктор","AuthorEng":"gromov_viktor","AuthorGender":"1","books": [{"y":1978,"bid":481,"b":"1. Пункт назначения 1978","sc":3,"s":"Пункт назначения...","sid":734,"se":"F","sx":"1","ad":"2023-02-07","url":"gromov_viktor_1978_1_punkt_naznacheniya_1978.json"}
+, {"y":1978,"bid":482,"b":"2. Пункт назначения 1990. Шаман","sc":3,"s":"Пункт назначения...","sid":734,"se":"F","sx":"1","ad":"2023-02-07","url":"gromov_viktor_1978_2_punkt_naznacheniya_1990_shaman.json"}
 , {"y":1978,"bid":483,"b":"3. Пункт назначения 1991. Целитель","sc":3,"s":"Пункт назначения...","sid":734,"se":"P","sx":"1","ad":"2023-08-13","url":"gromov_viktor_1978_3_punkt_naznacheniya_1991_celitel.json"}
 , {"y":1973,"bid":653,"b":"Тайга","sc":3,"se":"P","sx":"1","ad":"2023-08-13","url":"gromov_viktor_1973_tayga.json"}
 ]
@@ -5424,7 +5424,7 @@
 , "series": []
 
 }
-, {"AuthorId":669,"AuthorName":"Лопатин Георгий","AuthorEng":"lopatin_georgiy","AuthorGender":"1","books": [{"y":1980,"bid":5029,"b":"Приказ простой 1 - 4","sc":3,"s":"Приказ простой","sid":1083,"se":"F","ad":"2025-02-28","url":"lopatin_georgiy_1980_1_4_prikaz_prostoy_1_4.json"}
+, {"AuthorId":669,"AuthorName":"Лопатин Георгий","AuthorEng":"lopatin_georgiy","AuthorGender":"1","books": [{"y":1980,"bid":5029,"b":"Приказ простой 1 - 4","sc":3,"s":"Приказ простой","sid":1083,"se":"F","sx":"1","ad":"2025-02-28","url":"lopatin_georgiy_1980_1_4_prikaz_prostoy_1_4.json"}
 , {"y":1916,"bid":1938,"b":"1. Экспедиционный корпус","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":"1","ad":"2023-02-07","url":"lopatin_georgiy_1916_1_ekspedicionny_korpus.json"}
 , {"y":1916,"bid":1939,"b":"2. Возвращение экспедиционного корпуса","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":"1","ad":"2023-08-13","url":"lopatin_georgiy_1916_2_vozvrashchenie_ekspedicionnogo_korpusa.json"}
 , {"y":1916,"bid":1940,"b":"3. Гражданская война","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"P","sx":"1","ad":"2023-08-13","url":"lopatin_georgiy_1916_3_grazhdanskaya_voyna.json"}
@@ -7357,8 +7357,8 @@
 }
 , {"AuthorId":885,"AuthorName":"Ра Юрий","AuthorEng":"ra_yuriy","AuthorGender":"1","books": [{"y":1985,"bid":240,"b":"1. Сортировка","sc":4,"s":"Сортировка","sid":838,"se":"F","sx":"1","ad":"2023-08-13","url":"ra_yuriy_1985_1_sortirovka.json"}
 , {"y":1985,"bid":241,"b":"2. Завод","sc":3,"s":"Сортировка","sid":838,"se":"F","sx":"1","ad":"2023-08-13","url":"ra_yuriy_1985_2_zavod.json"}
+, {"y":1981,"bid":362,"b":"1. Дневник восьмиклассника","sc":3,"s":"Дневник восьмиклассника","sid":1080,"se":"P","sx":"1","ad":"2023-10-19","url":"ra_yuriy_1981_dnevnik_vosmiklassnika.json"}
 , {"y":1981,"bid":5024,"b":"2. Дневник восьмиклассника","sc":3,"s":"Дневник восьмиклассника","sid":1080,"se":"F","ad":"2025-02-28","url":"ra_yuriy_1981_2_dnevnik_vosmiklassnika.json"}
-, {"y":1981,"bid":362,"b":"Дневник восьмиклассника","sc":3,"s":"Дневник восьмиклассника","sid":1080,"se":"P","sx":"1","ad":"2023-10-19","url":"ra_yuriy_1981_dnevnik_vosmiklassnika.json"}
 , {"y":1981,"bid":345,"b":"1-3. Цикл \"Жорж Милославский\"","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_1_3_cikl_zhorzh_miloslavskiy_.json"}
 , {"y":1981,"bid":346,"b":"4. Жорж Милославский. Бабочка под сапогом.","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_4_zhorzh_miloslavskiy_babochka_pod_sapogom_.json"}
 , {"y":1981,"bid":347,"b":"5. Жорж Милославский. Альтернатива.","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_5_zhorzh_miloslavskiy_alternativa_.json"}
@@ -9173,7 +9173,7 @@
 , {"y":1981,"bid":348,"b":"1. Книга 1","sc":4,"s":"Котёнок","sid":429,"se":"F","sx":"1","ad":"2023-12-14","url":"fedin_andrey_anatolevich_1981_1_kniga_1.json"}
 , {"y":1981,"bid":349,"b":"2. Книга 2","sc":4,"s":"Котёнок","sid":429,"se":"F","sx":"1","ad":"2024-01-31","url":"fedin_andrey_anatolevich_1981_2_kniga_2.json"}
 , {"y":1981,"bid":350,"b":"3. Книга 3","sc":4,"s":"Котёнок","sid":429,"se":"P","sx":"1","ad":"2024-01-31","url":"fedin_andrey_anatolevich_1981_3_kniga_3.json"}
-, {"y":1973,"bid":5049,"b":"Чёрный дембель. Часть 1","sc":4,"s":"Чёрный дембель","sid":1094,"se":"F","ad":"2025-02-28","url":"fedin_andrey_anatolevich_1973_chyorny_dembel_chast_1.json"}
+, {"y":1973,"bid":5049,"b":"Чёрный дембель","sc":4,"s":"Чёрный дембель","sid":1094,"se":"F","ad":"2025-02-28","url":"fedin_andrey_anatolevich_1973_chyorny_dembel_chast_1.json"}
 , {"y":1969,"bid":791,"b":"1. Комсомолец. Часть 1","sc":4,"s":"Комсомолец","sid":413,"se":"F","sx":"1","ad":"2023-02-07","url":"fedin_andrey_anatolevich_1969_1_komsomolec_chast_1.json"}
 , {"y":1969,"bid":792,"b":"2. Комсомолец. Часть 2","sc":3,"s":"Комсомолец","sid":413,"se":"F","sx":"1","ad":"2023-08-13","url":"fedin_andrey_anatolevich_1969_2_komsomolec_chast_2.json"}
 , {"y":1969,"bid":793,"b":"3. Комсомолец. Часть 3","sc":3,"s":"Комсомолец","sid":413,"se":"F","sx":"1","ad":"2023-08-13","url":"fedin_andrey_anatolevich_1969_3_komsomolec_chast_3.json"}
