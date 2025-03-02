@@ -90,7 +90,7 @@
 }
 , {"AuthorId":16,"AuthorName":"Berest Alex","AuthorEng":"berest_alex","AuthorGender":"1","books": [{"y":1983,"bid":297,"b":"1. Как я провел лето","sc":4,"s":"Шаровая молния","sid":1020,"se":"F","sx":"1","url":"berest_alex_1983_1_kak_ya_provel_leto.json"}
 , {"y":1983,"bid":298,"b":"2. Рыжий","sc":4,"s":"Шаровая молния","sid":1020,"se":"F","sx":"1","ad":"2023-02-07","url":"berest_alex_1983_2_ryzhiy.json"}
-, {"y":1983,"bid":299,"b":"3. Рыжий - 2","sc":4,"s":"Шаровая Молния","sid":1020,"se":"P","sx":"1","ad":"2023-02-07","url":"berest_alex_1983_3_ryzhiy_2.json"}
+, {"y":1983,"bid":299,"b":"3. Рыжий - 2","sc":4,"s":"Шаровая молния","sid":1020,"se":"P","sx":"1","ad":"2023-02-07","url":"berest_alex_1983_3_ryzhiy_2.json"}
 , {"y":1894,"bid":2244,"b":"Великий диктатор","sc":3,"se":"P","sx":"1","ad":"2023-08-13","url":"berest_alex_1894_velikiy_diktator.json"}
 , {"y":1894,"bid":5114,"b":"3. Великий диктатор. Книга третья","sc":3,"s":"Диктатор","sid":1135,"se":"F","ad":"2025-02-28","url":"berest_alex_1894_3_velikiy_diktator_kniga_tretya.json"}
 ]
@@ -2032,7 +2032,7 @@
 , {"y":1981,"bid":4024,"b":"4. СССР: вернуться в детство-4","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_4_sssr_vernutsya_v_detstvo_4.json"}
 , {"y":1981,"bid":4025,"b":"5. СССР: вернуться в детство-5","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_5_sssr_vernutsya_v_detstvo_5.json"}
 , {"y":1981,"bid":4026,"b":"6. СССР: вернуться в детство-6","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","sx":"3","url":"voyloshnikovy_vladimir_i_olga_1981_6_sssr_vernutsya_v_detstvo_6.json"}
-, {"y":1981,"bid":5023,"b":"СССР: вернуться в детство- 4 -6 ","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","ad":"2025-02-28","url":"voyloshnikovy_vladimir_i_olga_1981_sssr_vernutsya_v_detstvo_4_6_.json"}
+, {"y":1981,"bid":5023,"b":"СССР: вернуться в детство","sc":4,"s":"СССР: вернуться в детство","sid":859,"se":"F","ad":"2025-02-28","url":"voyloshnikovy_vladimir_i_olga_1981_sssr_vernutsya_v_detstvo_4_6_.json"}
 ]
 , "series": [{"sid":859,"s":"СССР: вернуться в детство","se":"sssr_vernutsya_v_detstvo","a":"Войлошниковы Владимир и Ольга"}
 ]
@@ -2322,23 +2322,23 @@
 ]
 
 }
-, {"AuthorId":296,"AuthorName":"Гаусс Максим, Дамиров Рафаэль","AuthorEng":"gauss_maksim_damirov_rafael","books": [{"y":1984,"bid":5015,"b":"Назад в СССР: Спасти ЧАЭС (7 томов)","sc":3,"s":"Однажды в Чернобыле…","sid":1075,"se":"F","ad":"2025-02-28","url":"gauss_maksim_damirov_rafael_1984_nazad_v_sssr_spasti_chaes_7_tomov_.json"}
-, {"y":1984,"bid":282,"b":"7. Назад в СССР: 1987 Книга 7","sc":3,"s":"Спасти ЧАЭС","sid":850,"se":"F","ad":"2023-10-19","url":"gauss_maksim_damirov_rafael_1984_7_nazad_v_sssr_1987_kniga_7.json"}
+, {"AuthorId":296,"AuthorName":"Гаусс Максим, Дамиров Рафаэль","AuthorEng":"gauss_maksim_damirov_rafael","books": [{"y":1984,"bid":282,"b":"7. Назад в СССР: 1987 Книга 7","sc":3,"s":"Однажды в Чернобыле...","sid":850,"se":"F","ad":"2023-10-19","url":"gauss_maksim_damirov_rafael_1984_7_nazad_v_sssr_1987_kniga_7.json"}
+, {"y":1984,"bid":5015,"b":"Назад в СССР: Спасти ЧАЭС (7 томов)","sc":3,"s":"Однажды в Чернобыле…","sid":1075,"se":"F","ad":"2025-02-28","url":"gauss_maksim_damirov_rafael_1984_nazad_v_sssr_spasti_chaes_7_tomov_.json"}
 ]
-, "series": [{"sid":1075,"s":"Однажды в Чернобыле…","se":"odnazhdy_v_chernobyle_","a":"Гаусс Максим, Дамиров Рафаэль"}
-, {"sid":850,"s":"Спасти ЧАЭС","se":"spasti_chaes","a":"Гаусс Максим, Дамиров Рафаэль"}
+, "series": [{"sid":850,"s":"Однажды в Чернобыле...","se":"spasti_chaes","a":"Гаусс Максим, Дамиров Рафаэль"}
+, {"sid":1075,"s":"Однажды в Чернобыле…","se":"odnazhdy_v_chernobyle_","a":"Гаусс Максим, Дамиров Рафаэль"}
 ]
 
 }
-, {"AuthorId":297,"AuthorName":"Гаусс Максим, Дамиров Рафаэль","AuthorEng":"gauss_maksim_damirov_rafael","AuthorGender":"1","books": [{"y":1984,"bid":276,"b":"1. Назад в СССР: 1984","sc":3,"s":"Спасти ЧАЭС","sid":851,"se":"F","sx":"1","ad":"2023-02-07","url":"gauss_maksim_damirov_rafael_1984_1_nazad_v_sssr_1984.json"}
-, {"y":1984,"bid":277,"b":"2. Назад в СССР: 1985","sc":3,"s":"Спасти ЧАЭС","sid":851,"se":"F","sx":"1","ad":"2023-02-07","url":"gauss_maksim_damirov_rafael_1984_2_nazad_v_sssr_1985.json"}
-, {"y":1984,"bid":278,"b":"3. Назад в СССР: 1985 Книга 3","sc":3,"s":"Спасти ЧАЭС","sid":851,"se":"F","sx":"1","ad":"2023-02-07","url":"gauss_maksim_damirov_rafael_1984_3_nazad_v_sssr_1985_kniga_3.json"}
-, {"y":1984,"bid":279,"b":"4. Назад в СССР: 1985","sc":3,"s":"Спасти ЧАЭС","sid":851,"se":"F","sx":"1","ad":"2023-08-13","url":"gauss_maksim_damirov_rafael_1984_4_nazad_v_sssr_1985.json"}
-, {"y":1984,"bid":280,"b":"5. Назад в СССР: 1986 Книга 5","sc":3,"s":"Спасти ЧАЭС","sid":851,"se":"F","sx":"1","ad":"2023-08-13","url":"gauss_maksim_damirov_rafael_1984_5_nazad_v_sssr_1986_kniga_5.json"}
-, {"y":1984,"bid":281,"b":"6. Назад в СССР: 1986 Книга 6","sc":3,"s":"Спасти ЧАЭС","sid":851,"se":"F","sx":"1","ad":"2023-08-13","url":"gauss_maksim_damirov_rafael_1984_6_nazad_v_sssr_1986_kniga_6.json"}
+, {"AuthorId":297,"AuthorName":"Гаусс Максим, Дамиров Рафаэль","AuthorEng":"gauss_maksim_damirov_rafael","AuthorGender":"1","books": [{"y":1984,"bid":276,"b":"1. Назад в СССР: 1984","sc":3,"s":"Однажды в Чернобыле...","sid":851,"se":"F","sx":"1","ad":"2023-02-07","url":"gauss_maksim_damirov_rafael_1984_1_nazad_v_sssr_1984.json"}
+, {"y":1984,"bid":277,"b":"2. Назад в СССР: 1985","sc":3,"s":"Однажды в Чернобыле...","sid":851,"se":"F","sx":"1","ad":"2023-02-07","url":"gauss_maksim_damirov_rafael_1984_2_nazad_v_sssr_1985.json"}
+, {"y":1984,"bid":278,"b":"3. Назад в СССР: 1985 Книга 3","sc":3,"s":"Однажды в Чернобыле...","sid":851,"se":"F","sx":"1","ad":"2023-02-07","url":"gauss_maksim_damirov_rafael_1984_3_nazad_v_sssr_1985_kniga_3.json"}
+, {"y":1984,"bid":279,"b":"4. Назад в СССР: 1985","sc":3,"s":"Однажды в Чернобыле...","sid":851,"se":"F","sx":"1","ad":"2023-08-13","url":"gauss_maksim_damirov_rafael_1984_4_nazad_v_sssr_1985.json"}
+, {"y":1984,"bid":280,"b":"5. Назад в СССР: 1986 Книга 5","sc":3,"s":"Однажды в Чернобыле...","sid":851,"se":"F","sx":"1","ad":"2023-08-13","url":"gauss_maksim_damirov_rafael_1984_5_nazad_v_sssr_1986_kniga_5.json"}
+, {"y":1984,"bid":281,"b":"6. Назад в СССР: 1986 Книга 6","sc":3,"s":"Однажды в Чернобыле...","sid":851,"se":"F","sx":"1","ad":"2023-08-13","url":"gauss_maksim_damirov_rafael_1984_6_nazad_v_sssr_1986_kniga_6.json"}
 , {"y":1983,"bid":300,"b":"Пожарный СССР","sc":3,"se":"P","sx":"1","ad":"2024-01-31","url":"gauss_maksim_damirov_rafael_1983_pozharny_sssr.json"}
 ]
-, "series": [{"sid":851,"s":"Спасти ЧАЭС","se":"spasti_chaes","a":"Гаусс Максим, Дамиров Рафаэль"}
+, "series": [{"sid":851,"s":"Однажды в Чернобыле...","se":"spasti_chaes","a":"Гаусс Максим, Дамиров Рафаэль"}
 ]
 
 }
@@ -3584,19 +3584,10 @@
 , "series": []
 
 }
-, {"AuthorId":451,"AuthorName":"Злотников Роман","AuthorEng":"zlotnikov_roman","books": [{"y":1971,"bid":708,"b":"3. Однажды в Америке","sc":3,"s":"Настоящее прошлое","sid":541,"se":"F","ad":"2023-02-07","url":"zlotnikov_roman_1971_3_odnazhdy_v_amerike.json"}
-, {"y":1803,"bid":5136,"b":"1 -2 Крепостной","sc":3,"s":"Император и трубочист","sid":1150,"se":"F","ad":"2025-02-28","url":"zlotnikov_roman_1803_1_2_krepostnoy.json"}
-, {"y":1380,"bid":5162,"b":"1 - 2 Князь Фёдор. Куликовская сеча","sc":3,"s":"Князь Федор (Злая Русь 2)","sid":1168,"se":"F","ad":"2025-02-28","url":"zlotnikov_roman_1380_1_2_knyaz_fyodor_kulikovskaya_secha.json"}
-]
-, "series": [{"sid":1150,"s":"Император и трубочист","se":"imperator_i_trubochist","a":"Злотников Роман"}
-, {"sid":1168,"s":"Князь Федор (Злая Русь 2)","se":"knyaz_fedor_zlaya_rus_2_","a":"Злотников Роман"}
-, {"sid":541,"s":"Настоящее прошлое","se":"nastoyashchee_proshloe","a":"Злотников Роман"}
-]
-
-}
 , {"AuthorId":452,"AuthorName":"Злотников Роман","AuthorEng":"zlotnikov_roman","AuthorGender":"1","books": [{"y":1979,"bid":422,"b":"4. Каждому по делам его","sc":3,"s":"Настоящее прошлое","sid":542,"se":"P","sx":"1","ad":"2023-08-13","url":"zlotnikov_roman_1979_4_kazhdomu_po_delam_ego.json"}
 , {"y":1971,"bid":707,"b":"1. И снова здравствуйте","sc":3,"s":"Настоящее прошлое","sid":542,"se":"F","sx":"1","url":"zlotnikov_roman_1971_1_i_snova_zdravstvuyte.json"}
-, {"y":1971,"bid":709,"b":"2. Крушение империи","sc":3,"s":"Настоящее прошлое ","sid":543,"se":"F","sx":"1","url":"zlotnikov_roman_1971_2_krushenie_imperii.json"}
+, {"y":1971,"bid":709,"b":"2. Крушение империи","sc":3,"s":"Настоящее прошлое ","sid":542,"se":"F","sx":"1","url":"zlotnikov_roman_1971_2_krushenie_imperii.json"}
+, {"y":1971,"bid":708,"b":"3. Однажды в Америке","sc":3,"s":"Настоящее прошлое","sid":542,"se":"F","ad":"2023-02-07","url":"zlotnikov_roman_1971_3_odnazhdy_v_amerike.json"}
 , {"y":1941,"bid":1355,"b":"1. Элита элит","sc":4,"s":"Элита элит","sid":1040,"se":"S","sx":"1","url":"zlotnikov_roman_1941_1_elita_elit.json"}
 , {"y":1941,"bid":1356,"b":"2. Кадры решают всё","sc":4,"s":"Элита элит","sid":1040,"se":"S","sx":"1","url":"zlotnikov_roman_1941_2_kadry_reshayut_vsyo.json"}
 , {"y":1921,"bid":1808,"b":"1. Швейцарец","sc":3,"s":"Швейцарец","sid":1023,"se":"S","sx":"1","url":"zlotnikov_roman_1921_1_shveycarec.json"}
@@ -3607,13 +3598,16 @@
 , {"y":1883,"bid":2337,"b":"2. На переломе веков","sc":4,"s":"Генерал-адмирал","sid":207,"se":"S","sx":"1","url":"zlotnikov_roman_1883_2_na_perelome_vekov.json"}
 , {"y":1883,"bid":2338,"b":"3. Взлёт","sc":4,"s":"Генерал-адмирал","sid":207,"se":"S","sx":"1","url":"zlotnikov_roman_1883_3_vzlyot.json"}
 , {"y":1883,"bid":2339,"b":"4. Война","sc":3,"s":"Генерал-адмирал","sid":207,"se":"S","sx":"1","url":"zlotnikov_roman_1883_4_voyna.json"}
+, {"y":1803,"bid":5136,"b":"1 -2 Крепостной","sc":3,"s":"Император и трубочист","sid":1150,"se":"F","ad":"2025-02-28","url":"zlotnikov_roman_1803_1_2_krepostnoy.json"}
 , {"y":1599,"bid":3071,"b":"1. Еще один шанс... ","sc":4,"s":"Царь Федор","sid":978,"se":"S","sx":"1","url":"zlotnikov_roman_1599_1_eshche_odin_shans_.json"}
 , {"y":1599,"bid":3072,"b":"2. Орел расправляет крылья","sc":4,"s":"Царь Федор","sid":978,"se":"S","sx":"1","url":"zlotnikov_roman_1599_2_orel_raspravlyaet_krylya.json"}
 , {"y":1599,"bid":3073,"b":"3. Орел взмывает ввысь","sc":4,"s":"Царь Федор","sid":978,"se":"S","sx":"1","url":"zlotnikov_roman_1599_3_orel_vzmyvaet_vvys.json"}
+, {"y":1380,"bid":5162,"b":"1 - 2 Князь Фёдор. Куликовская сеча","sc":3,"s":"Князь Федор (Злая Русь 2)","sid":1168,"se":"F","ad":"2025-02-28","url":"zlotnikov_roman_1380_1_2_knyaz_fyodor_kulikovskaya_secha.json"}
 ]
 , "series": [{"sid":207,"s":"Генерал-адмирал","se":"general_admiral","a":"Злотников Роман"}
+, {"sid":1150,"s":"Император и трубочист","se":"imperator_i_trubochist","a":"Злотников Роман"}
+, {"sid":1168,"s":"Князь Федор (Злая Русь 2)","se":"knyaz_fedor_zlaya_rus_2_","a":"Злотников Роман"}
 , {"sid":542,"s":"Настоящее прошлое","se":"nastoyashchee_proshloe","a":"Злотников Роман"}
-, {"sid":543,"s":"Настоящее прошлое ","se":"nastoyashchee_proshloe_","a":"Злотников Роман"}
 , {"sid":978,"s":"Царь Федор","se":"car_fedor","a":"Злотников Роман"}
 , {"sid":1023,"s":"Швейцарец","se":"shveycarec","a":"Злотников Роман"}
 , {"sid":1040,"s":"Элита элит","se":"elita_elit","a":"Злотников Роман"}
@@ -5430,8 +5424,7 @@
 , "series": []
 
 }
-, {"AuthorId":669,"AuthorName":"Лопатин Георгий","AuthorEng":"lopatin_georgiy","AuthorGender":"1","books": [{"y":1980,"bid":4021,"b":"Приказ простой...","sx":"1","url":"lopatin_georgiy_1980_prikaz_prostoy_.json"}
-, {"y":1980,"bid":5029,"b":"1 -4 Приказ простой 1 - 4","sc":3,"s":"Приказ простой","sid":1083,"se":"F","ad":"2025-02-28","url":"lopatin_georgiy_1980_1_4_prikaz_prostoy_1_4.json"}
+, {"AuthorId":669,"AuthorName":"Лопатин Георгий","AuthorEng":"lopatin_georgiy","AuthorGender":"1","books": [{"y":1980,"bid":5029,"b":"Приказ простой 1 - 4","sc":3,"s":"Приказ простой","sid":1083,"se":"F","ad":"2025-02-28","url":"lopatin_georgiy_1980_1_4_prikaz_prostoy_1_4.json"}
 , {"y":1916,"bid":1938,"b":"1. Экспедиционный корпус","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":"1","ad":"2023-02-07","url":"lopatin_georgiy_1916_1_ekspedicionny_korpus.json"}
 , {"y":1916,"bid":1939,"b":"2. Возвращение экспедиционного корпуса","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"F","sx":"1","ad":"2023-08-13","url":"lopatin_georgiy_1916_2_vozvrashchenie_ekspedicionnogo_korpusa.json"}
 , {"y":1916,"bid":1940,"b":"3. Гражданская война","sc":3,"s":"Экспедиционный корпус","sid":1038,"se":"P","sx":"1","ad":"2023-08-13","url":"lopatin_georgiy_1916_3_grazhdanskaya_voyna.json"}
@@ -5581,7 +5574,7 @@
 , "series": []
 
 }
-, {"AuthorId":683,"AuthorName":"Майоров Сергей","AuthorEng":"mayorov_sergey","AuthorGender":"1","books": [{"y":1982,"bid":339,"b":"Аферист","sc":3,"se":"P","sx":"1","ad":"2023-08-13","url":"mayorov_sergey_1982_aferist.json"}
+, {"AuthorId":683,"AuthorName":"Майоров Сергей","AuthorEng":"mayorov_sergey","AuthorGender":"1","books": [{"y":1982,"bid":339,"b":"Аферист","sc":3,"s":"Аферист","sid":1078,"se":"P","sx":"1","ad":"2023-08-13","url":"mayorov_sergey_1982_aferist.json"}
 , {"y":1982,"bid":5019,"b":"Аферист 2","sc":3,"s":"Аферист","sid":1078,"se":"P","ad":"2025-02-28","url":"mayorov_sergey_1982_aferist_2.json"}
 , {"y":1975,"bid":591,"b":"1. Золото Советского Союза: назад в 1975.","sc":3,"s":"Золото Советского Союз","sid":319,"se":"F","sx":"1","ad":"2023-02-07","url":"mayorov_sergey_1975_1_zoloto_sovetskogo_soyuza_nazad_v_1975_.json"}
 , {"y":1975,"bid":592,"b":"2. Золото Советского Союза: назад в 1975. Книга 2","sc":3,"s":"Золото Советского Союз","sid":319,"se":"F","sx":"1","ad":"2023-02-07","url":"mayorov_sergey_1975_2_zoloto_sovetskogo_soyuza_nazad_v_1975_kniga_2.json"}
@@ -6925,11 +6918,11 @@
 ]
 
 }
-, {"AuthorId":844,"AuthorName":"Плетнев Александр","AuthorEng":"pletnev_aleksandr","AuthorGender":"1","books": [{"y":1982,"bid":326,"b":"1. Одинокий рейд","sc":3,"s":"Проект \u0027Орлан\u0027","sid":717,"se":"S","sx":"1","url":"pletnev_aleksandr_1982_1_odinokiy_reyd.json"}
-, {"y":1982,"bid":327,"b":"2. Курс на прорыв","sc":3,"s":"Проект \u0027Орлан\u0027","sid":717,"se":"S","sx":"1","url":"pletnev_aleksandr_1982_2_kurs_na_proryv.json"}
-, {"y":1982,"bid":328,"b":"3. Фактор умолчания","sc":3,"s":"Проект \u0027Орлан\u0027","sid":717,"se":"S","sx":"1","url":"pletnev_aleksandr_1982_3_faktor_umolchaniya.json"}
-, {"y":1982,"bid":329,"b":"4. Цепкие лапы времени","sc":3,"s":"Проект “Орлан”","sid":718,"se":"F","sx":"1","url":"pletnev_aleksandr_1982_4_cepkie_lapy_vremeni.json"}
-, {"y":1982,"bid":330,"b":"5. Виражи эскалации","sc":3,"s":"Проект “Орлан”","sid":718,"se":"F","sx":"1","url":"pletnev_aleksandr_1982_5_virazhi_eskalacii.json"}
+, {"AuthorId":844,"AuthorName":"Плетнев Александр","AuthorEng":"pletnev_aleksandr","AuthorGender":"1","books": [{"y":1982,"bid":326,"b":"1. Одинокий рейд","sc":3,"s":"Проект \"Орлан\"","sid":718,"se":"S","sx":"1","url":"pletnev_aleksandr_1982_1_odinokiy_reyd.json"}
+, {"y":1982,"bid":327,"b":"2. Курс на прорыв","sc":3,"s":"Проект \"Орлан\"","sid":718,"se":"S","sx":"1","url":"pletnev_aleksandr_1982_2_kurs_na_proryv.json"}
+, {"y":1982,"bid":328,"b":"3. Фактор умолчания","sc":3,"s":"Проект \"Орлан\"","sid":718,"se":"S","sx":"1","url":"pletnev_aleksandr_1982_3_faktor_umolchaniya.json"}
+, {"y":1982,"bid":329,"b":"4. Цепкие лапы времени","sc":3,"s":"Проект \"Орлан\"","sid":718,"se":"F","sx":"1","url":"pletnev_aleksandr_1982_4_cepkie_lapy_vremeni.json"}
+, {"y":1982,"bid":330,"b":"5. Виражи эскалации","sc":3,"s":"Проект \"Орлан\"","sid":718,"se":"F","sx":"1","url":"pletnev_aleksandr_1982_5_virazhi_eskalacii.json"}
 , {"y":1904,"bid":2050,"b":"1. Эпохи холст заиндевелый - мазком багровой кисти....","sc":3,"s":"Адмиралы Арктики","sid":27,"se":"S","sx":"1","url":"pletnev_aleksandr_1904_1_epokhi_kholst_zaindevely_mazkom_bagrovoy_kisti_.json"}
 , {"y":1904,"bid":2051,"b":"2. Вскормленные льдами","sc":3,"s":"Адмиралы Арктики","sid":27,"se":"S","sx":"1","url":"pletnev_aleksandr_1904_2_vskormlennye_ldami.json"}
 , {"y":1904,"bid":2052,"b":"3. Эпоху ретушью","sc":3,"s":"Адмиралы Арктики","sid":27,"se":"F","sx":"1","url":"pletnev_aleksandr_1904_3_epokhu_retushyu.json"}
@@ -6937,8 +6930,7 @@
 , {"y":1904,"bid":2054,"b":"5. Осколки недоброго века","sc":3,"s":"Адмиралы Арктики","sid":27,"se":"P","sx":"1","ad":"2023-08-13","url":"pletnev_aleksandr_1904_5_oskolki_nedobrogo_veka.json"}
 ]
 , "series": [{"sid":27,"s":"Адмиралы Арктики","se":"admiraly_arktiki","a":"Плетнев Александр"}
-, {"sid":717,"s":"Проект \u0027Орлан\u0027","se":"proekt_orlan_","a":"Плетнев Александр"}
-, {"sid":718,"s":"Проект “Орлан”","se":"proekt_orlan_","a":"Плетнев Александр"}
+, {"sid":718,"s":"Проект \"Орлан\"","se":"proekt_orlan_","a":"Плетнев Александр"}
 ]
 
 }
@@ -7365,8 +7357,8 @@
 }
 , {"AuthorId":885,"AuthorName":"Ра Юрий","AuthorEng":"ra_yuriy","AuthorGender":"1","books": [{"y":1985,"bid":240,"b":"1. Сортировка","sc":4,"s":"Сортировка","sid":838,"se":"F","sx":"1","ad":"2023-08-13","url":"ra_yuriy_1985_1_sortirovka.json"}
 , {"y":1985,"bid":241,"b":"2. Завод","sc":3,"s":"Сортировка","sid":838,"se":"F","sx":"1","ad":"2023-08-13","url":"ra_yuriy_1985_2_zavod.json"}
-, {"y":1981,"bid":362,"b":"Дневник восьмиклассника","sc":3,"se":"P","sx":"1","ad":"2023-10-19","url":"ra_yuriy_1981_dnevnik_vosmiklassnika.json"}
 , {"y":1981,"bid":5024,"b":"2. Дневник восьмиклассника","sc":3,"s":"Дневник восьмиклассника","sid":1080,"se":"F","ad":"2025-02-28","url":"ra_yuriy_1981_2_dnevnik_vosmiklassnika.json"}
+, {"y":1981,"bid":362,"b":"Дневник восьмиклассника","sc":3,"s":"Дневник восьмиклассника","sid":1080,"se":"P","sx":"1","ad":"2023-10-19","url":"ra_yuriy_1981_dnevnik_vosmiklassnika.json"}
 , {"y":1981,"bid":345,"b":"1-3. Цикл \"Жорж Милославский\"","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_1_3_cikl_zhorzh_miloslavskiy_.json"}
 , {"y":1981,"bid":346,"b":"4. Жорж Милославский. Бабочка под сапогом.","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_4_zhorzh_miloslavskiy_babochka_pod_sapogom_.json"}
 , {"y":1981,"bid":347,"b":"5. Жорж Милославский. Альтернатива.","sc":3,"s":"Жорж Милославский","sid":292,"se":"F","sx":"1","ad":"2023-02-07","url":"ra_yuriy_1981_5_zhorzh_miloslavskiy_alternativa_.json"}
@@ -7683,7 +7675,7 @@
 , {"y":1980,"bid":403,"b":"09. У последней черты","sc":3,"s":"Цеховик","sid":986,"se":"F","sx":"1","ad":"2024-01-31","url":"romov_dmitriy_1980_09_u_posledney_cherty.json"}
 , {"y":1980,"bid":404,"b":"10. За горизонт!","sc":3,"s":"Цеховик","sid":986,"se":"F","sx":"1","ad":"2024-01-31","url":"romov_dmitriy_1980_10_za_gorizont_.json"}
 , {"y":1980,"bid":405,"b":"11. Книга 11.","sc":3,"s":"Цеховик","sid":986,"se":"P","sx":"1","ad":"2024-01-31","url":"romov_dmitriy_1980_11_kniga_11_.json"}
-, {"y":1980,"bid":5026,"b":"Цеховик (15 томов)","sc":3,"s":"Цеховик","sid":986,"se":"F","ad":"2025-02-28","url":"romov_dmitriy_1980_cekhovik_15_tomov_.json"}
+, {"y":1980,"bid":5026,"b":"Цеховик (15 томов)","sc":3,"s":"Цеховик","sid":986,"se":"F","sx":"1","ad":"2025-02-28","url":"romov_dmitriy_1980_cekhovik_15_tomov_.json"}
 ]
 , "series": [{"sid":986,"s":"Цеховик","se":"cekhovik","a":"Ромов Дмитрий"}
 ]
@@ -9221,15 +9213,10 @@
 
 }
 , {"AuthorId":1102,"AuthorName":"Федотов Александр","AuthorEng":"fedotov_aleksandr","AuthorGender":"1","books": [{"y":1982,"bid":308,"b":"1. Пионер гипнотизёр спасает СССР","sc":2,"s":"Всеобщее благо","sid":188,"se":"F","sx":"1","url":"fedotov_aleksandr_1982_1_pioner_gipnotizyor_spasaet_sssr.json"}
+, {"y":1982,"bid":309,"b":"2. Школьник гипнотизёр спасает СССР 2: Комсомол против гегемона капитализма","sc":3,"s":"Всеобщее благо","sid":188,"se":"F","url":"fedotov_aleksandr_1982_2_shkolnik_gipnotizyor_spasaet_sssr_2_komsomol_protiv_gegemona_kapitalizma.json"}
 , {"y":1970,"bid":781,"b":"Абсолютный слух (Счастливчик Майки)","sc":4,"sx":"1","url":"fedotov_aleksandr_1970_absolyutny_slukh_schastlivchik_mayki_.json"}
 ]
 , "series": [{"sid":188,"s":"Всеобщее благо","se":"vseobshchee_blago","a":"Федотов Александр"}
-]
-
-}
-, {"AuthorId":1103,"AuthorName":"Федотов Александр, ссылка pesh 20/2","AuthorEng":"fedotov_aleksandr_ssylka_pesh_20_2","books": [{"y":1982,"bid":309,"b":"2. Школьник гипнотизёр спасает СССР 2: Комсомол против гегемона капитализма","sc":3,"s":"Всеобщее благо","sid":189,"se":"F","url":"fedotov_aleksandr_ssylka_pesh_20_2_1982_2_shkolnik_gipnotizyor_spasaet_sssr_2_komsomol_protiv_gegemona_kapitalizma.json"}
-]
-, "series": [{"sid":189,"s":"Всеобщее благо","se":"vseobshchee_blago","a":"Федотов Александр, ссылка pesh 20/2"}
 ]
 
 }
