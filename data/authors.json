@@ -3586,7 +3586,7 @@
 }
 , {"AuthorId":452,"AuthorName":"Злотников Роман","AuthorEng":"zlotnikov_roman","AuthorGender":"1","books": [{"y":1979,"bid":422,"b":"4. Каждому по делам его","sc":3,"s":"Настоящее прошлое","sid":542,"se":"P","sx":"1","ad":"2023-08-13","url":"zlotnikov_roman_1979_4_kazhdomu_po_delam_ego.json"}
 , {"y":1971,"bid":707,"b":"1. И снова здравствуйте","sc":3,"s":"Настоящее прошлое","sid":542,"se":"F","sx":"1","url":"zlotnikov_roman_1971_1_i_snova_zdravstvuyte.json"}
-, {"y":1971,"bid":709,"b":"2. Крушение империи","sc":3,"s":"Настоящее прошлое ","sid":542,"se":"F","sx":"1","url":"zlotnikov_roman_1971_2_krushenie_imperii.json"}
+, {"y":1971,"bid":709,"b":"2. Крушение империи","sc":3,"s":"Настоящее прошлое","sid":542,"se":"F","sx":"1","url":"zlotnikov_roman_1971_2_krushenie_imperii.json"}
 , {"y":1971,"bid":708,"b":"3. Однажды в Америке","sc":3,"s":"Настоящее прошлое","sid":542,"se":"F","ad":"2023-02-07","url":"zlotnikov_roman_1971_3_odnazhdy_v_amerike.json"}
 , {"y":1941,"bid":1355,"b":"1. Элита элит","sc":4,"s":"Элита элит","sid":1040,"se":"S","sx":"1","url":"zlotnikov_roman_1941_1_elita_elit.json"}
 , {"y":1941,"bid":1356,"b":"2. Кадры решают всё","sc":4,"s":"Элита элит","sid":1040,"se":"S","sx":"1","url":"zlotnikov_roman_1941_2_kadry_reshayut_vsyo.json"}
