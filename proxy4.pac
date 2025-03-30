@@ -7,6 +7,7 @@ function FindProxyForURL(url, host) {
 	 || host == "chatgpt.com" || shExpMatch(host, "*.chatgpt.com")
 	 || host == "anthropic.com" || shExpMatch(host, "*.anthropic.com")
          || host == "oaistatic.com" || shExpMatch(host, "*.oaistatic.com")
+         || host == "ai.google.com" || host == "gemini.google.com"
 	 || host == "oaiusercontent.com" || shExpMatch(host, "*.oaiusercontent.com"))
         return "PROXY 185.192.246.23:443";
 
